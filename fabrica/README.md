@@ -8,7 +8,7 @@ Este manual é seguido pelas tarefas agendadas que produzem e agendam os vídeos
 1. Ler `fabrica/historico.md` (o que já foi ao ar) e `fabrica/pautas.md` (ideias).
 2. Escolher um tema que **não** esteja no histórico e escrever o roteiro.
 3. Criar `episodios/<AAAA-MM-DD>-<14h|19h>-<slug>/episodio.json` e fazer commit + push na `main`.
-4. O GitHub Actions (`.github/workflows/renderizar.yml`) narra no ElevenLabs e monta o vídeo.
+4. O GitHub Actions (`.github/workflows/renderizar.yml`) narra (voz grátis pt-BR-AntonioNeural do Microsoft Edge) e monta o vídeo.
    Ao terminar, aparecem `episodios/<pasta>/video.mp4`, `status.json` e `videos/<pasta>.mp4`.
 5. Conferir o vídeo (extrair quadros e olhar).
 6. Agendar no Metricool (TikTok) para o horário do slot.
@@ -28,8 +28,9 @@ Este manual é seguido pelas tarefas agendadas que produzem e agendam os vídeos
 - Português do Brasil, falado, frases curtas. **500 a 650 caracteres** (≈ 35–45 s de áudio).
 - Estrutura: **gancho** na primeira frase (curiosidade, erro comum, "se eu fosse...", "pare de...") →
   2 a 4 pontos numerados ou um passo a passo → **chamada final** (seguir, salvar, comentar, "parte 2").
-- Comece o roteiro com uma etiqueta de emoção do ElevenLabs, por exemplo `[animado]`. Use no máximo 2 etiquetas no texto.
-- Escreva siglas como devem ser lidas quando houver dúvida (ex.: "API" pode ficar; "SQL" escreva "SQL").
+- Não use etiquetas de emoção entre colchetes: a voz grátis não as interpreta (elas são removidas antes da narração).
+  A energia vem do texto: frases curtas, pontuação, perguntas e exclamações.
+- Siglas: escreva normalmente (HTML, CSS, API, SQL); a voz lê letra por letra.
 - Evite números com vírgula decimal e símbolos (%, R$) no roteiro falado: escreva por extenso ("vinte por cento").
 
 ## Formato do `episodio.json`
@@ -37,7 +38,7 @@ Este manual é seguido pelas tarefas agendadas que produzem e agendam os vídeos
 ```json
 {
   "titulo": "Título curto para o TikTok (até 60 caracteres)",
-  "roteiro": "[animado] Texto completo da narração...",
+  "roteiro": "Texto completo da narração...",
   "legenda": "Legenda do post com 1 frase + chamada. Sem hashtags aqui.",
   "hashtags": ["programacao", "aprenderaprogramar", "javascript", "dev", "lpwebdev"],
   "cenas": [
@@ -80,10 +81,14 @@ Python `#3776AB`, Git `#F05032`, verde LP `#3FB27F`, vermelho TikTok `#FE2C55`.
 ## Testar localmente (opcional)
 
 ```
-pip install pillow numpy scipy   # e ffmpeg instalado
-ELEVENLABS_API_KEY=... python fabrica/narrar.py episodios/<pasta>
+pip install pillow numpy scipy edge-tts   # e ffmpeg instalado
+python fabrica/narrar.py episodios/<pasta>
 python fabrica/montar.py episodios/<pasta>
 ```
+
+Para voltar a usar o ElevenLabs no futuro: adicione o secret `ELEVENLABS_API_KEY` no GitHub e coloque
+`"motor": "elevenlabs"` no episodio.json (se falhar, a fábrica cai automaticamente para a voz grátis).
+A voz grátis pode ser trocada com `"voz": "pt-BR-..."` e a velocidade com `"velocidade": "+12%"`.
 
 ## Agendamento no Metricool
 

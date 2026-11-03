@@ -1,0 +1,17 @@
+{
+  "titulo": "Variável explicada em 40 segundos",
+  "roteiro": "Você usa variável todo dia e nem sabe. Imagina uma caixa com uma etiqueta. A etiqueta é o nome, e o que tem dentro é o valor. Em JavaScript fica assim: let idade igual a dezoito. A caixa se chama idade e guarda o número dezoito. Quer mudar? É só trocar o que tem dentro: idade igual a dezenove. Agora, se o valor nunca deve mudar, usa const. Tipo o seu CPF. Primeira dica: dá um nome que explica. Nada de x, y e z. Salva esse vídeo e segue pra parte dois, que eu vou falar de condição.",
+  "legenda": "Variável é só uma caixa com etiqueta. Salva pra revisar depois!",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "logicadeprogramacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": []},
+    {"inicio": "Imagina", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "texto", "texto": "Variável = caixa com etiqueta"}]},
+    {"inicio": "A", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "chips", "itens": ["etiqueta = nome", "dentro = valor"]}]},
+    {"inicio": "Em", "fundo": 3, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "JS", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}, {"tipo": "codigo", "linhas": ["let idade = 18;"]}]},
+    {"inicio": "caixa", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "carimbo", "texto": "idade → 18", "cor": "#3FB27F"}]},
+    {"inicio": "Quer", "fundo": 0, "expressao": "surpreso", "elementos": [{"tipo": "codigo", "linhas": ["let idade = 18;", "idade = 19;", "console.log(idade); // 19"]}]},
+    {"inicio": "Agora", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "selo", "texto": "const", "cor": "#3FB27F"}, {"tipo": "codigo", "linhas": ["const cpf = '123';", "cpf = '456'; // erro!"]}]},
+    {"inicio": "Primeira", "fundo": 2, "expressao": "bravo", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "riscado", "texto": "let x, y, z"}]},
+    {"inicio": "Salva", "fundo": 3, "expressao": "oculos", "elementos": [{"tipo": "parte2", "sub": "condições: if e else"}]}
+  ]
+}
