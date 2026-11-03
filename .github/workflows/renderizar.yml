@@ -1,0 +1,59 @@
+name: Renderizar episódios
+
+# Roda quando um episodio.json novo chega em episodios/ (ou manualmente).
+# Renderiza todo episódio que ainda não tem video.mp4.
+on:
+  push:
+    branches: [main]
+    paths: ["episodios/**/episodio.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: renderizar
+  cancel-in-progress: false
+
+jobs:
+  renderizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q pillow numpy scipy
+
+      - name: Narrar e montar
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          set -u
+          for d in episodios/*/; do
+            d="${d%/}"
+            [ -f "$d/episodio.json" ] || continue
+            [ -f "$d/video.mp4" ] && continue
+            echo "::group::$d"
+            if python fabrica/narrar.py "$d" && python fabrica/montar.py "$d"; then
+              nome="$(basename "$d")"
+              mkdir -p videos && cp "$d/video.mp4" "videos/$nome.mp4"
+              echo '{"status":"ok"}' > "$d/status.json"
+            else
+              echo '{"status":"erro","log":"veja a execução do GitHub Actions"}' > "$d/status.json"
+            fi
+            echo "::endgroup::"
+          done
+
+      - name: Salvar no repositório
+        run: |
+          git config user.name "lp-webdev-bot"
+          git config user.email "lp-webdev-bot@users.noreply.github.com"
+          git add -A episodios videos
+          git diff --cached --quiet && exit 0
+          git commit -m "Renderiza episódios"
+          git pull --rebase -q origin main
+          git push
