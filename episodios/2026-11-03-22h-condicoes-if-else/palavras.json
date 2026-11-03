@@ -1,0 +1,482 @@
+[
+{
+"text": "Parte",
+"start": 0.095,
+"end": 0.452
+},
+{
+"text": "dois:",
+"start": 0.463,
+"end": 0.809
+},
+{
+"text": "condição.",
+"start": 1.032,
+"end": 1.612
+},
+{
+"text": "É",
+"start": 2.377,
+"end": 2.522
+},
+{
+"text": "assim",
+"start": 2.534,
+"end": 2.846
+},
+{
+"text": "que",
+"start": 2.857,
+"end": 2.924
+},
+{
+"text": "o",
+"start": 2.935,
+"end": 2.98
+},
+{
+"text": "código",
+"start": 2.991,
+"end": 3.382
+},
+{
+"text": "toma",
+"start": 3.393,
+"end": 3.616
+},
+{
+"text": "decisão.",
+"start": 3.627,
+"end": 4.118
+},
+{
+"text": "Pensa",
+"start": 4.888,
+"end": 5.212
+},
+{
+"text": "no",
+"start": 5.223,
+"end": 5.301
+},
+{
+"text": "semáforo.",
+"start": 5.312,
+"end": 5.882
+},
+{
+"text": "Se",
+"start": 6.652,
+"end": 6.853
+},
+{
+"text": "a",
+"start": 6.864,
+"end": 6.92
+},
+{
+"text": "luz",
+"start": 6.931,
+"end": 7.109
+},
+{
+"text": "está",
+"start": 7.121,
+"end": 7.411
+},
+{
+"text": "verde,",
+"start": 7.422,
+"end": 7.79
+},
+{
+"text": "você",
+"start": 8.08,
+"end": 8.348
+},
+{
+"text": "passa.",
+"start": 8.359,
+"end": 8.739
+},
+{
+"text": "Senão,",
+"start": 9.509,
+"end": 10.0
+},
+{
+"text": "você",
+"start": 10.301,
+"end": 10.603
+},
+{
+"text": "para.",
+"start": 10.614,
+"end": 10.926
+},
+{
+"text": "Em",
+"start": 11.696,
+"end": 11.808
+},
+{
+"text": "JavaScript",
+"start": 11.819,
+"end": 12.634
+},
+{
+"text": "isso",
+"start": 12.645,
+"end": 12.902
+},
+{
+"text": "vira",
+"start": 12.913,
+"end": 13.158
+},
+{
+"text": "if",
+"start": 13.17,
+"end": 13.583
+},
+{
+"text": "e",
+"start": 13.594,
+"end": 13.661
+},
+{
+"text": "else.",
+"start": 13.672,
+"end": 14.062
+},
+{
+"text": "If",
+"start": 14.833,
+"end": 15.234
+},
+{
+"text": "quer",
+"start": 15.246,
+"end": 15.413
+},
+{
+"text": "dizer",
+"start": 15.424,
+"end": 15.77
+},
+{
+"text": "se,",
+"start": 15.781,
+"end": 15.982
+},
+{
+"text": "else",
+"start": 16.083,
+"end": 16.373
+},
+{
+"text": "quer",
+"start": 16.384,
+"end": 16.562
+},
+{
+"text": "dizer",
+"start": 16.574,
+"end": 16.897
+},
+{
+"text": "senão.",
+"start": 16.909,
+"end": 17.299
+},
+{
+"text": "Fica",
+"start": 18.069,
+"end": 18.348
+},
+{
+"text": "assim:",
+"start": 18.359,
+"end": 18.683
+},
+{
+"text": "if,",
+"start": 18.895,
+"end": 19.308
+},
+{
+"text": "luz",
+"start": 19.565,
+"end": 19.755
+},
+{
+"text": "igual",
+"start": 19.766,
+"end": 20.089
+},
+{
+"text": "a",
+"start": 20.1,
+"end": 20.167
+},
+{
+"text": "verde,",
+"start": 20.179,
+"end": 20.525
+},
+{
+"text": "passar.",
+"start": 20.748,
+"end": 21.15
+},
+{
+"text": "Else,",
+"start": 21.92,
+"end": 22.355
+},
+{
+"text": "parar.",
+"start": 22.466,
+"end": 22.801
+},
+{
+"text": "E",
+"start": 23.571,
+"end": 23.683
+},
+{
+"text": "quando",
+"start": 23.694,
+"end": 23.984
+},
+{
+"text": "tem",
+"start": 23.996,
+"end": 24.129
+},
+{
+"text": "mais",
+"start": 24.141,
+"end": 24.386
+},
+{
+"text": "de",
+"start": 24.397,
+"end": 24.487
+},
+{
+"text": "duas",
+"start": 24.498,
+"end": 24.743
+},
+{
+"text": "opções?",
+"start": 24.754,
+"end": 25.391
+},
+{
+"text": "Usa",
+"start": 26.161,
+"end": 26.429
+},
+{
+"text": "else",
+"start": 26.44,
+"end": 26.752
+},
+{
+"text": "if:",
+"start": 26.763,
+"end": 27.232
+},
+{
+"text": "se",
+"start": 27.478,
+"end": 27.578
+},
+{
+"text": "está",
+"start": 27.589,
+"end": 27.812
+},
+{
+"text": "amarelo,",
+"start": 27.824,
+"end": 28.281
+},
+{
+"text": "diminui",
+"start": 28.504,
+"end": 28.917
+},
+{
+"text": "a",
+"start": 28.929,
+"end": 28.984
+},
+{
+"text": "velocidade.",
+"start": 28.996,
+"end": 29.654
+},
+{
+"text": "Agora,",
+"start": 30.424,
+"end": 30.859
+},
+{
+"text": "cuidado",
+"start": 31.127,
+"end": 31.596
+},
+{
+"text": "com",
+"start": 31.607,
+"end": 31.73
+},
+{
+"text": "um",
+"start": 31.741,
+"end": 31.819
+},
+{
+"text": "erro",
+"start": 31.83,
+"end": 31.998
+},
+{
+"text": "clássico:",
+"start": 32.009,
+"end": 32.511
+},
+{
+"text": "comparar",
+"start": 32.812,
+"end": 33.326
+},
+{
+"text": "com",
+"start": 33.337,
+"end": 33.493
+},
+{
+"text": "um",
+"start": 33.504,
+"end": 33.56
+},
+{
+"text": "sinal",
+"start": 33.571,
+"end": 33.895
+},
+{
+"text": "de",
+"start": 33.906,
+"end": 33.973
+},
+{
+"text": "igual",
+"start": 33.984,
+"end": 34.23
+},
+{
+"text": "só.",
+"start": 34.241,
+"end": 34.531
+},
+{
+"text": "Um",
+"start": 35.301,
+"end": 35.446
+},
+{
+"text": "igual",
+"start": 35.458,
+"end": 35.714
+},
+{
+"text": "guarda",
+"start": 35.725,
+"end": 36.06
+},
+{
+"text": "valor.",
+"start": 36.071,
+"end": 36.417
+},
+{
+"text": "Pra",
+"start": 37.188,
+"end": 37.355
+},
+{
+"text": "comparar,",
+"start": 37.366,
+"end": 37.857
+},
+{
+"text": "usa",
+"start": 38.103,
+"end": 38.382
+},
+{
+"text": "três",
+"start": 38.393,
+"end": 38.605
+},
+{
+"text": "iguais.",
+"start": 38.616,
+"end": 39.174
+},
+{
+"text": "Comenta",
+"start": 39.944,
+"end": 40.379
+},
+{
+"text": "aí",
+"start": 40.391,
+"end": 40.558
+},
+{
+"text": "qual",
+"start": 40.569,
+"end": 40.748
+},
+{
+"text": "linguagem",
+"start": 40.759,
+"end": 41.25
+},
+{
+"text": "você",
+"start": 41.261,
+"end": 41.484
+},
+{
+"text": "quer",
+"start": 41.496,
+"end": 41.708
+},
+{
+"text": "ver",
+"start": 41.719,
+"end": 41.931
+},
+{
+"text": "na",
+"start": 41.942,
+"end": 42.065
+},
+{
+"text": "parte",
+"start": 42.076,
+"end": 42.4
+},
+{
+"text": "três!",
+"start": 42.411,
+"end": 42.824
+}
+]
