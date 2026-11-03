@@ -340,6 +340,7 @@ def main(folder):
                         paste_center(frame, c, W / 2 + (j - 1) * 30, 240 + j * 160, scale=pj)
                 continue
             cx, cy = layout(len(items), k, obj)
+            cx = min(max(cx, obj.width / 2 + 10), W - obj.width / 2 - 10)  # nunca sai da tela
             paste_center(frame, obj, cx, cy + 6 * math.sin(t * 2.5 + k), scale=ease_back((lt - delay) / 0.3))
         cur = next((w for w in words if w["start"] <= t < max(w["end"], w["start"] + 0.12) + 0.05), None)
         if cur:
