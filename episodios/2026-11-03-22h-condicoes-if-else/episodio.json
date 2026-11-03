@@ -1,0 +1,17 @@
+{
+  "titulo": "If e else explicados com um semáforo",
+  "roteiro": "Parte dois: condição. É assim que o código toma decisão. Pensa no semáforo. Se a luz está verde, você passa. Senão, você para. Em JavaScript isso vira if e else. If quer dizer se, else quer dizer senão. Fica assim: if, luz igual a verde, passar. Else, parar. E quando tem mais de duas opções? Usa else if: se está amarelo, diminui a velocidade. Agora, cuidado com um erro clássico: comparar com um sinal de igual só. Um igual guarda valor. Pra comparar, usa três iguais. Comenta aí qual linguagem você quer ver na parte três!",
+  "legenda": "If e else: o jeito que o código toma decisão. Parte 2 da série de lógica!",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "logicadeprogramacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "carimbo", "texto": "PARTE 2: CONDIÇÃO", "cor": "#FE2C55"}]},
+    {"inicio": "Pensa", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "texto", "texto": "O código decide como um semáforo"}]},
+    {"inicio": "Se", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "chips", "itens": ["verde → passa", "senão → para"]}]},
+    {"inicio": "Em", "fundo": 3, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "JS", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}, {"tipo": "versus", "a": "if = se", "b": "else = senão", "cor_a": "#3FB27F", "cor_b": "#E34F26"}]},
+    {"inicio": "Fica", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "codigo", "linhas": ["if (luz === 'verde') {", "  passar();", "} else {", "  parar();", "}"]}]},
+    {"inicio": "quando", "fundo": 0, "expressao": "surpreso", "elementos": [{"tipo": "codigo", "linhas": ["if (luz === 'verde') {", "  passar();", "} else if (luz === 'amarelo') {", "  devagar();", "} else {", "  parar();", "}"]}]},
+    {"inicio": "cuidado", "fundo": 1, "expressao": "bravo", "elementos": [{"tipo": "riscado", "texto": "if (luz = 'verde')"}]},
+    {"inicio": "guarda", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "lista", "itens": ["=  guarda valor", "=== compara"]}]},
+    {"inicio": "Comenta", "fundo": 3, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "PARTE 3", "sub": "qual linguagem você quer ver?"}]}
+  ]
+}
