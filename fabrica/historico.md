@@ -3,3 +3,5 @@
 | Data | Horário | Pasta | Título | Tema |
 | --- | --- | --- | --- | --- |
 | 2026-11-02 | 14:12 | (vídeo 1, feito à mão) | Como começar a programar do zero | roteiro de estudos: lógica, HTML/CSS, JavaScript, projetos |
+| 2026-11-03 | 19:12 | 2026-11-03-teste-variavel | Variável explicada em 40 segundos | variáveis: let, const, nomes claros (série de lógica, parte 1) |
+| 2026-11-03 | 22:00 | 2026-11-03-22h-condicoes-if-else | If e else explicados com um semáforo | condições: if, else, else if, = x === (série de lógica, parte 2; prometeu parte 3 sobre qual linguagem) |
