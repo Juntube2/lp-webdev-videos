@@ -1,0 +1,512 @@
+[
+{
+"text": "Parte",
+"start": 0.095,
+"end": 0.441
+},
+{
+"text": "três:",
+"start": 0.452,
+"end": 0.775
+},
+{
+"text": "qual",
+"start": 0.988,
+"end": 1.144
+},
+{
+"text": "linguagem",
+"start": 1.155,
+"end": 1.646
+},
+{
+"text": "aprender",
+"start": 1.657,
+"end": 2.07
+},
+{
+"text": "primeiro?",
+"start": 2.081,
+"end": 2.528
+},
+{
+"text": "Python",
+"start": 3.292,
+"end": 3.616
+},
+{
+"text": "ou",
+"start": 3.627,
+"end": 3.728
+},
+{
+"text": "JavaScript?",
+"start": 3.739,
+"end": 4.576
+},
+{
+"text": "Spoiler:",
+"start": 5.346,
+"end": 5.848
+},
+{
+"text": "as",
+"start": 6.116,
+"end": 6.25
+},
+{
+"text": "duas",
+"start": 6.261,
+"end": 6.562
+},
+{
+"text": "são",
+"start": 6.574,
+"end": 6.763
+},
+{
+"text": "ótimas",
+"start": 6.775,
+"end": 7.165
+},
+{
+"text": "pra",
+"start": 7.176,
+"end": 7.31
+},
+{
+"text": "começar.",
+"start": 7.321,
+"end": 7.812
+},
+{
+"text": "Olha",
+"start": 8.583,
+"end": 8.85
+},
+{
+"text": "a",
+"start": 8.862,
+"end": 8.895
+},
+{
+"text": "diferença.",
+"start": 8.906,
+"end": 9.498
+},
+{
+"text": "Python",
+"start": 10.268,
+"end": 10.614
+},
+{
+"text": "tem",
+"start": 10.625,
+"end": 10.77
+},
+{
+"text": "uma",
+"start": 10.781,
+"end": 10.871
+},
+{
+"text": "escrita",
+"start": 10.882,
+"end": 11.25
+},
+{
+"text": "limpa,",
+"start": 11.261,
+"end": 11.607
+},
+{
+"text": "parece",
+"start": 11.83,
+"end": 12.21
+},
+{
+"text": "até",
+"start": 12.221,
+"end": 12.388
+},
+{
+"text": "inglês.",
+"start": 12.4,
+"end": 12.935
+},
+{
+"text": "É",
+"start": 13.705,
+"end": 13.806
+},
+{
+"text": "muito",
+"start": 13.817,
+"end": 14.174
+},
+{
+"text": "usado",
+"start": 14.185,
+"end": 14.487
+},
+{
+"text": "em",
+"start": 14.498,
+"end": 14.565
+},
+{
+"text": "dados,",
+"start": 14.576,
+"end": 14.989
+},
+{
+"text": "automação",
+"start": 15.089,
+"end": 15.703
+},
+{
+"text": "e",
+"start": 15.714,
+"end": 15.737
+},
+{
+"text": "inteligência",
+"start": 15.748,
+"end": 16.339
+},
+{
+"text": "artificial.",
+"start": 16.35,
+"end": 16.953
+},
+{
+"text": "JavaScript",
+"start": 17.723,
+"end": 18.504
+},
+{
+"text": "é",
+"start": 18.516,
+"end": 18.527
+},
+{
+"text": "a",
+"start": 18.538,
+"end": 18.549
+},
+{
+"text": "linguagem",
+"start": 18.56,
+"end": 19.051
+},
+{
+"text": "do",
+"start": 19.062,
+"end": 19.141
+},
+{
+"text": "navegador.",
+"start": 19.152,
+"end": 19.665
+},
+{
+"text": "Se",
+"start": 20.435,
+"end": 20.614
+},
+{
+"text": "você",
+"start": 20.625,
+"end": 20.859
+},
+{
+"text": "quer",
+"start": 20.871,
+"end": 21.038
+},
+{
+"text": "criar",
+"start": 21.049,
+"end": 21.328
+},
+{
+"text": "sites,",
+"start": 21.339,
+"end": 21.786
+},
+{
+"text": "ela",
+"start": 22.02,
+"end": 22.187
+},
+{
+"text": "é",
+"start": 22.199,
+"end": 22.266
+},
+{
+"text": "obrigatória.",
+"start": 22.277,
+"end": 22.935
+},
+{
+"text": "E",
+"start": 23.705,
+"end": 23.795
+},
+{
+"text": "você",
+"start": 23.806,
+"end": 24.096
+},
+{
+"text": "já",
+"start": 24.107,
+"end": 24.23
+},
+{
+"text": "tem",
+"start": 24.241,
+"end": 24.408
+},
+{
+"text": "onde",
+"start": 24.42,
+"end": 24.643
+},
+{
+"text": "testar:",
+"start": 24.654,
+"end": 25.033
+},
+{
+"text": "o",
+"start": 25.335,
+"end": 25.402
+},
+{
+"text": "próprio",
+"start": 25.413,
+"end": 25.781
+},
+{
+"text": "navegador.",
+"start": 25.792,
+"end": 26.317
+},
+{
+"text": "Então",
+"start": 27.087,
+"end": 27.422
+},
+{
+"text": "decide",
+"start": 27.433,
+"end": 27.812
+},
+{
+"text": "assim:",
+"start": 27.824,
+"end": 28.147
+},
+{
+"text": "quer",
+"start": 28.393,
+"end": 28.605
+},
+{
+"text": "fazer",
+"start": 28.616,
+"end": 28.895
+},
+{
+"text": "site?",
+"start": 28.906,
+"end": 29.33
+},
+{
+"text": "Vai",
+"start": 30.1,
+"end": 30.324
+},
+{
+"text": "de",
+"start": 30.335,
+"end": 30.402
+},
+{
+"text": "JavaScript.",
+"start": 30.413,
+"end": 31.283
+},
+{
+"text": "Quer",
+"start": 32.054,
+"end": 32.254
+},
+{
+"text": "dados",
+"start": 32.266,
+"end": 32.578
+},
+{
+"text": "ou",
+"start": 32.589,
+"end": 32.768
+},
+{
+"text": "automação?",
+"start": 32.779,
+"end": 33.371
+},
+{
+"text": "Vai",
+"start": 34.141,
+"end": 34.375
+},
+{
+"text": "de",
+"start": 34.386,
+"end": 34.498
+},
+{
+"text": "Python.",
+"start": 34.509,
+"end": 34.9
+},
+{
+"text": "O",
+"start": 35.67,
+"end": 35.815
+},
+{
+"text": "erro",
+"start": 35.826,
+"end": 36.016
+},
+{
+"text": "é",
+"start": 36.027,
+"end": 36.06
+},
+{
+"text": "ficar",
+"start": 36.071,
+"end": 36.417
+},
+{
+"text": "pulando",
+"start": 36.429,
+"end": 36.853
+},
+{
+"text": "de",
+"start": 36.864,
+"end": 36.987
+},
+{
+"text": "uma",
+"start": 36.998,
+"end": 37.176
+},
+{
+"text": "pra",
+"start": 37.188,
+"end": 37.366
+},
+{
+"text": "outra.",
+"start": 37.377,
+"end": 37.701
+},
+{
+"text": "Escolhe",
+"start": 38.471,
+"end": 38.906
+},
+{
+"text": "uma",
+"start": 38.917,
+"end": 39.018
+},
+{
+"text": "e",
+"start": 39.029,
+"end": 39.051
+},
+{
+"text": "fica",
+"start": 39.062,
+"end": 39.297
+},
+{
+"text": "nela",
+"start": 39.308,
+"end": 39.542
+},
+{
+"text": "pelo",
+"start": 39.554,
+"end": 39.743
+},
+{
+"text": "menos",
+"start": 39.754,
+"end": 40.089
+},
+{
+"text": "três",
+"start": 40.1,
+"end": 40.379
+},
+{
+"text": "meses.",
+"start": 40.391,
+"end": 40.871
+},
+{
+"text": "Salva",
+"start": 41.641,
+"end": 42.065
+},
+{
+"text": "esse",
+"start": 42.076,
+"end": 42.254
+},
+{
+"text": "vídeo",
+"start": 42.266,
+"end": 42.556
+},
+{
+"text": "e",
+"start": 42.567,
+"end": 42.589
+},
+{
+"text": "me",
+"start": 42.6,
+"end": 42.679
+},
+{
+"text": "segue",
+"start": 42.69,
+"end": 42.98
+},
+{
+"text": "pra",
+"start": 42.991,
+"end": 43.147
+},
+{
+"text": "série",
+"start": 43.158,
+"end": 43.471
+},
+{
+"text": "continuar!",
+"start": 43.482,
+"end": 44.107
+}
+]
