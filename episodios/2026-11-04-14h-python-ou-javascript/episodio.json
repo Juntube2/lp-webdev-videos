@@ -1,0 +1,19 @@
+{
+  "titulo": "Python ou JavaScript: qual aprender primeiro?",
+  "roteiro": "Parte três: qual linguagem aprender primeiro? Python ou JavaScript? Spoiler: as duas são ótimas pra começar. Olha a diferença. Python tem uma escrita limpa, parece até inglês. É muito usado em dados, automação e inteligência artificial. JavaScript é a linguagem do navegador. Se você quer criar sites, ela é obrigatória. E você já tem onde testar: o próprio navegador. Então decide assim: quer fazer site? Vai de JavaScript. Quer dados ou automação? Vai de Python. O erro é ficar pulando de uma pra outra. Escolhe uma e fica nela pelo menos três meses. Salva esse vídeo e me segue pra série continuar!",
+  "legenda": "Python ou JavaScript para começar? Escolha pelo seu objetivo e não fique pulando. Parte 3 da série de lógica!",
+  "hashtags": ["programacao", "aprenderaprogramar", "python", "javascript", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "carimbo", "texto": "PARTE 3: QUAL LINGUAGEM?", "cor": "#FE2C55"}]},
+    {"inicio": "Python", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "versus", "a": "Python", "b": "JavaScript", "cor_a": "#3776AB", "cor_b": "#F0DB4F"}]},
+    {"inicio": "Spoiler", "fundo": 2, "expressao": "rindo", "elementos": [{"tipo": "texto", "texto": "As duas são ótimas pra começar"}]},
+    {"inicio": "limpa", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "selo", "texto": "PY", "cor": "#3776AB"}, {"tipo": "codigo", "linhas": ["nome = 'Ana'", "if nome == 'Ana':", "    print('Oi, Ana!')"]}]},
+    {"inicio": "dados", "fundo": 4, "expressao": "surpreso", "elementos": [{"tipo": "chips", "itens": ["dados", "automação", "inteligência artificial"]}]},
+    {"inicio": "navegador", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "JS", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}, {"tipo": "navegador", "titulo": "Doceria da Bia", "url": "doceriadabia.com", "cor": "#E34F26", "botao": "Fazer pedido"}]},
+    {"inicio": "testar", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "codigo", "linhas": ["// aperte F12 > Console", "let nome = 'Ana';", "console.log('Oi, ' + nome);"]}]},
+    {"inicio": "decide", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "lista", "itens": ["Site → JavaScript", "Dados/automação → Python"], "marcar": "check"}]},
+    {"inicio": "erro", "fundo": 3, "expressao": "bravo", "elementos": [{"tipo": "riscado", "texto": "Pular de linguagem toda semana"}]},
+    {"inicio": "Escolhe", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "carimbo", "texto": "UMA LINGUAGEM, 3 MESES", "cor": "#3FB27F"}]},
+    {"inicio": "Salva", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "SEGUE AÍ", "sub": "a série continua"}]}
+  ]
+}
