@@ -1,0 +1,18 @@
+{
+  "titulo": "Laço while explicado em 40 segundos",
+  "roteiro": "O for repete um número certo de vezes. Mas e quando você não sabe quantas vezes vai precisar? Aí entra o while! Ele repete enquanto a condição for verdadeira. Imagina um jogo: enquanto a vida for maior que zero, o jogo continua. Em código: while, vida maior que zero, abre chaves, e o jogo roda. Agora atenção: lá dentro, alguma coisa tem que mudar a vida. Por exemplo, vida menos menos, que tira um a cada golpe. Se nada mudar, a condição nunca fica falsa e o laço vira infinito. Resumindo: for quando você sabe quantas vezes, while quando depende de uma condição. Salva esse vídeo e me segue para a próxima: funções!",
+  "legenda": "O while repete enquanto a condição for verdadeira. Você já sabe quando usar for e quando usar while?",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "logicadeprogramacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "for", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}, {"tipo": "texto", "texto": "Número certo de vezes"}]},
+    {"inicio": "Mas", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "texto", "texto": "E se você não sabe quantas?"}]},
+    {"inicio": "Aí", "fundo": 2, "expressao": "surpreso", "elementos": [{"tipo": "selo", "texto": "while", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}, {"tipo": "carimbo", "texto": "ENQUANTO", "cor": "#3FB27F"}]},
+    {"inicio": "Imagina", "fundo": 3, "expressao": "rindo", "elementos": [{"tipo": "chips", "itens": ["vida 3", "vida 2", "vida 1", "fim de jogo"]}]},
+    {"inicio": "Em", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "codigo", "linhas": ["let vida = 3;", "while (vida > 0) {", "  console.log(vida);", "  vida--;", "}"]}]},
+    {"inicio": "atenção", "fundo": 0, "expressao": "pensando", "elementos": [{"tipo": "lista", "itens": ["Condição", "Algo que muda a condição"], "marcar": "check"}]},
+    {"inicio": "Por", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "texto", "texto": "vida-- tira 1 a cada golpe"}]},
+    {"inicio": "Se", "fundo": 2, "expressao": "bravo", "elementos": [{"tipo": "carimbo", "texto": "LAÇO INFINITO", "cor": "#FE2C55"}]},
+    {"inicio": "Resumindo", "fundo": 3, "expressao": "oculos", "elementos": [{"tipo": "versus", "a": "for: quantas vezes", "b": "while: condição"}]},
+    {"inicio": "Salva", "fundo": 4, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "PRÓXIMO: FUNÇÕES", "sub": "salva e me segue"}]}
+  ]
+}
