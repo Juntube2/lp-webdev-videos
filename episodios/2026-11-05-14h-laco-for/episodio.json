@@ -1,0 +1,18 @@
+{
+  "titulo": "Laço for explicado em 40 segundos",
+  "roteiro": "Copiar e colar a mesma linha dez vezes? Pare com isso! O laço for faz a repetição por você. Olha só: for, abre parênteses, e três partes. Primeiro: onde começa. let i igual a zero. Segundo: até quando repete. i menor que dez. Terceiro: o passo. i mais mais, que soma um a cada volta. Dentro das chaves vai o que você quer repetir, tipo console.log de i. Resultado: os números de zero a nove na tela, com três linhas de código. Cuidado: se a condição nunca ficar falsa, o laço é infinito e trava tudo. Quer a parte dois, sobre o while? Comenta aqui e me segue!",
+  "legenda": "O laço for repete o código por você: início, condição e passo. Já tinha entendido as três partes?",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "logicadeprogramacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "Copiar e colar 10 vezes"}]},
+    {"inicio": "laço", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "selo", "texto": "for", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}, {"tipo": "texto", "texto": "Repete o código por você"}]},
+    {"inicio": "Olha", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "chips", "itens": ["início", "condição", "passo"]}]},
+    {"inicio": "Primeiro", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "codigo", "linhas": ["let i = 0"]}]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "carimbo", "texto": "i < 10", "cor": "#264DE4"}]},
+    {"inicio": "Terceiro", "fundo": 0, "expressao": "surpreso", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "texto", "texto": "i++ soma 1 a cada volta"}]},
+    {"inicio": "Dentro", "fundo": 1, "expressao": "oculos", "elementos": [{"tipo": "codigo", "linhas": ["for (let i = 0; i < 10; i++) {", "  console.log(i);", "}"]}]},
+    {"inicio": "Resultado", "fundo": 2, "expressao": "surpreso", "elementos": [{"tipo": "chips", "itens": ["0", "1", "2", "...", "9"]}]},
+    {"inicio": "Cuidado", "fundo": 3, "expressao": "bravo", "elementos": [{"tipo": "carimbo", "texto": "LAÇO INFINITO", "cor": "#FE2C55"}]},
+    {"inicio": "Quer", "fundo": 4, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "PARTE 2: WHILE", "sub": "comenta e me segue"}]}
+  ]
+}
