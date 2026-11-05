@@ -7,3 +7,4 @@
 | 2026-11-03 | 22:00 | 2026-11-03-22h-condicoes-if-else | If e else explicados com um semáforo | condições: if, else, else if, = x === (série de lógica, parte 2; prometeu parte 3 sobre qual linguagem) |
 | 2026-11-04 | 14:10 | 2026-11-04-14h-python-ou-javascript | Python ou JavaScript: qual aprender primeiro? | qual linguagem aprender primeiro: Python x JavaScript, escolher pelo objetivo, ficar 3 meses em uma (série de lógica, parte 3) |
 | 2026-11-05 | 14:00 | 2026-11-05-14h-laco-for | Laço for explicado em 40 segundos | laço for: início, condição e passo, console.log de 0 a 9, cuidado com laço infinito (série de lógica, parte 4; prometeu parte 2 sobre while) |
+| 2026-11-05 | 19:00 | 2026-11-05-19h-laco-while | Laço while explicado em 40 segundos | laço while: repete enquanto a condição for verdadeira, exemplo da vida no jogo com vida--, laço infinito, for x while (série de lógica, parte 5; prometeu próximo sobre funções) |
