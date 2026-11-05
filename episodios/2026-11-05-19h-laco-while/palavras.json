@@ -1,0 +1,567 @@
+[
+{
+"text": "O",
+"start": 0.095,
+"end": 0.184
+},
+{
+"text": "for",
+"start": 0.195,
+"end": 0.407
+},
+{
+"text": "repete",
+"start": 0.418,
+"end": 0.842
+},
+{
+"text": "um",
+"start": 0.854,
+"end": 0.909
+},
+{
+"text": "número",
+"start": 0.921,
+"end": 1.211
+},
+{
+"text": "certo",
+"start": 1.222,
+"end": 1.624
+},
+{
+"text": "de",
+"start": 1.635,
+"end": 1.724
+},
+{
+"text": "vezes.",
+"start": 1.735,
+"end": 2.182
+},
+{
+"text": "Mas",
+"start": 2.946,
+"end": 3.125
+},
+{
+"text": "e",
+"start": 3.136,
+"end": 3.237
+},
+{
+"text": "quando",
+"start": 3.248,
+"end": 3.493
+},
+{
+"text": "você",
+"start": 3.504,
+"end": 3.75
+},
+{
+"text": "não",
+"start": 3.761,
+"end": 3.906
+},
+{
+"text": "sabe",
+"start": 3.917,
+"end": 4.219
+},
+{
+"text": "quantas",
+"start": 4.23,
+"end": 4.565
+},
+{
+"text": "vezes",
+"start": 4.576,
+"end": 4.855
+},
+{
+"text": "vai",
+"start": 4.866,
+"end": 4.989
+},
+{
+"text": "precisar?",
+"start": 5.0,
+"end": 5.446
+},
+{
+"text": "Aí",
+"start": 6.216,
+"end": 6.518
+},
+{
+"text": "entra",
+"start": 6.529,
+"end": 6.808
+},
+{
+"text": "o",
+"start": 6.819,
+"end": 6.842
+},
+{
+"text": "while!",
+"start": 6.853,
+"end": 7.243
+},
+{
+"text": "Ele",
+"start": 8.013,
+"end": 8.203
+},
+{
+"text": "repete",
+"start": 8.214,
+"end": 8.672
+},
+{
+"text": "enquanto",
+"start": 8.683,
+"end": 8.94
+},
+{
+"text": "a",
+"start": 8.951,
+"end": 8.973
+},
+{
+"text": "condição",
+"start": 8.984,
+"end": 9.464
+},
+{
+"text": "for",
+"start": 9.475,
+"end": 9.699
+},
+{
+"text": "verdadeira.",
+"start": 9.71,
+"end": 10.279
+},
+{
+"text": "Imagina",
+"start": 11.049,
+"end": 11.507
+},
+{
+"text": "um",
+"start": 11.518,
+"end": 11.596
+},
+{
+"text": "jogo:",
+"start": 11.607,
+"end": 11.953
+},
+{
+"text": "enquanto",
+"start": 12.288,
+"end": 12.623
+},
+{
+"text": "a",
+"start": 12.634,
+"end": 12.69
+},
+{
+"text": "vida",
+"start": 12.701,
+"end": 12.946
+},
+{
+"text": "for",
+"start": 12.958,
+"end": 13.114
+},
+{
+"text": "maior",
+"start": 13.125,
+"end": 13.46
+},
+{
+"text": "que",
+"start": 13.471,
+"end": 13.616
+},
+{
+"text": "zero,",
+"start": 13.627,
+"end": 13.962
+},
+{
+"text": "o",
+"start": 14.174,
+"end": 14.252
+},
+{
+"text": "jogo",
+"start": 14.263,
+"end": 14.576
+},
+{
+"text": "continua.",
+"start": 14.587,
+"end": 15.112
+},
+{
+"text": "Em",
+"start": 15.882,
+"end": 15.993
+},
+{
+"text": "código:",
+"start": 16.004,
+"end": 16.406
+},
+{
+"text": "while,",
+"start": 16.73,
+"end": 17.076
+},
+{
+"text": "vida",
+"start": 17.355,
+"end": 17.589
+},
+{
+"text": "maior",
+"start": 17.6,
+"end": 17.913
+},
+{
+"text": "que",
+"start": 17.924,
+"end": 18.058
+},
+{
+"text": "zero,",
+"start": 18.069,
+"end": 18.404
+},
+{
+"text": "abre",
+"start": 18.594,
+"end": 18.839
+},
+{
+"text": "chaves,",
+"start": 18.85,
+"end": 19.33
+},
+{
+"text": "e",
+"start": 19.531,
+"end": 19.598
+},
+{
+"text": "o",
+"start": 19.609,
+"end": 19.665
+},
+{
+"text": "jogo",
+"start": 19.676,
+"end": 19.966
+},
+{
+"text": "roda.",
+"start": 19.978,
+"end": 20.324
+},
+{
+"text": "Agora",
+"start": 21.094,
+"end": 21.417
+},
+{
+"text": "atenção:",
+"start": 21.429,
+"end": 21.931
+},
+{
+"text": "lá",
+"start": 22.132,
+"end": 22.232
+},
+{
+"text": "dentro,",
+"start": 22.243,
+"end": 22.667
+},
+{
+"text": "alguma",
+"start": 22.779,
+"end": 23.125
+},
+{
+"text": "coisa",
+"start": 23.136,
+"end": 23.471
+},
+{
+"text": "tem",
+"start": 23.482,
+"end": 23.627
+},
+{
+"text": "que",
+"start": 23.638,
+"end": 23.716
+},
+{
+"text": "mudar",
+"start": 23.728,
+"end": 24.007
+},
+{
+"text": "a",
+"start": 24.018,
+"end": 24.085
+},
+{
+"text": "vida.",
+"start": 24.096,
+"end": 24.397
+},
+{
+"text": "Por",
+"start": 25.167,
+"end": 25.312
+},
+{
+"text": "exemplo,",
+"start": 25.324,
+"end": 25.725
+},
+{
+"text": "vida",
+"start": 26.004,
+"end": 26.239
+},
+{
+"text": "menos",
+"start": 26.25,
+"end": 26.54
+},
+{
+"text": "menos,",
+"start": 26.551,
+"end": 26.931
+},
+{
+"text": "que",
+"start": 27.121,
+"end": 27.243
+},
+{
+"text": "tira",
+"start": 27.254,
+"end": 27.455
+},
+{
+"text": "um",
+"start": 27.466,
+"end": 27.567
+},
+{
+"text": "a",
+"start": 27.578,
+"end": 27.623
+},
+{
+"text": "cada",
+"start": 27.634,
+"end": 27.891
+},
+{
+"text": "golpe.",
+"start": 27.902,
+"end": 28.259
+},
+{
+"text": "Se",
+"start": 29.029,
+"end": 29.241
+},
+{
+"text": "nada",
+"start": 29.252,
+"end": 29.509
+},
+{
+"text": "mudar,",
+"start": 29.52,
+"end": 29.855
+},
+{
+"text": "a",
+"start": 30.067,
+"end": 30.123
+},
+{
+"text": "condição",
+"start": 30.134,
+"end": 30.636
+},
+{
+"text": "nunca",
+"start": 30.647,
+"end": 30.982
+},
+{
+"text": "fica",
+"start": 30.993,
+"end": 31.239
+},
+{
+"text": "falsa",
+"start": 31.25,
+"end": 31.596
+},
+{
+"text": "e",
+"start": 31.607,
+"end": 31.641
+},
+{
+"text": "o",
+"start": 31.652,
+"end": 31.674
+},
+{
+"text": "laço",
+"start": 31.685,
+"end": 31.998
+},
+{
+"text": "vira",
+"start": 32.009,
+"end": 32.165
+},
+{
+"text": "infinito.",
+"start": 32.176,
+"end": 32.667
+},
+{
+"text": "Resumindo:",
+"start": 33.438,
+"end": 34.04
+},
+{
+"text": "for",
+"start": 34.286,
+"end": 34.498
+},
+{
+"text": "quando",
+"start": 34.509,
+"end": 34.721
+},
+{
+"text": "você",
+"start": 34.732,
+"end": 34.955
+},
+{
+"text": "sabe",
+"start": 34.967,
+"end": 35.234
+},
+{
+"text": "quantas",
+"start": 35.246,
+"end": 35.58
+},
+{
+"text": "vezes,",
+"start": 35.592,
+"end": 35.971
+},
+{
+"text": "while",
+"start": 36.217,
+"end": 36.596
+},
+{
+"text": "quando",
+"start": 36.607,
+"end": 36.808
+},
+{
+"text": "depende",
+"start": 36.819,
+"end": 37.221
+},
+{
+"text": "de",
+"start": 37.232,
+"end": 37.299
+},
+{
+"text": "uma",
+"start": 37.31,
+"end": 37.433
+},
+{
+"text": "condição.",
+"start": 37.444,
+"end": 37.946
+},
+{
+"text": "Salva",
+"start": 38.717,
+"end": 39.129
+},
+{
+"text": "esse",
+"start": 39.141,
+"end": 39.353
+},
+{
+"text": "vídeo",
+"start": 39.364,
+"end": 39.654
+},
+{
+"text": "e",
+"start": 39.665,
+"end": 39.687
+},
+{
+"text": "me",
+"start": 39.699,
+"end": 39.799
+},
+{
+"text": "segue",
+"start": 39.81,
+"end": 40.1
+},
+{
+"text": "para",
+"start": 40.112,
+"end": 40.257
+},
+{
+"text": "a",
+"start": 40.268,
+"end": 40.29
+},
+{
+"text": "próxima:",
+"start": 40.301,
+"end": 40.714
+},
+{
+"text": "funções!",
+"start": 40.949,
+"end": 41.685
+}
+]
