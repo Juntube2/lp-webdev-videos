@@ -1,0 +1,507 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.362
+},
+{
+"text": "copia",
+"start": 0.374,
+"end": 0.708
+},
+{
+"text": "e",
+"start": 0.72,
+"end": 0.787
+},
+{
+"text": "cola",
+"start": 0.798,
+"end": 1.032
+},
+{
+"text": "o",
+"start": 1.043,
+"end": 1.077
+},
+{
+"text": "mesmo",
+"start": 1.088,
+"end": 1.412
+},
+{
+"text": "código",
+"start": 1.423,
+"end": 1.78
+},
+{
+"text": "três",
+"start": 1.791,
+"end": 2.07
+},
+{
+"text": "vezes?",
+"start": 2.081,
+"end": 2.516
+},
+{
+"text": "Pare",
+"start": 3.281,
+"end": 3.504
+},
+{
+"text": "agora!",
+"start": 3.516,
+"end": 3.951
+},
+{
+"text": "Use",
+"start": 4.721,
+"end": 5.045
+},
+{
+"text": "uma",
+"start": 5.056,
+"end": 5.234
+},
+{
+"text": "função.",
+"start": 5.246,
+"end": 5.714
+},
+{
+"text": "Ela",
+"start": 6.484,
+"end": 6.696
+},
+{
+"text": "é",
+"start": 6.708,
+"end": 6.73
+},
+{
+"text": "um",
+"start": 6.741,
+"end": 6.83
+},
+{
+"text": "bloco",
+"start": 6.841,
+"end": 7.154
+},
+{
+"text": "de",
+"start": 7.165,
+"end": 7.254
+},
+{
+"text": "código",
+"start": 7.266,
+"end": 7.623
+},
+{
+"text": "com",
+"start": 7.634,
+"end": 7.824
+},
+{
+"text": "nome,",
+"start": 7.835,
+"end": 8.147
+},
+{
+"text": "que",
+"start": 8.337,
+"end": 8.437
+},
+{
+"text": "você",
+"start": 8.449,
+"end": 8.683
+},
+{
+"text": "chama",
+"start": 8.694,
+"end": 9.04
+},
+{
+"text": "quando",
+"start": 9.051,
+"end": 9.263
+},
+{
+"text": "quiser.",
+"start": 9.275,
+"end": 9.643
+},
+{
+"text": "Funciona",
+"start": 10.413,
+"end": 11.016
+},
+{
+"text": "assim.",
+"start": 11.027,
+"end": 11.362
+},
+{
+"text": "Primeiro:",
+"start": 12.132,
+"end": 12.545
+},
+{
+"text": "você",
+"start": 12.879,
+"end": 13.158
+},
+{
+"text": "cria",
+"start": 13.17,
+"end": 13.426
+},
+{
+"text": "com",
+"start": 13.438,
+"end": 13.549
+},
+{
+"text": "a",
+"start": 13.56,
+"end": 13.594
+},
+{
+"text": "palavra",
+"start": 13.605,
+"end": 13.962
+},
+{
+"text": "function,",
+"start": 13.973,
+"end": 14.487
+},
+{
+"text": "dá",
+"start": 14.721,
+"end": 14.833
+},
+{
+"text": "um",
+"start": 14.844,
+"end": 14.966
+},
+{
+"text": "nome,",
+"start": 14.978,
+"end": 15.301
+},
+{
+"text": "tipo",
+"start": 15.435,
+"end": 15.692
+},
+{
+"text": "saudar,",
+"start": 15.703,
+"end": 16.116
+},
+{
+"text": "e",
+"start": 16.384,
+"end": 16.44
+},
+{
+"text": "coloca",
+"start": 16.451,
+"end": 16.841
+},
+{
+"text": "o",
+"start": 16.853,
+"end": 16.886
+},
+{
+"text": "código",
+"start": 16.897,
+"end": 17.266
+},
+{
+"text": "entre",
+"start": 17.277,
+"end": 17.455
+},
+{
+"text": "chaves.",
+"start": 17.466,
+"end": 18.013
+},
+{
+"text": "Segundo:",
+"start": 18.784,
+"end": 19.342
+},
+{
+"text": "ela",
+"start": 19.576,
+"end": 19.777
+},
+{
+"text": "pode",
+"start": 19.788,
+"end": 20.022
+},
+{
+"text": "receber",
+"start": 20.034,
+"end": 20.446
+},
+{
+"text": "dados,",
+"start": 20.458,
+"end": 20.848
+},
+{
+"text": "os",
+"start": 21.049,
+"end": 21.172
+},
+{
+"text": "parâmetros.",
+"start": 21.183,
+"end": 21.83
+},
+{
+"text": "Por",
+"start": 22.6,
+"end": 22.746
+},
+{
+"text": "exemplo,",
+"start": 22.757,
+"end": 23.214
+},
+{
+"text": "o",
+"start": 23.348,
+"end": 23.415
+},
+{
+"text": "nome",
+"start": 23.426,
+"end": 23.694
+},
+{
+"text": "da",
+"start": 23.705,
+"end": 23.795
+},
+{
+"text": "pessoa.",
+"start": 23.806,
+"end": 24.275
+},
+{
+"text": "Terceiro:",
+"start": 25.045,
+"end": 25.558
+},
+{
+"text": "ela",
+"start": 25.781,
+"end": 25.982
+},
+{
+"text": "pode",
+"start": 25.993,
+"end": 26.228
+},
+{
+"text": "devolver",
+"start": 26.239,
+"end": 26.607
+},
+{
+"text": "um",
+"start": 26.618,
+"end": 26.674
+},
+{
+"text": "resultado",
+"start": 26.685,
+"end": 27.243
+},
+{
+"text": "com",
+"start": 27.254,
+"end": 27.366
+},
+{
+"text": "return.",
+"start": 27.377,
+"end": 27.913
+},
+{
+"text": "Depois",
+"start": 28.683,
+"end": 29.096
+},
+{
+"text": "é",
+"start": 29.107,
+"end": 29.208
+},
+{
+"text": "só",
+"start": 29.219,
+"end": 29.42
+},
+{
+"text": "chamar:",
+"start": 29.431,
+"end": 29.821
+},
+{
+"text": "saudar",
+"start": 30.067,
+"end": 30.446
+},
+{
+"text": "Ana,",
+"start": 30.458,
+"end": 30.714
+},
+{
+"text": "saudar",
+"start": 30.893,
+"end": 31.239
+},
+{
+"text": "Léo.",
+"start": 31.25,
+"end": 31.551
+},
+{
+"text": "Escreveu",
+"start": 32.321,
+"end": 32.824
+},
+{
+"text": "uma",
+"start": 32.835,
+"end": 32.98
+},
+{
+"text": "vez,",
+"start": 32.991,
+"end": 33.337
+},
+{
+"text": "usou",
+"start": 33.583,
+"end": 33.917
+},
+{
+"text": "quantas",
+"start": 33.929,
+"end": 34.342
+},
+{
+"text": "vezes",
+"start": 34.353,
+"end": 34.654
+},
+{
+"text": "quiser!",
+"start": 34.665,
+"end": 35.022
+},
+{
+"text": "E",
+"start": 35.792,
+"end": 35.882
+},
+{
+"text": "se",
+"start": 35.893,
+"end": 35.993
+},
+{
+"text": "precisar",
+"start": 36.004,
+"end": 36.462
+},
+{
+"text": "mudar,",
+"start": 36.473,
+"end": 36.797
+},
+{
+"text": "muda",
+"start": 37.02,
+"end": 37.277
+},
+{
+"text": "num",
+"start": 37.288,
+"end": 37.422
+},
+{
+"text": "lugar",
+"start": 37.433,
+"end": 37.746
+},
+{
+"text": "só.",
+"start": 37.757,
+"end": 38.013
+},
+{
+"text": "Salva",
+"start": 38.783,
+"end": 39.196
+},
+{
+"text": "esse",
+"start": 39.208,
+"end": 39.431
+},
+{
+"text": "vídeo",
+"start": 39.442,
+"end": 39.732
+},
+{
+"text": "e",
+"start": 39.743,
+"end": 39.766
+},
+{
+"text": "me",
+"start": 39.777,
+"end": 39.877
+},
+{
+"text": "segue",
+"start": 39.888,
+"end": 40.179
+},
+{
+"text": "para",
+"start": 40.19,
+"end": 40.335
+},
+{
+"text": "a",
+"start": 40.346,
+"end": 40.368
+},
+{
+"text": "próxima:",
+"start": 40.379,
+"end": 40.848
+},
+{
+"text": "arrays!",
+"start": 41.049,
+"end": 41.596
+}
+]
