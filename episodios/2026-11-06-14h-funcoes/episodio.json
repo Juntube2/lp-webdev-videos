@@ -1,0 +1,18 @@
+{
+  "titulo": "Função explicada em 40 segundos",
+  "roteiro": "Você copia e cola o mesmo código três vezes? Pare agora! Use uma função. Ela é um bloco de código com nome, que você chama quando quiser. Funciona assim. Primeiro: você cria com a palavra function, dá um nome, tipo saudar, e coloca o código entre chaves. Segundo: ela pode receber dados, os parâmetros. Por exemplo, o nome da pessoa. Terceiro: ela pode devolver um resultado com return. Depois é só chamar: saudar Ana, saudar Léo. Escreveu uma vez, usou quantas vezes quiser! E se precisar mudar, muda num lugar só. Salva esse vídeo e me segue para a próxima: arrays!",
+  "legenda": "Função é um bloco de código com nome que você escreve uma vez e usa quantas vezes quiser. Qual função você criaria primeiro?",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "logicadeprogramacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "Copiar e colar 3 vezes"}]},
+    {"inicio": "Pare", "fundo": 1, "expressao": "bravo", "elementos": [{"tipo": "carimbo", "texto": "PARE!", "cor": "#FE2C55"}, {"tipo": "selo", "texto": "function", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "Ela", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "texto", "texto": "Bloco de código com nome"}]},
+    {"inicio": "Primeiro", "fundo": 3, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "codigo", "linhas": ["function saudar() {", "  // seu código", "}"]}]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "chips", "itens": ["parâmetro", "nome"]}]},
+    {"inicio": "Terceiro", "fundo": 0, "expressao": "surpreso", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "codigo", "linhas": ["function saudar(nome) {", "  return 'Oi, ' + nome;", "}"]}]},
+    {"inicio": "Depois", "fundo": 1, "expressao": "rindo", "elementos": [{"tipo": "codigo", "linhas": ["saudar('Ana');", "saudar('Léo');"]}]},
+    {"inicio": "Escreveu", "fundo": 2, "expressao": "surpreso", "elementos": [{"tipo": "carimbo", "texto": "ESCREVE UMA, USA SEMPRE", "cor": "#3FB27F"}]},
+    {"inicio": "E", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "lista", "itens": ["Menos repetição", "Muda num lugar só"], "marcar": "check"}]},
+    {"inicio": "Salva", "fundo": 4, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "PRÓXIMO: ARRAYS", "sub": "salva e me segue"}]}
+  ]
+}
