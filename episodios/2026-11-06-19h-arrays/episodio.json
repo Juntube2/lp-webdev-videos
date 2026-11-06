@@ -1,0 +1,18 @@
+{
+  "titulo": "Array explicado em 40 segundos",
+  "roteiro": "Guardar dez nomes em dez variáveis? Nem pensar! Use um array. Ele é uma lista com vários valores dentro de uma variável só. Olha só. Primeiro: você cria com colchetes e separa os itens por vírgula. Tipo frutas: maçã, banana e uva. Segundo: cada item tem uma posição, o índice. E atenção: o índice começa no zero! Então a maçã é a posição zero, e a uva é a dois. Terceiro: quer saber quantos itens tem? Use ponto length. E para colocar mais um no final, use push. Junta com o laço for e você percorre a lista inteira! Salva esse vídeo e me segue para a próxima: objetos!",
+  "legenda": "Array é uma lista de valores guardada numa variável só, e o primeiro item fica na posição zero. Você já sabia disso?",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "logicadeprogramacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "10 variáveis para 10 nomes"}]},
+    {"inicio": "Nem", "fundo": 1, "expressao": "bravo", "elementos": [{"tipo": "carimbo", "texto": "USE UM ARRAY!", "cor": "#FE2C55"}, {"tipo": "selo", "texto": "[ ]", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "Ele", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "texto", "texto": "Vários valores numa variável só"}]},
+    {"inicio": "Primeiro", "fundo": 3, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "codigo", "linhas": ["const frutas = [", "  'maçã',", "  'banana',", "  'uva'", "];"]}]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "chips", "itens": ["posição", "índice"]}]},
+    {"inicio": "atenção", "fundo": 0, "expressao": "surpreso", "elementos": [{"tipo": "carimbo", "texto": "COMEÇA NO ZERO!", "cor": "#3FB27F"}, {"tipo": "codigo", "linhas": ["frutas[0] // 'maçã'", "frutas[2] // 'uva'"]}]},
+    {"inicio": "Terceiro", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "codigo", "linhas": ["frutas.length // 3"]}]},
+    {"inicio": "colocar", "fundo": 2, "expressao": "rindo", "elementos": [{"tipo": "codigo", "linhas": ["frutas.push('kiwi');", "frutas.length // 4"]}]},
+    {"inicio": "Junta", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "versus", "a": "array", "b": "laço for", "cor_a": "#F0DB4F", "cor_b": "#3FB27F"}]},
+    {"inicio": "Salva", "fundo": 4, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "PRÓXIMO: OBJETOS", "sub": "salva e me segue"}]}
+  ]
+}
