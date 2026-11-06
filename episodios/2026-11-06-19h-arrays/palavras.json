@@ -1,0 +1,547 @@
+[
+{
+"text": "Guardar",
+"start": 0.095,
+"end": 0.519
+},
+{
+"text": "dez",
+"start": 0.53,
+"end": 0.809
+},
+{
+"text": "nomes",
+"start": 0.82,
+"end": 1.121
+},
+{
+"text": "em",
+"start": 1.133,
+"end": 1.266
+},
+{
+"text": "dez",
+"start": 1.278,
+"end": 1.557
+},
+{
+"text": "variáveis?",
+"start": 1.568,
+"end": 2.249
+},
+{
+"text": "Nem",
+"start": 3.013,
+"end": 3.281
+},
+{
+"text": "pensar!",
+"start": 3.292,
+"end": 3.761
+},
+{
+"text": "Use",
+"start": 4.531,
+"end": 4.855
+},
+{
+"text": "um",
+"start": 4.866,
+"end": 5.0
+},
+{
+"text": "array.",
+"start": 5.011,
+"end": 5.279
+},
+{
+"text": "Ele",
+"start": 6.049,
+"end": 6.217
+},
+{
+"text": "é",
+"start": 6.228,
+"end": 6.25
+},
+{
+"text": "uma",
+"start": 6.261,
+"end": 6.395
+},
+{
+"text": "lista",
+"start": 6.406,
+"end": 6.708
+},
+{
+"text": "com",
+"start": 6.719,
+"end": 6.864
+},
+{
+"text": "vários",
+"start": 6.875,
+"end": 7.165
+},
+{
+"text": "valores",
+"start": 7.176,
+"end": 7.589
+},
+{
+"text": "dentro",
+"start": 7.6,
+"end": 7.902
+},
+{
+"text": "de",
+"start": 7.913,
+"end": 7.98
+},
+{
+"text": "uma",
+"start": 7.991,
+"end": 8.125
+},
+{
+"text": "variável",
+"start": 8.136,
+"end": 8.627
+},
+{
+"text": "só.",
+"start": 8.638,
+"end": 8.917
+},
+{
+"text": "Olha",
+"start": 9.688,
+"end": 10.0
+},
+{
+"text": "só.",
+"start": 10.011,
+"end": 10.324
+},
+{
+"text": "Primeiro:",
+"start": 11.094,
+"end": 11.496
+},
+{
+"text": "você",
+"start": 11.83,
+"end": 12.121
+},
+{
+"text": "cria",
+"start": 12.132,
+"end": 12.422
+},
+{
+"text": "com",
+"start": 12.433,
+"end": 12.578
+},
+{
+"text": "colchetes",
+"start": 12.589,
+"end": 13.103
+},
+{
+"text": "e",
+"start": 13.114,
+"end": 13.203
+},
+{
+"text": "separa",
+"start": 13.214,
+"end": 13.482
+},
+{
+"text": "os",
+"start": 13.493,
+"end": 13.516
+},
+{
+"text": "itens",
+"start": 13.527,
+"end": 13.895
+},
+{
+"text": "por",
+"start": 13.906,
+"end": 14.062
+},
+{
+"text": "vírgula.",
+"start": 14.074,
+"end": 14.464
+},
+{
+"text": "Tipo",
+"start": 15.234,
+"end": 15.525
+},
+{
+"text": "frutas:",
+"start": 15.536,
+"end": 16.004
+},
+{
+"text": "maçã,",
+"start": 16.194,
+"end": 16.618
+},
+{
+"text": "banana",
+"start": 16.83,
+"end": 17.277
+},
+{
+"text": "e",
+"start": 17.288,
+"end": 17.377
+},
+{
+"text": "uva.",
+"start": 17.388,
+"end": 17.667
+},
+{
+"text": "Segundo:",
+"start": 18.438,
+"end": 18.996
+},
+{
+"text": "cada",
+"start": 19.196,
+"end": 19.453
+},
+{
+"text": "item",
+"start": 19.464,
+"end": 19.699
+},
+{
+"text": "tem",
+"start": 19.71,
+"end": 19.855
+},
+{
+"text": "uma",
+"start": 19.866,
+"end": 20.045
+},
+{
+"text": "posição,",
+"start": 20.056,
+"end": 20.536
+},
+{
+"text": "o",
+"start": 20.659,
+"end": 20.748
+},
+{
+"text": "índice.",
+"start": 20.759,
+"end": 21.172
+},
+{
+"text": "E",
+"start": 21.942,
+"end": 22.054
+},
+{
+"text": "atenção:",
+"start": 22.065,
+"end": 22.623
+},
+{
+"text": "o",
+"start": 22.857,
+"end": 22.958
+},
+{
+"text": "índice",
+"start": 22.969,
+"end": 23.27
+},
+{
+"text": "começa",
+"start": 23.281,
+"end": 23.716
+},
+{
+"text": "no",
+"start": 23.728,
+"end": 23.828
+},
+{
+"text": "zero!",
+"start": 23.839,
+"end": 24.185
+},
+{
+"text": "Então",
+"start": 24.955,
+"end": 25.335
+},
+{
+"text": "a",
+"start": 25.346,
+"end": 25.368
+},
+{
+"text": "maçã",
+"start": 25.379,
+"end": 25.737
+},
+{
+"text": "é",
+"start": 25.748,
+"end": 25.837
+},
+{
+"text": "a",
+"start": 25.848,
+"end": 25.893
+},
+{
+"text": "posição",
+"start": 25.904,
+"end": 26.362
+},
+{
+"text": "zero,",
+"start": 26.373,
+"end": 26.719
+},
+{
+"text": "e",
+"start": 26.964,
+"end": 27.054
+},
+{
+"text": "a",
+"start": 27.065,
+"end": 27.176
+},
+{
+"text": "uva",
+"start": 27.188,
+"end": 27.422
+},
+{
+"text": "é",
+"start": 27.433,
+"end": 27.522
+},
+{
+"text": "a",
+"start": 27.534,
+"end": 27.578
+},
+{
+"text": "dois.",
+"start": 27.589,
+"end": 27.958
+},
+{
+"text": "Terceiro:",
+"start": 28.728,
+"end": 29.208
+},
+{
+"text": "quer",
+"start": 29.498,
+"end": 29.699
+},
+{
+"text": "saber",
+"start": 29.71,
+"end": 30.045
+},
+{
+"text": "quantos",
+"start": 30.056,
+"end": 30.312
+},
+{
+"text": "itens",
+"start": 30.324,
+"end": 30.703
+},
+{
+"text": "tem?",
+"start": 30.714,
+"end": 30.96
+},
+{
+"text": "Use",
+"start": 31.73,
+"end": 32.031
+},
+{
+"text": "ponto",
+"start": 32.042,
+"end": 32.355
+},
+{
+"text": "length.",
+"start": 32.366,
+"end": 32.69
+},
+{
+"text": "E",
+"start": 33.46,
+"end": 33.56
+},
+{
+"text": "para",
+"start": 33.571,
+"end": 33.75
+},
+{
+"text": "colocar",
+"start": 33.761,
+"end": 34.185
+},
+{
+"text": "mais",
+"start": 34.196,
+"end": 34.397
+},
+{
+"text": "um",
+"start": 34.408,
+"end": 34.598
+},
+{
+"text": "no",
+"start": 34.609,
+"end": 34.688
+},
+{
+"text": "final,",
+"start": 34.699,
+"end": 35.078
+},
+{
+"text": "use",
+"start": 35.246,
+"end": 35.491
+},
+{
+"text": "push.",
+"start": 35.502,
+"end": 35.893
+},
+{
+"text": "Junta",
+"start": 36.663,
+"end": 37.009
+},
+{
+"text": "com",
+"start": 37.02,
+"end": 37.165
+},
+{
+"text": "o",
+"start": 37.176,
+"end": 37.199
+},
+{
+"text": "laço",
+"start": 37.21,
+"end": 37.567
+},
+{
+"text": "for",
+"start": 37.578,
+"end": 37.824
+},
+{
+"text": "e",
+"start": 37.835,
+"end": 37.868
+},
+{
+"text": "você",
+"start": 37.879,
+"end": 38.103
+},
+{
+"text": "percorre",
+"start": 38.114,
+"end": 38.583
+},
+{
+"text": "a",
+"start": 38.594,
+"end": 38.627
+},
+{
+"text": "lista",
+"start": 38.638,
+"end": 38.973
+},
+{
+"text": "inteira!",
+"start": 38.984,
+"end": 39.397
+},
+{
+"text": "Salva",
+"start": 40.167,
+"end": 40.58
+},
+{
+"text": "esse",
+"start": 40.592,
+"end": 40.826
+},
+{
+"text": "vídeo",
+"start": 40.837,
+"end": 41.138
+},
+{
+"text": "e",
+"start": 41.15,
+"end": 41.172
+},
+{
+"text": "me",
+"start": 41.183,
+"end": 41.272
+},
+{
+"text": "segue",
+"start": 41.283,
+"end": 41.585
+},
+{
+"text": "para",
+"start": 41.596,
+"end": 41.73
+},
+{
+"text": "a",
+"start": 41.741,
+"end": 41.763
+},
+{
+"text": "próxima:",
+"start": 41.775,
+"end": 42.187
+},
+{
+"text": "objetos!",
+"start": 42.433,
+"end": 43.17
+}
+]
