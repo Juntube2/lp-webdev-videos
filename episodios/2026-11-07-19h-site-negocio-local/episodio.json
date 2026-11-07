@@ -1,0 +1,19 @@
+{
+  "titulo": "O que todo site de negócio local precisa ter",
+  "roteiro": "Seu negócio tem site, mas ninguém liga? Talvez falte o básico. Se eu fosse montar o site de uma padaria do bairro, colocaria quatro coisas. Primeiro: logo no topo, o que você faz e onde fica. Sem mistério. Segundo: um botão de WhatsApp bem visível. O cliente quer falar agora, não caçar o número. Terceiro: horário de funcionamento e mapa. Nada pior que chegar e dar com a porta fechada! Quarto: fotos reais e avaliações de clientes. Isso passa confiança. E tudo tem que funcionar bem no celular. Quer que eu mostre como fazer esse site em HTML? Comenta aqui e me segue!",
+  "legenda": "Quatro coisas que não podem faltar no site de um negócio do bairro. Qual delas o site que você conhece esqueceu?",
+  "hashtags": ["sites", "negociolocal", "webdesign", "programacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "texto", "texto": "Tem site... e ninguém liga?"}]},
+    {"inicio": "Talvez", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "carimbo", "texto": "FALTA O BÁSICO", "cor": "#FE2C55"}]},
+    {"inicio": "Se", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "navegador", "titulo": "Padaria Trigo Bom", "url": "padariatrigobom.com.br", "cor": "#3FB27F", "botao": "Peça já"}]},
+    {"inicio": "Primeiro", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "chips", "itens": ["o que faz", "onde fica"]}]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "surpreso", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "selo", "texto": "WhatsApp", "cor": "#3FB27F"}]},
+    {"inicio": "cliente", "fundo": 0, "expressao": "rindo", "elementos": [{"tipo": "riscado", "texto": "caçar o número"}]},
+    {"inicio": "Terceiro", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "lista", "itens": ["horário", "mapa"], "marcar": "check"}]},
+    {"inicio": "Nada", "fundo": 2, "expressao": "bravo", "elementos": [{"tipo": "carimbo", "texto": "PORTA FECHADA!", "cor": "#FE2C55"}]},
+    {"inicio": "Quarto", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "4"}, {"tipo": "chips", "itens": ["fotos reais", "avaliações", "confiança"]}]},
+    {"inicio": "tudo", "fundo": 4, "expressao": "surpreso", "elementos": [{"tipo": "versus", "a": "computador", "b": "celular", "cor_a": "#264DE4", "cor_b": "#3FB27F"}]},
+    {"inicio": "Quer", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "HTML", "cor": "#E34F26"}, {"tipo": "parte2", "texto": "QUER VER EM HTML?", "sub": "comenta e me segue"}]}
+  ]
+}
