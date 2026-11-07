@@ -1,0 +1,537 @@
+[
+{
+"text": "Guardar",
+"start": 0.095,
+"end": 0.508
+},
+{
+"text": "nome,",
+"start": 0.519,
+"end": 0.831
+},
+{
+"text": "vida",
+"start": 1.11,
+"end": 1.345
+},
+{
+"text": "e",
+"start": 1.356,
+"end": 1.4
+},
+{
+"text": "nível",
+"start": 1.412,
+"end": 1.713
+},
+{
+"text": "de",
+"start": 1.724,
+"end": 1.78
+},
+{
+"text": "um",
+"start": 1.791,
+"end": 1.847
+},
+{
+"text": "personagem",
+"start": 1.858,
+"end": 2.405
+},
+{
+"text": "em",
+"start": 2.416,
+"end": 2.483
+},
+{
+"text": "três",
+"start": 2.494,
+"end": 2.751
+},
+{
+"text": "variáveis",
+"start": 2.762,
+"end": 3.298
+},
+{
+"text": "soltas?",
+"start": 3.309,
+"end": 3.766
+},
+{
+"text": "Bagunça!",
+"start": 4.531,
+"end": 5.257
+},
+{
+"text": "Use",
+"start": 6.027,
+"end": 6.362
+},
+{
+"text": "um",
+"start": 6.373,
+"end": 6.473
+},
+{
+"text": "objeto.",
+"start": 6.484,
+"end": 7.009
+},
+{
+"text": "Ele",
+"start": 7.779,
+"end": 7.958
+},
+{
+"text": "é",
+"start": 7.969,
+"end": 8.002
+},
+{
+"text": "uma",
+"start": 8.013,
+"end": 8.181
+},
+{
+"text": "ficha:",
+"start": 8.192,
+"end": 8.594
+},
+{
+"text": "cada",
+"start": 8.75,
+"end": 8.951
+},
+{
+"text": "informação",
+"start": 8.962,
+"end": 9.576
+},
+{
+"text": "tem",
+"start": 9.587,
+"end": 9.71
+},
+{
+"text": "um",
+"start": 9.721,
+"end": 9.821
+},
+{
+"text": "nome.",
+"start": 9.833,
+"end": 10.19
+},
+{
+"text": "Olha",
+"start": 10.96,
+"end": 11.272
+},
+{
+"text": "só.",
+"start": 11.284,
+"end": 11.596
+},
+{
+"text": "Primeiro:",
+"start": 12.366,
+"end": 12.79
+},
+{
+"text": "você",
+"start": 13.091,
+"end": 13.37
+},
+{
+"text": "cria",
+"start": 13.382,
+"end": 13.638
+},
+{
+"text": "com",
+"start": 13.65,
+"end": 13.795
+},
+{
+"text": "chaves.",
+"start": 13.806,
+"end": 14.341
+},
+{
+"text": "Dentro,",
+"start": 15.112,
+"end": 15.513
+},
+{
+"text": "cada",
+"start": 15.703,
+"end": 15.938
+},
+{
+"text": "linha",
+"start": 15.949,
+"end": 16.205
+},
+{
+"text": "é",
+"start": 16.216,
+"end": 16.25
+},
+{
+"text": "uma",
+"start": 16.261,
+"end": 16.406
+},
+{
+"text": "chave,",
+"start": 16.417,
+"end": 16.808
+},
+{
+"text": "dois",
+"start": 17.009,
+"end": 17.266
+},
+{
+"text": "pontos",
+"start": 17.277,
+"end": 17.612
+},
+{
+"text": "e",
+"start": 17.623,
+"end": 17.734
+},
+{
+"text": "o",
+"start": 17.746,
+"end": 17.779
+},
+{
+"text": "valor.",
+"start": 17.79,
+"end": 18.136
+},
+{
+"text": "Tipo",
+"start": 18.906,
+"end": 19.196
+},
+{
+"text": "nome:",
+"start": 19.208,
+"end": 19.554
+},
+{
+"text": "Luna,",
+"start": 19.766,
+"end": 20.089
+},
+{
+"text": "vida:",
+"start": 20.312,
+"end": 20.636
+},
+{
+"text": "cem,",
+"start": 20.826,
+"end": 21.15
+},
+{
+"text": "nível:",
+"start": 21.317,
+"end": 21.719
+},
+{
+"text": "três.",
+"start": 21.942,
+"end": 22.355
+},
+{
+"text": "Segundo:",
+"start": 23.125,
+"end": 23.683
+},
+{
+"text": "para",
+"start": 24.018,
+"end": 24.196
+},
+{
+"text": "ler,",
+"start": 24.208,
+"end": 24.464
+},
+{
+"text": "use",
+"start": 24.688,
+"end": 24.933
+},
+{
+"text": "o",
+"start": 24.944,
+"end": 25.0
+},
+{
+"text": "ponto.",
+"start": 25.011,
+"end": 25.346
+},
+{
+"text": "Herói",
+"start": 26.116,
+"end": 26.429
+},
+{
+"text": "ponto",
+"start": 26.44,
+"end": 26.752
+},
+{
+"text": "nome",
+"start": 26.763,
+"end": 26.998
+},
+{
+"text": "devolve",
+"start": 27.009,
+"end": 27.422
+},
+{
+"text": "Luna.",
+"start": 27.433,
+"end": 27.779
+},
+{
+"text": "Terceiro:",
+"start": 28.549,
+"end": 29.04
+},
+{
+"text": "para",
+"start": 29.375,
+"end": 29.531
+},
+{
+"text": "mudar,",
+"start": 29.542,
+"end": 29.888
+},
+{
+"text": "é",
+"start": 30.1,
+"end": 30.156
+},
+{
+"text": "só",
+"start": 30.167,
+"end": 30.413
+},
+{
+"text": "atribuir.",
+"start": 30.424,
+"end": 30.926
+},
+{
+"text": "Tomou",
+"start": 31.696,
+"end": 32.009
+},
+{
+"text": "dano?",
+"start": 32.02,
+"end": 32.377
+},
+{
+"text": "Herói",
+"start": 33.147,
+"end": 33.46
+},
+{
+"text": "ponto",
+"start": 33.471,
+"end": 33.806
+},
+{
+"text": "vida",
+"start": 33.817,
+"end": 34.051
+},
+{
+"text": "recebe",
+"start": 34.062,
+"end": 34.431
+},
+{
+"text": "oitenta.",
+"start": 34.442,
+"end": 34.9
+},
+{
+"text": "E",
+"start": 35.67,
+"end": 35.781
+},
+{
+"text": "quer",
+"start": 35.792,
+"end": 35.993
+},
+{
+"text": "acrescentar",
+"start": 36.004,
+"end": 36.562
+},
+{
+"text": "uma",
+"start": 36.574,
+"end": 36.663
+},
+{
+"text": "informação",
+"start": 36.674,
+"end": 37.243
+},
+{
+"text": "nova?",
+"start": 37.254,
+"end": 37.623
+},
+{
+"text": "Atribui",
+"start": 38.393,
+"end": 38.862
+},
+{
+"text": "uma",
+"start": 38.873,
+"end": 39.007
+},
+{
+"text": "chave",
+"start": 39.018,
+"end": 39.408
+},
+{
+"text": "que",
+"start": 39.42,
+"end": 39.52
+},
+{
+"text": "ainda",
+"start": 39.531,
+"end": 39.777
+},
+{
+"text": "não",
+"start": 39.788,
+"end": 40.056
+},
+{
+"text": "existe",
+"start": 40.067,
+"end": 40.446
+},
+{
+"text": "e",
+"start": 40.458,
+"end": 40.48
+},
+{
+"text": "pronto!",
+"start": 40.491,
+"end": 40.893
+},
+{
+"text": "Array",
+"start": 41.663,
+"end": 41.942
+},
+{
+"text": "é",
+"start": 41.953,
+"end": 41.998
+},
+{
+"text": "lista",
+"start": 42.009,
+"end": 42.355
+},
+{
+"text": "em",
+"start": 42.366,
+"end": 42.444
+},
+{
+"text": "ordem.",
+"start": 42.455,
+"end": 42.835
+},
+{
+"text": "Objeto",
+"start": 43.605,
+"end": 44.174
+},
+{
+"text": "é",
+"start": 44.185,
+"end": 44.219
+},
+{
+"text": "ficha",
+"start": 44.23,
+"end": 44.565
+},
+{
+"text": "com",
+"start": 44.576,
+"end": 44.766
+},
+{
+"text": "nome.",
+"start": 44.777,
+"end": 45.1
+},
+{
+"text": "Salva",
+"start": 45.871,
+"end": 46.295
+},
+{
+"text": "esse",
+"start": 46.306,
+"end": 46.507
+},
+{
+"text": "vídeo",
+"start": 46.518,
+"end": 46.83
+},
+{
+"text": "e",
+"start": 46.842,
+"end": 46.864
+},
+{
+"text": "me",
+"start": 46.875,
+"end": 46.975
+},
+{
+"text": "segue",
+"start": 46.987,
+"end": 47.31
+},
+{
+"text": "para",
+"start": 47.321,
+"end": 47.511
+},
+{
+"text": "mais!",
+"start": 47.522,
+"end": 47.969
+}
+]
