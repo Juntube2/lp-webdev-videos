@@ -1,0 +1,517 @@
+[
+{
+"text": "Seu",
+"start": 0.095,
+"end": 0.329
+},
+{
+"text": "negócio",
+"start": 0.34,
+"end": 0.764
+},
+{
+"text": "tem",
+"start": 0.775,
+"end": 0.921
+},
+{
+"text": "site,",
+"start": 0.932,
+"end": 1.333
+},
+{
+"text": "mas",
+"start": 1.613,
+"end": 1.802
+},
+{
+"text": "ninguém",
+"start": 1.813,
+"end": 2.115
+},
+{
+"text": "liga?",
+"start": 2.126,
+"end": 2.438
+},
+{
+"text": "Talvez",
+"start": 3.203,
+"end": 3.627
+},
+{
+"text": "falte",
+"start": 3.638,
+"end": 3.895
+},
+{
+"text": "o",
+"start": 3.906,
+"end": 3.94
+},
+{
+"text": "básico.",
+"start": 3.951,
+"end": 4.386
+},
+{
+"text": "Se",
+"start": 5.156,
+"end": 5.312
+},
+{
+"text": "eu",
+"start": 5.324,
+"end": 5.435
+},
+{
+"text": "fosse",
+"start": 5.446,
+"end": 5.759
+},
+{
+"text": "montar",
+"start": 5.77,
+"end": 6.105
+},
+{
+"text": "o",
+"start": 6.116,
+"end": 6.15
+},
+{
+"text": "site",
+"start": 6.161,
+"end": 6.529
+},
+{
+"text": "de",
+"start": 6.54,
+"end": 6.596
+},
+{
+"text": "uma",
+"start": 6.607,
+"end": 6.741
+},
+{
+"text": "padaria",
+"start": 6.752,
+"end": 7.132
+},
+{
+"text": "do",
+"start": 7.143,
+"end": 7.243
+},
+{
+"text": "bairro,",
+"start": 7.254,
+"end": 7.634
+},
+{
+"text": "colocaria",
+"start": 7.846,
+"end": 8.382
+},
+{
+"text": "quatro",
+"start": 8.393,
+"end": 8.772
+},
+{
+"text": "coisas.",
+"start": 8.784,
+"end": 9.297
+},
+{
+"text": "Primeiro:",
+"start": 10.067,
+"end": 10.491
+},
+{
+"text": "logo",
+"start": 10.748,
+"end": 10.993
+},
+{
+"text": "no",
+"start": 11.004,
+"end": 11.116
+},
+{
+"text": "topo,",
+"start": 11.127,
+"end": 11.473
+},
+{
+"text": "o",
+"start": 11.73,
+"end": 11.797
+},
+{
+"text": "que",
+"start": 11.808,
+"end": 11.931
+},
+{
+"text": "você",
+"start": 11.942,
+"end": 12.187
+},
+{
+"text": "faz",
+"start": 12.199,
+"end": 12.433
+},
+{
+"text": "e",
+"start": 12.444,
+"end": 12.578
+},
+{
+"text": "onde",
+"start": 12.589,
+"end": 12.846
+},
+{
+"text": "fica.",
+"start": 12.857,
+"end": 13.192
+},
+{
+"text": "Sem",
+"start": 13.962,
+"end": 14.23
+},
+{
+"text": "mistério.",
+"start": 14.241,
+"end": 14.777
+},
+{
+"text": "Segundo:",
+"start": 15.547,
+"end": 16.138
+},
+{
+"text": "um",
+"start": 16.35,
+"end": 16.462
+},
+{
+"text": "botão",
+"start": 16.473,
+"end": 16.808
+},
+{
+"text": "de",
+"start": 16.819,
+"end": 16.897
+},
+{
+"text": "WhatsApp",
+"start": 16.909,
+"end": 17.478
+},
+{
+"text": "bem",
+"start": 17.489,
+"end": 17.723
+},
+{
+"text": "visível.",
+"start": 17.734,
+"end": 18.192
+},
+{
+"text": "O",
+"start": 18.962,
+"end": 19.051
+},
+{
+"text": "cliente",
+"start": 19.062,
+"end": 19.487
+},
+{
+"text": "quer",
+"start": 19.498,
+"end": 19.676
+},
+{
+"text": "falar",
+"start": 19.688,
+"end": 19.933
+},
+{
+"text": "agora,",
+"start": 19.944,
+"end": 20.279
+},
+{
+"text": "não",
+"start": 20.469,
+"end": 20.67
+},
+{
+"text": "caçar",
+"start": 20.681,
+"end": 21.06
+},
+{
+"text": "o",
+"start": 21.071,
+"end": 21.105
+},
+{
+"text": "número.",
+"start": 21.116,
+"end": 21.496
+},
+{
+"text": "Terceiro:",
+"start": 22.266,
+"end": 22.779
+},
+{
+"text": "horário",
+"start": 23.025,
+"end": 23.348
+},
+{
+"text": "de",
+"start": 23.359,
+"end": 23.449
+},
+{
+"text": "funcionamento",
+"start": 23.46,
+"end": 24.163
+},
+{
+"text": "e",
+"start": 24.174,
+"end": 24.208
+},
+{
+"text": "mapa.",
+"start": 24.219,
+"end": 24.565
+},
+{
+"text": "Nada",
+"start": 25.335,
+"end": 25.658
+},
+{
+"text": "pior",
+"start": 25.67,
+"end": 25.96
+},
+{
+"text": "que",
+"start": 25.971,
+"end": 26.049
+},
+{
+"text": "chegar",
+"start": 26.06,
+"end": 26.362
+},
+{
+"text": "e",
+"start": 26.373,
+"end": 26.406
+},
+{
+"text": "dar",
+"start": 26.417,
+"end": 26.585
+},
+{
+"text": "com",
+"start": 26.596,
+"end": 26.741
+},
+{
+"text": "a",
+"start": 26.752,
+"end": 26.808
+},
+{
+"text": "porta",
+"start": 26.819,
+"end": 27.132
+},
+{
+"text": "fechada!",
+"start": 27.143,
+"end": 27.679
+},
+{
+"text": "Quarto:",
+"start": 28.449,
+"end": 28.806
+},
+{
+"text": "fotos",
+"start": 29.029,
+"end": 29.386
+},
+{
+"text": "reais",
+"start": 29.397,
+"end": 29.71
+},
+{
+"text": "e",
+"start": 29.721,
+"end": 29.821
+},
+{
+"text": "avaliações",
+"start": 29.833,
+"end": 30.391
+},
+{
+"text": "de",
+"start": 30.402,
+"end": 30.491
+},
+{
+"text": "clientes.",
+"start": 30.502,
+"end": 31.083
+},
+{
+"text": "Isso",
+"start": 31.853,
+"end": 32.165
+},
+{
+"text": "passa",
+"start": 32.176,
+"end": 32.489
+},
+{
+"text": "confiança.",
+"start": 32.5,
+"end": 33.136
+},
+{
+"text": "E",
+"start": 33.906,
+"end": 34.018
+},
+{
+"text": "tudo",
+"start": 34.029,
+"end": 34.319
+},
+{
+"text": "tem",
+"start": 34.33,
+"end": 34.464
+},
+{
+"text": "que",
+"start": 34.475,
+"end": 34.565
+},
+{
+"text": "funcionar",
+"start": 34.576,
+"end": 35.067
+},
+{
+"text": "bem",
+"start": 35.078,
+"end": 35.279
+},
+{
+"text": "no",
+"start": 35.29,
+"end": 35.379
+},
+{
+"text": "celular.",
+"start": 35.391,
+"end": 35.871
+},
+{
+"text": "Quer",
+"start": 36.641,
+"end": 36.864
+},
+{
+"text": "que",
+"start": 36.875,
+"end": 36.942
+},
+{
+"text": "eu",
+"start": 36.953,
+"end": 37.02
+},
+{
+"text": "mostre",
+"start": 37.031,
+"end": 37.411
+},
+{
+"text": "como",
+"start": 37.422,
+"end": 37.623
+},
+{
+"text": "fazer",
+"start": 37.634,
+"end": 37.902
+},
+{
+"text": "esse",
+"start": 37.913,
+"end": 38.08
+},
+{
+"text": "site",
+"start": 38.092,
+"end": 38.449
+},
+{
+"text": "em",
+"start": 38.46,
+"end": 38.516
+},
+{
+"text": "HTML?",
+"start": 38.527,
+"end": 39.319
+},
+{
+"text": "Comenta",
+"start": 40.089,
+"end": 40.569
+},
+{
+"text": "aqui",
+"start": 40.58,
+"end": 40.748
+},
+{
+"text": "e",
+"start": 40.759,
+"end": 40.815
+},
+{
+"text": "me",
+"start": 40.826,
+"end": 40.938
+},
+{
+"text": "segue!",
+"start": 40.949,
+"end": 41.395
+}
+]
