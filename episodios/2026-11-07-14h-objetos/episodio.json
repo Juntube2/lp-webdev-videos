@@ -1,0 +1,19 @@
+{
+  "titulo": "Objeto em JavaScript explicado em 40 segundos",
+  "roteiro": "Guardar nome, vida e nível de um personagem em três variáveis soltas? Bagunça! Use um objeto. Ele é uma ficha: cada informação tem um nome. Olha só. Primeiro: você cria com chaves. Dentro, cada linha é uma chave, dois pontos e o valor. Tipo nome: Luna, vida: cem, nível: três. Segundo: para ler, use o ponto. Herói ponto nome devolve Luna. Terceiro: para mudar, é só atribuir. Tomou dano? Herói ponto vida recebe oitenta. E quer acrescentar uma informação nova? Atribui uma chave que ainda não existe e pronto! Array é lista em ordem. Objeto é ficha com nome. Salva esse vídeo e me segue para mais!",
+  "legenda": "Objeto é uma ficha: cada informação tem um nome e você acessa com o ponto. Qual personagem você criaria?",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "logicadeprogramacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "3 variáveis soltas"}]},
+    {"inicio": "Bagunça", "fundo": 1, "expressao": "bravo", "elementos": [{"tipo": "carimbo", "texto": "USE UM OBJETO!", "cor": "#FE2C55"}, {"tipo": "selo", "texto": "{ }", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "Ele", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "chips", "itens": ["nome", "vida", "nível"]}]},
+    {"inicio": "Primeiro", "fundo": 3, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "texto", "texto": "chave: valor"}]},
+    {"inicio": "Tipo", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "codigo", "linhas": ["const heroi = {", "  nome: 'Luna',", "  vida: 100,", "  nivel: 3", "};"]}]},
+    {"inicio": "Segundo", "fundo": 0, "expressao": "surpreso", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "codigo", "linhas": ["heroi.nome // 'Luna'"]}]},
+    {"inicio": "Terceiro", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "carimbo", "texto": "É SÓ ATRIBUIR", "cor": "#3FB27F"}]},
+    {"inicio": "Tomou", "fundo": 2, "expressao": "rindo", "elementos": [{"tipo": "codigo", "linhas": ["heroi.vida = 80;", "heroi.vida // 80"]}]},
+    {"inicio": "acrescentar", "fundo": 3, "expressao": "surpreso", "elementos": [{"tipo": "codigo", "linhas": ["heroi.arma = 'espada';"]}, {"tipo": "texto", "texto": "chave nova criada!"}]},
+    {"inicio": "Array", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "versus", "a": "array [ ]", "b": "objeto { }", "cor_a": "#F0DB4F", "cor_b": "#3FB27F"}]},
+    {"inicio": "Salva", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "SÉRIE DE LÓGICA", "sub": "salva e me segue"}]}
+  ]
+}
