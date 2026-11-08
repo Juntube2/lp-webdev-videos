@@ -1,0 +1,552 @@
+[
+{
+"text": "Vocês",
+"start": 0.095,
+"end": 0.452
+},
+{
+"text": "pediram,",
+"start": 0.463,
+"end": 0.876
+},
+{
+"text": "então",
+"start": 1.11,
+"end": 1.4
+},
+{
+"text": "bora",
+"start": 1.412,
+"end": 1.635
+},
+{
+"text": "montar",
+"start": 1.646,
+"end": 1.958
+},
+{
+"text": "o",
+"start": 1.97,
+"end": 2.048
+},
+{
+"text": "topo",
+"start": 2.059,
+"end": 2.36
+},
+{
+"text": "daquele",
+"start": 2.371,
+"end": 2.662
+},
+{
+"text": "site",
+"start": 2.673,
+"end": 3.019
+},
+{
+"text": "de",
+"start": 3.03,
+"end": 3.119
+},
+{
+"text": "padaria",
+"start": 3.13,
+"end": 3.532
+},
+{
+"text": "em",
+"start": 3.543,
+"end": 3.633
+},
+{
+"text": "HTML!",
+"start": 3.644,
+"end": 4.548
+},
+{
+"text": "Cria",
+"start": 5.312,
+"end": 5.536
+},
+{
+"text": "um",
+"start": 5.547,
+"end": 5.636
+},
+{
+"text": "arquivo",
+"start": 5.647,
+"end": 6.004
+},
+{
+"text": "chamado",
+"start": 6.016,
+"end": 6.451
+},
+{
+"text": "index",
+"start": 6.462,
+"end": 6.786
+},
+{
+"text": "ponto",
+"start": 6.797,
+"end": 7.076
+},
+{
+"text": "html.",
+"start": 7.087,
+"end": 7.857
+},
+{
+"text": "Primeiro:",
+"start": 8.627,
+"end": 9.074
+},
+{
+"text": "a",
+"start": 9.241,
+"end": 9.342
+},
+{
+"text": "tag",
+"start": 9.353,
+"end": 9.632
+},
+{
+"text": "header.",
+"start": 9.643,
+"end": 9.967
+},
+{
+"text": "Ela",
+"start": 10.737,
+"end": 10.982
+},
+{
+"text": "marca",
+"start": 10.993,
+"end": 11.295
+},
+{
+"text": "o",
+"start": 11.306,
+"end": 11.328
+},
+{
+"text": "cabeçalho,",
+"start": 11.339,
+"end": 11.964
+},
+{
+"text": "o",
+"start": 12.199,
+"end": 12.31
+},
+{
+"text": "topo",
+"start": 12.321,
+"end": 12.612
+},
+{
+"text": "do",
+"start": 12.623,
+"end": 12.701
+},
+{
+"text": "site.",
+"start": 12.712,
+"end": 13.147
+},
+{
+"text": "Segundo:",
+"start": 13.917,
+"end": 14.475
+},
+{
+"text": "dentro",
+"start": 14.766,
+"end": 15.078
+},
+{
+"text": "dela,",
+"start": 15.089,
+"end": 15.402
+},
+{
+"text": "um",
+"start": 15.692,
+"end": 15.837
+},
+{
+"text": "h1",
+"start": 15.848,
+"end": 16.239
+},
+{
+"text": "com",
+"start": 16.25,
+"end": 16.384
+},
+{
+"text": "o",
+"start": 16.395,
+"end": 16.417
+},
+{
+"text": "nome",
+"start": 16.429,
+"end": 16.685
+},
+{
+"text": "do",
+"start": 16.696,
+"end": 16.786
+},
+{
+"text": "negócio.",
+"start": 16.797,
+"end": 17.254
+},
+{
+"text": "Tipo",
+"start": 18.025,
+"end": 18.337
+},
+{
+"text": "Padaria",
+"start": 18.348,
+"end": 18.761
+},
+{
+"text": "Pão",
+"start": 18.772,
+"end": 18.962
+},
+{
+"text": "Quente.",
+"start": 18.973,
+"end": 19.353
+},
+{
+"text": "É",
+"start": 20.123,
+"end": 20.234
+},
+{
+"text": "o",
+"start": 20.246,
+"end": 20.301
+},
+{
+"text": "título",
+"start": 20.312,
+"end": 20.67
+},
+{
+"text": "mais",
+"start": 20.681,
+"end": 20.859
+},
+{
+"text": "importante",
+"start": 20.871,
+"end": 21.518
+},
+{
+"text": "da",
+"start": 21.529,
+"end": 21.629
+},
+{
+"text": "página.",
+"start": 21.641,
+"end": 22.087
+},
+{
+"text": "Terceiro:",
+"start": 22.857,
+"end": 23.359
+},
+{
+"text": "uma",
+"start": 23.672,
+"end": 23.873
+},
+{
+"text": "tag",
+"start": 23.884,
+"end": 24.185
+},
+{
+"text": "p,",
+"start": 24.196,
+"end": 24.498
+},
+{
+"text": "de",
+"start": 24.676,
+"end": 24.788
+},
+{
+"text": "parágrafo,",
+"start": 24.799,
+"end": 25.335
+},
+{
+"text": "dizendo",
+"start": 25.591,
+"end": 26.004
+},
+{
+"text": "o",
+"start": 26.016,
+"end": 26.038
+},
+{
+"text": "que",
+"start": 26.049,
+"end": 26.138
+},
+{
+"text": "você",
+"start": 26.15,
+"end": 26.395
+},
+{
+"text": "vende",
+"start": 26.406,
+"end": 26.775
+},
+{
+"text": "e",
+"start": 26.786,
+"end": 26.83
+},
+{
+"text": "onde",
+"start": 26.841,
+"end": 27.076
+},
+{
+"text": "fica.",
+"start": 27.087,
+"end": 27.411
+},
+{
+"text": "Quarto:",
+"start": 28.181,
+"end": 28.583
+},
+{
+"text": "o",
+"start": 28.817,
+"end": 28.884
+},
+{
+"text": "botão",
+"start": 28.895,
+"end": 29.297
+},
+{
+"text": "de",
+"start": 29.308,
+"end": 29.386
+},
+{
+"text": "WhatsApp.",
+"start": 29.397,
+"end": 30.056
+},
+{
+"text": "É",
+"start": 30.826,
+"end": 30.926
+},
+{
+"text": "uma",
+"start": 30.938,
+"end": 31.127
+},
+{
+"text": "tag",
+"start": 31.138,
+"end": 31.451
+},
+{
+"text": "a,",
+"start": 31.462,
+"end": 31.507
+},
+{
+"text": "com",
+"start": 31.752,
+"end": 31.909
+},
+{
+"text": "o",
+"start": 31.92,
+"end": 31.942
+},
+{
+"text": "link",
+"start": 31.953,
+"end": 32.243
+},
+{
+"text": "wa",
+"start": 32.254,
+"end": 32.377
+},
+{
+"text": "ponto",
+"start": 32.388,
+"end": 32.679
+},
+{
+"text": "me,",
+"start": 32.69,
+"end": 32.812
+},
+{
+"text": "barra,",
+"start": 33.08,
+"end": 33.449
+},
+{
+"text": "e",
+"start": 33.683,
+"end": 33.772
+},
+{
+"text": "o",
+"start": 33.783,
+"end": 33.828
+},
+{
+"text": "seu",
+"start": 33.839,
+"end": 34.062
+},
+{
+"text": "número",
+"start": 34.074,
+"end": 34.386
+},
+{
+"text": "com",
+"start": 34.397,
+"end": 34.531
+},
+{
+"text": "DDD.",
+"start": 34.542,
+"end": 34.955
+},
+{
+"text": "Salvou?",
+"start": 35.725,
+"end": 36.35
+},
+{
+"text": "Dá",
+"start": 37.121,
+"end": 37.31
+},
+{
+"text": "dois",
+"start": 37.321,
+"end": 37.612
+},
+{
+"text": "cliques",
+"start": 37.623,
+"end": 37.98
+},
+{
+"text": "no",
+"start": 37.991,
+"end": 38.069
+},
+{
+"text": "arquivo",
+"start": 38.08,
+"end": 38.504
+},
+{
+"text": "e",
+"start": 38.516,
+"end": 38.538
+},
+{
+"text": "ele",
+"start": 38.549,
+"end": 38.728
+},
+{
+"text": "abre",
+"start": 38.739,
+"end": 38.996
+},
+{
+"text": "no",
+"start": 39.007,
+"end": 39.074
+},
+{
+"text": "navegador!",
+"start": 39.085,
+"end": 39.632
+},
+{
+"text": "Feio?",
+"start": 40.402,
+"end": 40.815
+},
+{
+"text": "Calma.",
+"start": 41.585,
+"end": 42.02
+},
+{
+"text": "Comenta",
+"start": 42.79,
+"end": 43.225
+},
+{
+"text": "CSS",
+"start": 43.237,
+"end": 43.996
+},
+{
+"text": "que",
+"start": 44.007,
+"end": 44.085
+},
+{
+"text": "no",
+"start": 44.096,
+"end": 44.208
+},
+{
+"text": "próximo",
+"start": 44.219,
+"end": 44.609
+},
+{
+"text": "eu",
+"start": 44.621,
+"end": 44.699
+},
+{
+"text": "deixo",
+"start": 44.71,
+"end": 45.033
+},
+{
+"text": "bonito!",
+"start": 45.045,
+"end": 45.469
+}
+]
