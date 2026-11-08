@@ -1,0 +1,19 @@
+{
+  "titulo": "Fiz o topo de um site de negócio em HTML",
+  "roteiro": "Vocês pediram, então bora montar o topo daquele site de padaria em HTML! Cria um arquivo chamado index ponto html. Primeiro: a tag header. Ela marca o cabeçalho, o topo do site. Segundo: dentro dela, um h1 com o nome do negócio. Tipo Padaria Pão Quente. É o título mais importante da página. Terceiro: uma tag p, de parágrafo, dizendo o que você vende e onde fica. Quarto: o botão de WhatsApp. É uma tag a, com o link wa ponto me, barra, e o seu número com DDD. Salvou? Dá dois cliques no arquivo e ele abre no navegador! Feio? Calma. Comenta CSS que no próximo eu deixo bonito!",
+  "legenda": "O topo de um site de negócio em quatro tags de HTML. Comenta CSS que no próximo a gente deixa bonito!",
+  "hashtags": ["programacao", "aprenderaprogramar", "html", "webdev", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "HTML", "cor": "#E34F26"}, {"tipo": "carimbo", "texto": "BORA CODAR!", "cor": "#FE2C55"}]},
+    {"inicio": "Cria", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "texto", "texto": "index.html", "cor": "#E34F26", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "codigo", "linhas": ["<header>", "  ...", "</header>"]}]},
+    {"inicio": "Segundo", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "codigo", "linhas": ["<h1>Padaria Pão Quente</h1>"]}]},
+    {"inicio": "É", "fundo": 4, "expressao": "surpreso", "elementos": [{"tipo": "carimbo", "texto": "TÍTULO PRINCIPAL", "cor": "#3FB27F"}]},
+    {"inicio": "Terceiro", "fundo": 0, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "codigo", "linhas": ["<p>Pão fresquinho", "no Centro</p>"]}]},
+    {"inicio": "Quarto", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "4"}, {"tipo": "chips", "itens": ["tag a", "href", "link"]}]},
+    {"inicio": "wa", "fundo": 2, "expressao": "surpreso", "elementos": [{"tipo": "texto", "texto": "wa.me/ + seu número com DDD", "cor": "#3FB27F", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Salvou", "fundo": 3, "expressao": "rindo", "elementos": [{"tipo": "navegador", "titulo": "Padaria Pão Quente", "url": "index.html", "cor": "#E34F26", "botao": "WhatsApp"}]},
+    {"inicio": "Feio", "fundo": 4, "expressao": "pensando", "elementos": [{"tipo": "versus", "a": "HTML", "b": "CSS", "cor_a": "#E34F26", "cor_b": "#264DE4"}]},
+    {"inicio": "próximo", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "COMENTA CSS", "sub": "e me segue pra parte 2"}]}
+  ]
+}
