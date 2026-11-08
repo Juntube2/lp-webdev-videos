@@ -1,0 +1,19 @@
+{
+  "titulo": "Deixei o topo do site bonito com CSS",
+  "roteiro": "Lembra do topo da padaria que ficou feio? Agora a gente deixa bonito com CSS! Primeiro: cria um arquivo style ponto css e liga ele no HTML com a tag link, dentro do head. Segundo: no header, coloca uma cor de fundo com background e um respiro com padding. Terceiro: centraliza tudo com text align center. Quarto: transforma o link do WhatsApp em botão! Fundo verde, texto branco e border radius para arredondar as pontas. Ah, e tira o sublinhado com text decoration none. Salvou? Atualiza o navegador. Mudou tudo, né? Salva esse vídeo e me segue para a parte três!",
+  "legenda": "Quatro regrinhas de CSS e o topo da padaria ficou outro. Salva para fazer junto!",
+  "hashtags": ["programacao", "aprenderaprogramar", "css", "html", "webdev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "Site feio"}, {"tipo": "selo", "texto": "CSS", "cor": "#264DE4"}]},
+    {"inicio": "Agora", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "versus", "a": "HTML", "b": "CSS", "cor_a": "#E34F26", "cor_b": "#264DE4"}]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "texto", "texto": "style.css", "cor": "#264DE4", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "liga", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "codigo", "linhas": ["<head>", "  <link rel=\"stylesheet\"", "    href=\"style.css\">", "</head>"]}]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "chips", "itens": ["background", "padding"]}]},
+    {"inicio": "Terceiro", "fundo": 0, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "codigo", "linhas": ["header {", "  background: #F4A300;", "  padding: 24px;", "  text-align: center;", "}"]}]},
+    {"inicio": "Quarto", "fundo": 1, "expressao": "surpreso", "elementos": [{"tipo": "numero", "texto": "4"}, {"tipo": "carimbo", "texto": "LINK VIRA BOTÃO", "cor": "#3FB27F"}]},
+    {"inicio": "Fundo", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "codigo", "linhas": ["a {", "  background: #25D366;", "  color: white;", "  border-radius: 8px;", "  text-decoration: none;", "}"]}]},
+    {"inicio": "Salvou", "fundo": 3, "expressao": "rindo", "elementos": [{"tipo": "navegador", "titulo": "Padaria Pão Quente", "url": "index.html", "cor": "#F4A300", "botao": "WhatsApp"}]},
+    {"inicio": "Mudou", "fundo": 4, "expressao": "surpreso", "elementos": [{"tipo": "lista", "itens": ["Cor de fundo", "Centralizado", "Botão verde"], "marcar": "check"}]},
+    {"inicio": "esse", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "SALVA ESSE VÍDEO", "sub": "e me segue pra parte 3"}]}
+  ]
+}
