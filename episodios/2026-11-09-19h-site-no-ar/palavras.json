@@ -1,0 +1,537 @@
+[
+{
+"text": "Seu",
+"start": 0.095,
+"end": 0.362
+},
+{
+"text": "site",
+"start": 0.374,
+"end": 0.697
+},
+{
+"text": "está",
+"start": 0.709,
+"end": 0.865
+},
+{
+"text": "pronto,",
+"start": 0.876,
+"end": 1.233
+},
+{
+"text": "mas",
+"start": 1.546,
+"end": 1.724
+},
+{
+"text": "só",
+"start": 1.735,
+"end": 1.891
+},
+{
+"text": "abre",
+"start": 1.903,
+"end": 2.159
+},
+{
+"text": "no",
+"start": 2.171,
+"end": 2.249
+},
+{
+"text": "seu",
+"start": 2.26,
+"end": 2.416
+},
+{
+"text": "computador?",
+"start": 2.427,
+"end": 2.985
+},
+{
+"text": "Parte",
+"start": 3.75,
+"end": 4.096
+},
+{
+"text": "quatro",
+"start": 4.107,
+"end": 4.431
+},
+{
+"text": "da",
+"start": 4.442,
+"end": 4.531
+},
+{
+"text": "padaria:",
+"start": 4.542,
+"end": 4.989
+},
+{
+"text": "vamos",
+"start": 5.312,
+"end": 5.547
+},
+{
+"text": "colocar",
+"start": 5.558,
+"end": 5.937
+},
+{
+"text": "ele",
+"start": 5.949,
+"end": 6.105
+},
+{
+"text": "no",
+"start": 6.116,
+"end": 6.261
+},
+{
+"text": "ar,",
+"start": 6.272,
+"end": 6.451
+},
+{
+"text": "de",
+"start": 6.607,
+"end": 6.73
+},
+{
+"text": "graça!",
+"start": 6.741,
+"end": 7.221
+},
+{
+"text": "Primeiro:",
+"start": 7.991,
+"end": 8.426
+},
+{
+"text": "cria",
+"start": 8.661,
+"end": 8.862
+},
+{
+"text": "uma",
+"start": 8.873,
+"end": 9.04
+},
+{
+"text": "conta",
+"start": 9.051,
+"end": 9.364
+},
+{
+"text": "no",
+"start": 9.375,
+"end": 9.453
+},
+{
+"text": "GitHub",
+"start": 9.464,
+"end": 10.045
+},
+{
+"text": "e",
+"start": 10.056,
+"end": 10.078
+},
+{
+"text": "um",
+"start": 10.089,
+"end": 10.167
+},
+{
+"text": "repositório",
+"start": 10.179,
+"end": 10.837
+},
+{
+"text": "novo,",
+"start": 10.848,
+"end": 11.183
+},
+{
+"text": "público.",
+"start": 11.417,
+"end": 11.853
+},
+{
+"text": "Segundo:",
+"start": 12.623,
+"end": 13.192
+},
+{
+"text": "clica",
+"start": 13.393,
+"end": 13.638
+},
+{
+"text": "em",
+"start": 13.65,
+"end": 13.761
+},
+{
+"text": "Add",
+"start": 13.772,
+"end": 13.951
+},
+{
+"text": "file,",
+"start": 13.962,
+"end": 14.397
+},
+{
+"text": "depois",
+"start": 14.621,
+"end": 14.922
+},
+{
+"text": "Upload",
+"start": 14.933,
+"end": 15.391
+},
+{
+"text": "files,",
+"start": 15.402,
+"end": 15.859
+},
+{
+"text": "e",
+"start": 16.205,
+"end": 16.284
+},
+{
+"text": "manda",
+"start": 16.295,
+"end": 16.596
+},
+{
+"text": "o",
+"start": 16.607,
+"end": 16.641
+},
+{
+"text": "index",
+"start": 16.652,
+"end": 16.942
+},
+{
+"text": "ponto",
+"start": 16.953,
+"end": 17.199
+},
+{
+"text": "html",
+"start": 17.21,
+"end": 18.036
+},
+{
+"text": "e",
+"start": 18.047,
+"end": 18.147
+},
+{
+"text": "o",
+"start": 18.159,
+"end": 18.225
+},
+{
+"text": "style",
+"start": 18.237,
+"end": 18.571
+},
+{
+"text": "ponto",
+"start": 18.583,
+"end": 18.862
+},
+{
+"text": "css.",
+"start": 18.873,
+"end": 19.654
+},
+{
+"text": "O",
+"start": 20.424,
+"end": 20.536
+},
+{
+"text": "nome",
+"start": 20.547,
+"end": 20.859
+},
+{
+"text": "tem",
+"start": 20.871,
+"end": 21.004
+},
+{
+"text": "que",
+"start": 21.016,
+"end": 21.105
+},
+{
+"text": "ser",
+"start": 21.116,
+"end": 21.295
+},
+{
+"text": "index,",
+"start": 21.306,
+"end": 21.752
+},
+{
+"text": "senão",
+"start": 21.998,
+"end": 22.321
+},
+{
+"text": "a",
+"start": 22.333,
+"end": 22.388
+},
+{
+"text": "página",
+"start": 22.4,
+"end": 22.801
+},
+{
+"text": "não",
+"start": 22.812,
+"end": 23.058
+},
+{
+"text": "abre!",
+"start": 23.069,
+"end": 23.359
+},
+{
+"text": "Terceiro:",
+"start": 24.129,
+"end": 24.587
+},
+{
+"text": "vai",
+"start": 24.9,
+"end": 25.033
+},
+{
+"text": "em",
+"start": 25.045,
+"end": 25.112
+},
+{
+"text": "Settings,",
+"start": 25.123,
+"end": 25.725
+},
+{
+"text": "depois",
+"start": 25.915,
+"end": 26.295
+},
+{
+"text": "Pages,",
+"start": 26.306,
+"end": 26.73
+},
+{
+"text": "escolhe",
+"start": 26.953,
+"end": 27.299
+},
+{
+"text": "a",
+"start": 27.31,
+"end": 27.344
+},
+{
+"text": "branch",
+"start": 27.355,
+"end": 27.667
+},
+{
+"text": "main",
+"start": 27.679,
+"end": 27.846
+},
+{
+"text": "e",
+"start": 27.857,
+"end": 27.913
+},
+{
+"text": "clica",
+"start": 27.924,
+"end": 28.192
+},
+{
+"text": "em",
+"start": 28.203,
+"end": 28.27
+},
+{
+"text": "Save.",
+"start": 28.281,
+"end": 28.672
+},
+{
+"text": "Quarto:",
+"start": 29.442,
+"end": 29.866
+},
+{
+"text": "espera",
+"start": 30.022,
+"end": 30.312
+},
+{
+"text": "uns",
+"start": 30.324,
+"end": 30.446
+},
+{
+"text": "dois",
+"start": 30.458,
+"end": 30.759
+},
+{
+"text": "minutinhos.",
+"start": 30.77,
+"end": 31.384
+},
+{
+"text": "Pronto!",
+"start": 32.154,
+"end": 32.612
+},
+{
+"text": "Seu",
+"start": 33.382,
+"end": 33.65
+},
+{
+"text": "site",
+"start": 33.661,
+"end": 34.074
+},
+{
+"text": "ganha",
+"start": 34.085,
+"end": 34.297
+},
+{
+"text": "um",
+"start": 34.308,
+"end": 34.408
+},
+{
+"text": "link",
+"start": 34.42,
+"end": 34.665
+},
+{
+"text": "de",
+"start": 34.676,
+"end": 34.743
+},
+{
+"text": "verdade,",
+"start": 34.754,
+"end": 35.257
+},
+{
+"text": "pra",
+"start": 35.48,
+"end": 35.592
+},
+{
+"text": "mandar",
+"start": 35.603,
+"end": 35.926
+},
+{
+"text": "pro",
+"start": 35.938,
+"end": 36.083
+},
+{
+"text": "cliente",
+"start": 36.094,
+"end": 36.529
+},
+{
+"text": "no",
+"start": 36.54,
+"end": 36.585
+},
+{
+"text": "WhatsApp.",
+"start": 36.596,
+"end": 37.21
+},
+{
+"text": "Comenta",
+"start": 37.98,
+"end": 38.426
+},
+{
+"text": "aqui",
+"start": 38.438,
+"end": 38.694
+},
+{
+"text": "se",
+"start": 38.705,
+"end": 38.795
+},
+{
+"text": "o",
+"start": 38.806,
+"end": 38.839
+},
+{
+"text": "seu",
+"start": 38.85,
+"end": 39.018
+},
+{
+"text": "subiu",
+"start": 39.029,
+"end": 39.408
+},
+{
+"text": "e",
+"start": 39.42,
+"end": 39.453
+},
+{
+"text": "me",
+"start": 39.464,
+"end": 39.554
+},
+{
+"text": "segue",
+"start": 39.565,
+"end": 39.877
+},
+{
+"text": "que",
+"start": 39.888,
+"end": 40.0
+},
+{
+"text": "tem",
+"start": 40.011,
+"end": 40.201
+},
+{
+"text": "mais!",
+"start": 40.212,
+"end": 40.658
+}
+]
