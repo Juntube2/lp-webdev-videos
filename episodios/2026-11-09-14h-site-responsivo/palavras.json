@@ -1,0 +1,512 @@
+[
+{
+"text": "Seu",
+"start": 0.095,
+"end": 0.34
+},
+{
+"text": "site",
+"start": 0.351,
+"end": 0.731
+},
+{
+"text": "ficou",
+"start": 0.742,
+"end": 0.999
+},
+{
+"text": "lindo",
+"start": 1.01,
+"end": 1.3
+},
+{
+"text": "no",
+"start": 1.311,
+"end": 1.389
+},
+{
+"text": "computador",
+"start": 1.4,
+"end": 1.914
+},
+{
+"text": "e",
+"start": 1.925,
+"end": 1.959
+},
+{
+"text": "minúsculo",
+"start": 1.97,
+"end": 2.416
+},
+{
+"text": "no",
+"start": 2.427,
+"end": 2.494
+},
+{
+"text": "celular?",
+"start": 2.505,
+"end": 2.941
+},
+{
+"text": "Parte",
+"start": 3.705,
+"end": 4.062
+},
+{
+"text": "três",
+"start": 4.074,
+"end": 4.308
+},
+{
+"text": "da",
+"start": 4.319,
+"end": 4.408
+},
+{
+"text": "padaria:",
+"start": 4.42,
+"end": 4.866
+},
+{
+"text": "vamos",
+"start": 5.089,
+"end": 5.335
+},
+{
+"text": "deixar",
+"start": 5.346,
+"end": 5.703
+},
+{
+"text": "ele",
+"start": 5.714,
+"end": 5.826
+},
+{
+"text": "responsivo!",
+"start": 5.837,
+"end": 6.551
+},
+{
+"text": "Primeiro:",
+"start": 7.321,
+"end": 7.768
+},
+{
+"text": "dentro",
+"start": 8.091,
+"end": 8.426
+},
+{
+"text": "do",
+"start": 8.438,
+"end": 8.549
+},
+{
+"text": "head,",
+"start": 8.56,
+"end": 8.951
+},
+{
+"text": "coloca",
+"start": 9.185,
+"end": 9.62
+},
+{
+"text": "a",
+"start": 9.632,
+"end": 9.654
+},
+{
+"text": "meta",
+"start": 9.665,
+"end": 9.944
+},
+{
+"text": "viewport.",
+"start": 9.955,
+"end": 10.502
+},
+{
+"text": "Sem",
+"start": 11.272,
+"end": 11.607
+},
+{
+"text": "ela,",
+"start": 11.618,
+"end": 11.875
+},
+{
+"text": "o",
+"start": 12.132,
+"end": 12.187
+},
+{
+"text": "celular",
+"start": 12.199,
+"end": 12.656
+},
+{
+"text": "finge",
+"start": 12.667,
+"end": 13.025
+},
+{
+"text": "que",
+"start": 13.036,
+"end": 13.103
+},
+{
+"text": "é",
+"start": 13.114,
+"end": 13.136
+},
+{
+"text": "uma",
+"start": 13.147,
+"end": 13.315
+},
+{
+"text": "tela",
+"start": 13.326,
+"end": 13.571
+},
+{
+"text": "de",
+"start": 13.583,
+"end": 13.65
+},
+{
+"text": "computador",
+"start": 13.661,
+"end": 14.241
+},
+{
+"text": "e",
+"start": 14.252,
+"end": 14.275
+},
+{
+"text": "encolhe",
+"start": 14.286,
+"end": 14.699
+},
+{
+"text": "tudo.",
+"start": 14.71,
+"end": 15.022
+},
+{
+"text": "Segundo:",
+"start": 15.792,
+"end": 16.362
+},
+{
+"text": "imagem",
+"start": 16.585,
+"end": 17.031
+},
+{
+"text": "nunca",
+"start": 17.042,
+"end": 17.377
+},
+{
+"text": "pode",
+"start": 17.388,
+"end": 17.623
+},
+{
+"text": "passar",
+"start": 17.634,
+"end": 17.969
+},
+{
+"text": "da",
+"start": 17.98,
+"end": 18.092
+},
+{
+"text": "tela.",
+"start": 18.103,
+"end": 18.415
+},
+{
+"text": "No",
+"start": 19.185,
+"end": 19.341
+},
+{
+"text": "CSS,",
+"start": 19.353,
+"end": 20.089
+},
+{
+"text": "img",
+"start": 20.268,
+"end": 20.491
+},
+{
+"text": "com",
+"start": 20.502,
+"end": 20.67
+},
+{
+"text": "max",
+"start": 20.681,
+"end": 20.993
+},
+{
+"text": "width",
+"start": 21.004,
+"end": 21.194
+},
+{
+"text": "de",
+"start": 21.205,
+"end": 21.295
+},
+{
+"text": "cem",
+"start": 21.306,
+"end": 21.54
+},
+{
+"text": "por",
+"start": 21.551,
+"end": 21.685
+},
+{
+"text": "cento.",
+"start": 21.696,
+"end": 22.065
+},
+{
+"text": "Terceiro:",
+"start": 22.835,
+"end": 23.359
+},
+{
+"text": "media",
+"start": 23.594,
+"end": 23.951
+},
+{
+"text": "query!",
+"start": 23.962,
+"end": 24.33
+},
+{
+"text": "Quando",
+"start": 25.1,
+"end": 25.335
+},
+{
+"text": "a",
+"start": 25.346,
+"end": 25.402
+},
+{
+"text": "tela",
+"start": 25.413,
+"end": 25.658
+},
+{
+"text": "tiver",
+"start": 25.67,
+"end": 25.96
+},
+{
+"text": "até",
+"start": 25.971,
+"end": 26.127
+},
+{
+"text": "seiscentos",
+"start": 26.138,
+"end": 26.752
+},
+{
+"text": "pixels,",
+"start": 26.763,
+"end": 27.277
+},
+{
+"text": "você",
+"start": 27.478,
+"end": 27.746
+},
+{
+"text": "diminui",
+"start": 27.757,
+"end": 28.125
+},
+{
+"text": "o",
+"start": 28.136,
+"end": 28.181
+},
+{
+"text": "título.",
+"start": 28.192,
+"end": 28.571
+},
+{
+"text": "Quarto:",
+"start": 29.341,
+"end": 29.743
+},
+{
+"text": "testa!",
+"start": 29.989,
+"end": 30.424
+},
+{
+"text": "Aperta",
+"start": 31.194,
+"end": 31.674
+},
+{
+"text": "F",
+"start": 31.685,
+"end": 31.964
+},
+{
+"text": "doze",
+"start": 31.975,
+"end": 32.299
+},
+{
+"text": "no",
+"start": 32.31,
+"end": 32.377
+},
+{
+"text": "navegador",
+"start": 32.388,
+"end": 32.913
+},
+{
+"text": "e",
+"start": 32.924,
+"end": 32.98
+},
+{
+"text": "clica",
+"start": 32.991,
+"end": 33.281
+},
+{
+"text": "no",
+"start": 33.292,
+"end": 33.415
+},
+{
+"text": "ícone",
+"start": 33.426,
+"end": 33.75
+},
+{
+"text": "do",
+"start": 33.761,
+"end": 33.85
+},
+{
+"text": "celular.",
+"start": 33.862,
+"end": 34.342
+},
+{
+"text": "Funcionou?",
+"start": 35.112,
+"end": 35.748
+},
+{
+"text": "Salva",
+"start": 36.518,
+"end": 36.931
+},
+{
+"text": "esse",
+"start": 36.942,
+"end": 37.109
+},
+{
+"text": "vídeo",
+"start": 37.121,
+"end": 37.4
+},
+{
+"text": "e",
+"start": 37.411,
+"end": 37.433
+},
+{
+"text": "me",
+"start": 37.444,
+"end": 37.533
+},
+{
+"text": "segue,",
+"start": 37.545,
+"end": 37.924
+},
+{
+"text": "que",
+"start": 38.158,
+"end": 38.259
+},
+{
+"text": "na",
+"start": 38.27,
+"end": 38.393
+},
+{
+"text": "parte",
+"start": 38.404,
+"end": 38.717
+},
+{
+"text": "quatro",
+"start": 38.728,
+"end": 39.051
+},
+{
+"text": "a",
+"start": 39.062,
+"end": 39.085
+},
+{
+"text": "gente",
+"start": 39.096,
+"end": 39.319
+},
+{
+"text": "coloca",
+"start": 39.33,
+"end": 39.688
+},
+{
+"text": "esse",
+"start": 39.699,
+"end": 39.855
+},
+{
+"text": "site",
+"start": 39.866,
+"end": 40.223
+},
+{
+"text": "no",
+"start": 40.234,
+"end": 40.346
+},
+{
+"text": "ar!",
+"start": 40.357,
+"end": 40.525
+}
+]
