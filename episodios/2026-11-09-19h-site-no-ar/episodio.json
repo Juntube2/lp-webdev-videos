@@ -1,0 +1,19 @@
+{
+  "titulo": "Coloquei o site da padaria no ar de graça",
+  "roteiro": "Seu site está pronto, mas só abre no seu computador? Parte quatro da padaria: vamos colocar ele no ar, de graça! Primeiro: cria uma conta no GitHub e um repositório novo, público. Segundo: clica em Add file, depois Upload files, e manda o index ponto html e o style ponto css. O nome tem que ser index, senão a página não abre! Terceiro: vai em Settings, depois Pages, escolhe a branch main e clica em Save. Quarto: espera uns dois minutinhos. Pronto! Seu site ganha um link de verdade, pra mandar pro cliente no WhatsApp. Comenta aqui se o seu subiu e me segue que tem mais!",
+  "legenda": "Do computador para a internet em quatro passos, sem pagar nada: o site da padaria está no ar com o GitHub Pages. Salva para fazer junto!",
+  "hashtags": ["programacao", "aprenderaprogramar", "github", "html", "webdev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "Só abre no meu PC"}, {"tipo": "selo", "texto": "DEPLOY", "cor": "#3FB27F"}]},
+    {"inicio": "Parte", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "carimbo", "texto": "SITE NO AR", "cor": "#3FB27F"}]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "chips", "itens": ["Conta no GitHub", "Repositório novo", "Público"]}]},
+    {"inicio": "Segundo", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "texto", "texto": "Add file → Upload files", "cor": "#24292F", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "manda", "fundo": 4, "expressao": "rindo", "elementos": [{"tipo": "lista", "itens": ["index.html", "style.css"], "marcar": "check"}]},
+    {"inicio": "nome", "fundo": 0, "expressao": "bravo", "elementos": [{"tipo": "riscado", "texto": "pagina.html"}, {"tipo": "texto", "texto": "Tem que ser index.html", "cor": "#FE2C55", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Terceiro", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "chips", "itens": ["Settings", "Pages", "Branch: main", "Save"]}]},
+    {"inicio": "Quarto", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "4"}, {"tipo": "carimbo", "texto": "ESPERA 2 MINUTINHOS", "cor": "#F0DB4F"}]},
+    {"inicio": "Pronto", "fundo": 3, "expressao": "surpreso", "elementos": [{"tipo": "navegador", "titulo": "Padaria Pão Quente", "url": "seunome.github.io/padaria", "cor": "#F4A300", "botao": "WhatsApp"}]},
+    {"inicio": "cliente", "fundo": 4, "expressao": "rindo", "elementos": [{"tipo": "versus", "a": "Só no PC", "b": "Link no ar", "cor_a": "#FE2C55", "cor_b": "#3FB27F"}]},
+    {"inicio": "Comenta", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "COMENTA SE SUBIU", "sub": "e me segue que tem mais"}]}
+  ]
+}
