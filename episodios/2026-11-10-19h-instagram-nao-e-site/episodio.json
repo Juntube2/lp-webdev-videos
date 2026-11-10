@@ -1,0 +1,20 @@
+{
+  "titulo": "Instagram não é site: 3 motivos",
+  "roteiro": "Pare de dizer que o Instagram é o site do seu negócio! Eu te dou três motivos. Primeiro: o perfil não é seu. Se a conta for invadida ou bloqueada, você perde tudo da noite pro dia. O site, com domínio próprio, fica no seu nome. Segundo: o cliente procura no Google. Quem digita padaria perto de mim quer endereço, horário e telefone, rapidinho. Terceiro: no feed, a informação some. O cardápio fica enterrado num post de três semanas atrás. No site, tudo fica organizado numa página só. Então, o Instagram atrai e o site fecha a venda. Usa os dois! Salva esse vídeo e me segue pra aprender a fazer o seu.",
+  "legenda": "Instagram é ótimo para atrair, mas não substitui um site. Qual desses motivos mais pesa no seu negócio? Comenta aqui!",
+  "hashtags": ["sitesparanegocios", "empreendedorismo", "webdev", "programacao", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "Instagram = site"}]},
+    {"inicio": "Eu", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "carimbo", "texto": "3 MOTIVOS", "cor": "#FE2C55"}]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "bravo", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "texto", "texto": "O perfil não é seu", "cor": "#FE2C55", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "invadida", "fundo": 3, "expressao": "surpreso", "elementos": [{"tipo": "lista", "itens": ["Conta invadida", "Conta bloqueada", "Perde tudo"], "marcar": "x"}]},
+    {"inicio": "domínio", "fundo": 4, "expressao": "confiante", "elementos": [{"tipo": "navegador", "titulo": "Padaria Pão Quente", "url": "padariapaoquente.com.br", "cor": "#F4A300", "botao": "WhatsApp"}]},
+    {"inicio": "Segundo", "fundo": 0, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "carimbo", "texto": "CLIENTE PROCURA NA BUSCA", "cor": "#264DE4"}]},
+    {"inicio": "digita", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "texto", "texto": "padaria perto de mim", "cor": "#FFFFFF", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "endereço", "fundo": 2, "expressao": "rindo", "elementos": [{"tipo": "chips", "itens": ["Endereço", "Horário", "Telefone"]}]},
+    {"inicio": "Terceiro", "fundo": 3, "expressao": "bravo", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "riscado", "texto": "Cardápio no post antigo"}]},
+    {"inicio": "tudo", "fundo": 4, "expressao": "rindo", "elementos": [{"tipo": "lista", "itens": ["Cardápio", "Preços", "Horário", "Mapa"], "marcar": "check"}]},
+    {"inicio": "Então", "fundo": 0, "expressao": "surpreso", "elementos": [{"tipo": "versus", "a": "Instagram atrai", "b": "Site fecha a venda", "cor_a": "#FE2C55", "cor_b": "#3FB27F"}]},
+    {"inicio": "Salva", "fundo": 1, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "SALVA ESSE VÍDEO", "sub": "e aprende a fazer o seu"}]}
+  ]
+}
