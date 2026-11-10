@@ -1,0 +1,497 @@
+[
+{
+"text": "Pare",
+"start": 0.095,
+"end": 0.329
+},
+{
+"text": "de",
+"start": 0.34,
+"end": 0.418
+},
+{
+"text": "entrar",
+"start": 0.429,
+"end": 0.664
+},
+{
+"text": "em",
+"start": 0.675,
+"end": 0.775
+},
+{
+"text": "pânico",
+"start": 0.787,
+"end": 1.155
+},
+{
+"text": "quando",
+"start": 1.166,
+"end": 1.378
+},
+{
+"text": "o",
+"start": 1.389,
+"end": 1.423
+},
+{
+"text": "código",
+"start": 1.434,
+"end": 1.791
+},
+{
+"text": "fica",
+"start": 1.802,
+"end": 2.115
+},
+{
+"text": "vermelho!",
+"start": 2.126,
+"end": 2.65
+},
+{
+"text": "O",
+"start": 3.415,
+"end": 3.56
+},
+{
+"text": "erro",
+"start": 3.571,
+"end": 3.772
+},
+{
+"text": "está",
+"start": 3.784,
+"end": 3.973
+},
+{
+"text": "tentando",
+"start": 3.984,
+"end": 4.453
+},
+{
+"text": "te",
+"start": 4.464,
+"end": 4.531
+},
+{
+"text": "ajudar.",
+"start": 4.542,
+"end": 4.911
+},
+{
+"text": "Primeiro:",
+"start": 5.681,
+"end": 6.105
+},
+{
+"text": "leia",
+"start": 6.406,
+"end": 6.585
+},
+{
+"text": "a",
+"start": 6.596,
+"end": 6.63
+},
+{
+"text": "mensagem",
+"start": 6.641,
+"end": 7.199
+},
+{
+"text": "inteira,",
+"start": 7.21,
+"end": 7.589
+},
+{
+"text": "sem",
+"start": 7.79,
+"end": 8.013
+},
+{
+"text": "pular.",
+"start": 8.025,
+"end": 8.348
+},
+{
+"text": "Ela",
+"start": 9.118,
+"end": 9.375
+},
+{
+"text": "diz",
+"start": 9.386,
+"end": 9.576
+},
+{
+"text": "o",
+"start": 9.587,
+"end": 9.699
+},
+{
+"text": "tipo",
+"start": 9.71,
+"end": 9.989
+},
+{
+"text": "do",
+"start": 10.0,
+"end": 10.179
+},
+{
+"text": "erro",
+"start": 10.19,
+"end": 10.458
+},
+{
+"text": "e",
+"start": 10.469,
+"end": 10.547
+},
+{
+"text": "o",
+"start": 10.558,
+"end": 10.603
+},
+{
+"text": "que",
+"start": 10.614,
+"end": 10.714
+},
+{
+"text": "deu",
+"start": 10.725,
+"end": 10.926
+},
+{
+"text": "errado.",
+"start": 10.938,
+"end": 11.295
+},
+{
+"text": "Segundo:",
+"start": 12.065,
+"end": 12.634
+},
+{
+"text": "olhe",
+"start": 12.868,
+"end": 13.114
+},
+{
+"text": "o",
+"start": 13.125,
+"end": 13.159
+},
+{
+"text": "número",
+"start": 13.17,
+"end": 13.493
+},
+{
+"text": "da",
+"start": 13.504,
+"end": 13.583
+},
+{
+"text": "linha.",
+"start": 13.594,
+"end": 13.94
+},
+{
+"text": "O",
+"start": 14.71,
+"end": 14.81
+},
+{
+"text": "problema",
+"start": 14.821,
+"end": 15.234
+},
+{
+"text": "está",
+"start": 15.246,
+"end": 15.402
+},
+{
+"text": "ali",
+"start": 15.413,
+"end": 15.58
+},
+{
+"text": "ou",
+"start": 15.591,
+"end": 15.681
+},
+{
+"text": "logo",
+"start": 15.692,
+"end": 15.937
+},
+{
+"text": "acima,",
+"start": 15.949,
+"end": 16.328
+},
+{
+"text": "tipo",
+"start": 16.54,
+"end": 16.786
+},
+{
+"text": "uma",
+"start": 16.797,
+"end": 16.909
+},
+{
+"text": "chave",
+"start": 16.92,
+"end": 17.299
+},
+{
+"text": "ou",
+"start": 17.31,
+"end": 17.377
+},
+{
+"text": "um",
+"start": 17.388,
+"end": 17.466
+},
+{
+"text": "parêntese",
+"start": 17.478,
+"end": 17.891
+},
+{
+"text": "esquecido.",
+"start": 17.902,
+"end": 18.46
+},
+{
+"text": "Terceiro:",
+"start": 19.23,
+"end": 19.743
+},
+{
+"text": "entenda",
+"start": 19.911,
+"end": 20.357
+},
+{
+"text": "o",
+"start": 20.368,
+"end": 20.402
+},
+{
+"text": "tipo.",
+"start": 20.413,
+"end": 20.77
+},
+{
+"text": "ReferenceError",
+"start": 21.54,
+"end": 22.388
+},
+{
+"text": "quase",
+"start": 22.4,
+"end": 22.734
+},
+{
+"text": "sempre",
+"start": 22.746,
+"end": 23.08
+},
+{
+"text": "é",
+"start": 23.091,
+"end": 23.114
+},
+{
+"text": "um",
+"start": 23.125,
+"end": 23.225
+},
+{
+"text": "nome",
+"start": 23.237,
+"end": 23.471
+},
+{
+"text": "digitado",
+"start": 23.482,
+"end": 23.906
+},
+{
+"text": "errado",
+"start": 23.917,
+"end": 24.297
+},
+{
+"text": "ou",
+"start": 24.308,
+"end": 24.375
+},
+{
+"text": "uma",
+"start": 24.386,
+"end": 24.531
+},
+{
+"text": "variável",
+"start": 24.542,
+"end": 25.045
+},
+{
+"text": "que",
+"start": 25.056,
+"end": 25.167
+},
+{
+"text": "não",
+"start": 25.179,
+"end": 25.402
+},
+{
+"text": "existe.",
+"start": 25.413,
+"end": 25.871
+},
+{
+"text": "Quarto:",
+"start": 26.641,
+"end": 27.054
+},
+{
+"text": "ainda",
+"start": 27.277,
+"end": 27.545
+},
+{
+"text": "travou?",
+"start": 27.556,
+"end": 27.935
+},
+{
+"text": "Copia",
+"start": 28.705,
+"end": 29.074
+},
+{
+"text": "a",
+"start": 29.085,
+"end": 29.107
+},
+{
+"text": "mensagem",
+"start": 29.118,
+"end": 29.699
+},
+{
+"text": "e",
+"start": 29.71,
+"end": 29.743
+},
+{
+"text": "pesquisa.",
+"start": 29.754,
+"end": 30.312
+},
+{
+"text": "Alguém",
+"start": 31.083,
+"end": 31.429
+},
+{
+"text": "no",
+"start": 31.44,
+"end": 31.529
+},
+{
+"text": "mundo",
+"start": 31.54,
+"end": 31.853
+},
+{
+"text": "já",
+"start": 31.864,
+"end": 32.009
+},
+{
+"text": "passou",
+"start": 32.02,
+"end": 32.4
+},
+{
+"text": "por",
+"start": 32.411,
+"end": 32.556
+},
+{
+"text": "isso!",
+"start": 32.567,
+"end": 32.902
+},
+{
+"text": "Salva",
+"start": 33.672,
+"end": 34.107
+},
+{
+"text": "esse",
+"start": 34.118,
+"end": 34.33
+},
+{
+"text": "vídeo",
+"start": 34.342,
+"end": 34.576
+},
+{
+"text": "pro",
+"start": 34.587,
+"end": 34.699
+},
+{
+"text": "próximo",
+"start": 34.71,
+"end": 35.179
+},
+{
+"text": "erro",
+"start": 35.19,
+"end": 35.413
+},
+{
+"text": "e",
+"start": 35.424,
+"end": 35.469
+},
+{
+"text": "me",
+"start": 35.48,
+"end": 35.58
+},
+{
+"text": "segue",
+"start": 35.592,
+"end": 35.915
+},
+{
+"text": "pra",
+"start": 35.926,
+"end": 36.049
+},
+{
+"text": "aprender",
+"start": 36.06,
+"end": 36.462
+},
+{
+"text": "mais!",
+"start": 36.473,
+"end": 36.931
+}
+]
