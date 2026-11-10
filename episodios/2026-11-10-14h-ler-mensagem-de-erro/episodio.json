@@ -1,0 +1,19 @@
+{
+  "titulo": "Seu código deu erro? Faça isso antes de desistir",
+  "roteiro": "Pare de entrar em pânico quando o código fica vermelho! O erro está tentando te ajudar. Primeiro: leia a mensagem inteira, sem pular. Ela diz o tipo do erro e o que deu errado. Segundo: olhe o número da linha. O problema está ali ou logo acima, tipo uma chave ou um parêntese esquecido. Terceiro: entenda o tipo. ReferenceError quase sempre é um nome digitado errado ou uma variável que não existe. Quarto: ainda travou? Copia a mensagem e pesquisa. Alguém no mundo já passou por isso! Salva esse vídeo pro próximo erro e me segue pra aprender mais!",
+  "legenda": "Mensagem de erro não é bronca, é pista: quatro passos para resolver o erro sem desespero. Salva para o próximo bug!",
+  "hashtags": ["programacao", "aprenderaprogramar", "javascript", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "riscado", "texto": "Entrar em pânico"}, {"tipo": "selo", "texto": "ERRO", "cor": "#FE2C55"}]},
+    {"inicio": "erro", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "carimbo", "texto": "O ERRO É UMA PISTA", "cor": "#3FB27F"}]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "texto", "texto": "Leia a mensagem inteira", "cor": "#24292F", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Ela", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "codigo", "linhas": ["console.log(nome)", "", "Uncaught ReferenceError:", "nome is not defined", "  at script.js:1"]}]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "chips", "itens": ["Número da linha", "Ali ou logo acima"]}]},
+    {"inicio": "problema", "fundo": 0, "expressao": "bravo", "elementos": [{"tipo": "lista", "itens": ["Chave } esquecida", "Parêntese ) esquecido"], "marcar": "x"}]},
+    {"inicio": "Terceiro", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "selo", "texto": "ReferenceError", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "nome", "fundo": 2, "expressao": "surpreso", "elementos": [{"tipo": "versus", "a": "nmoe", "b": "nome", "cor_a": "#FE2C55", "cor_b": "#3FB27F"}]},
+    {"inicio": "Quarto", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "4"}, {"tipo": "chips", "itens": ["Copia a mensagem", "Cola na pesquisa", "Lê as respostas"]}]},
+    {"inicio": "Alguém", "fundo": 4, "expressao": "rindo", "elementos": [{"tipo": "carimbo", "texto": "VOCÊ NÃO ESTÁ SOZINHO", "cor": "#264DE4"}]},
+    {"inicio": "Salva", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "SALVA PRO PRÓXIMO ERRO", "sub": "e me segue pra aprender mais"}]}
+  ]
+}
