@@ -1,0 +1,181 @@
+{
+  "titulo": "Git explicado em 40 segundos",
+  "roteiro": "Você ainda salva o projeto como final, final dois, agora vai? O Git resolve isso! Ele é um controle de versões: guarda toda a história do seu código. São três passos. Primeiro: git init cria o repositório na pasta do projeto. Segundo: git add escolhe quais mudanças entram na foto. Terceiro: git commit tira a foto, com uma mensagem dizendo o que mudou. Errou feio? Dá pra voltar pra um commit antigo. E atenção: Git roda no seu computador. O GitHub guarda seu código na nuvem e ainda vira portfólio. Salva esse vídeo e me segue pra parte dois, com o git push!",
+  "legenda": "Nunca mais salve arquivo como final_final_agora_vai. Você já usa Git nos seus projetos? Comenta aqui!",
+  "hashtags": [
+    "git",
+    "programacao",
+    "aprenderaprogramar",
+    "dev",
+    "lpwebdev"
+  ],
+  "cenas": [
+    {
+      "inicio": "",
+      "fundo": 0,
+      "expressao": "oculos",
+      "elementos": [
+        {
+          "tipo": "riscado",
+          "texto": "final_final2_agoravai"
+        }
+      ]
+    },
+    {
+      "inicio": "resolve",
+      "fundo": 1,
+      "expressao": "confiante",
+      "elementos": [
+        {
+          "tipo": "selo",
+          "texto": "GIT",
+          "cor": "#F05032",
+          "cor_texto": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "inicio": "controle",
+      "fundo": 2,
+      "expressao": "pensando",
+      "elementos": [
+        {
+          "tipo": "chips",
+          "itens": [
+            "Controle de versões",
+            "Histórico",
+            "Voltar no tempo"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": "três",
+      "fundo": 3,
+      "expressao": "surpreso",
+      "elementos": [
+        {
+          "tipo": "carimbo",
+          "texto": "3 PASSOS",
+          "cor": "#F05032"
+        }
+      ]
+    },
+    {
+      "inicio": "Primeiro",
+      "fundo": 4,
+      "expressao": "confiante",
+      "elementos": [
+        {
+          "tipo": "numero",
+          "texto": "1"
+        },
+        {
+          "tipo": "codigo",
+          "linhas": [
+            "$ git init",
+            "Initialized empty",
+            "Git repository"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": "Segundo",
+      "fundo": 0,
+      "expressao": "pensando",
+      "elementos": [
+        {
+          "tipo": "numero",
+          "texto": "2"
+        },
+        {
+          "tipo": "texto",
+          "texto": "git add = escolhe o que entra na foto",
+          "cor": "#264DE4",
+          "cor_texto": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "inicio": "Terceiro",
+      "fundo": 1,
+      "expressao": "rindo",
+      "elementos": [
+        {
+          "tipo": "numero",
+          "texto": "3"
+        },
+        {
+          "tipo": "codigo",
+          "linhas": [
+            "$ git add index.html",
+            "$ git commit -m \"topo\""
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": "Errou",
+      "fundo": 2,
+      "expressao": "bravo",
+      "elementos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "commit: topo",
+            "commit: menu",
+            "commit: quebrei tudo"
+          ],
+          "marcar": "x"
+        },
+        {
+          "tipo": "carimbo",
+          "texto": "VOLTA NO TEMPO",
+          "cor": "#3FB27F"
+        }
+      ]
+    },
+    {
+      "inicio": "atenção",
+      "fundo": 4,
+      "expressao": "pensando",
+      "elementos": [
+        {
+          "tipo": "versus",
+          "a": "Git: no seu PC",
+          "b": "GitHub: na nuvem",
+          "cor_a": "#F05032",
+          "cor_b": "#3FB27F"
+        }
+      ]
+    },
+    {
+      "inicio": "GitHub",
+      "fundo": 0,
+      "expressao": "rindo",
+      "elementos": [
+        {
+          "tipo": "chips",
+          "itens": [
+            "Nuvem",
+            "Backup",
+            "Portfólio"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": "Salva",
+      "fundo": 1,
+      "expressao": "oculos",
+      "elementos": [
+        {
+          "tipo": "parte2",
+          "texto": "PARTE 2: GIT PUSH",
+          "sub": "me segue pra não perder"
+        }
+      ]
+    }
+  ]
+}
