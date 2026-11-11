@@ -1,0 +1,183 @@
+{
+  "titulo": "Git push: mande seu código pro GitHub",
+  "roteiro": "Fez o commit e o código continua só no seu computador? Falta o git push! Essa é a parte dois do Git. Primeiro: crie um repositório vazio no GitHub e copie o link. Segundo: no terminal, digite git remote add origin e cole o link. Isso liga sua pasta ao GitHub. Terceiro: git push, traço u, origin main. Pronto! Seus commits sobem pra nuvem. Da próxima vez, é só git push. E se você mudou algo direto no GitHub? Use git pull pra trazer pro seu computador. Resumindo: push manda, pull puxa. Salva esse vídeo e comenta qual comando você quer na parte três!",
+  "legenda": "Seu código só no computador corre risco. Aprenda a mandar pro GitHub com git push. Qual comando do Git te confunde mais?",
+  "hashtags": [
+    "git",
+    "github",
+    "programacao",
+    "aprenderaprogramar",
+    "lpwebdev"
+  ],
+  "cenas": [
+    {
+      "inicio": "",
+      "fundo": 0,
+      "expressao": "oculos",
+      "elementos": [
+        {
+          "tipo": "versus",
+          "a": "Só no PC",
+          "b": "No GitHub",
+          "cor_a": "#FE2C55",
+          "cor_b": "#3FB27F"
+        }
+      ]
+    },
+    {
+      "inicio": "Falta",
+      "fundo": 1,
+      "expressao": "surpreso",
+      "elementos": [
+        {
+          "tipo": "selo",
+          "texto": "GIT PUSH",
+          "cor": "#F05032",
+          "cor_texto": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "inicio": "Primeiro",
+      "fundo": 2,
+      "expressao": "confiante",
+      "elementos": [
+        {
+          "tipo": "numero",
+          "texto": "1"
+        },
+        {
+          "tipo": "navegador",
+          "titulo": "New repository",
+          "url": "github.com/new",
+          "cor": "#3FB27F",
+          "botao": "Create repository"
+        }
+      ]
+    },
+    {
+      "inicio": "Segundo",
+      "fundo": 3,
+      "expressao": "pensando",
+      "elementos": [
+        {
+          "tipo": "numero",
+          "texto": "2"
+        },
+        {
+          "tipo": "codigo",
+          "linhas": [
+            "$ git remote add origin \\",
+            "  https://github.com/",
+            "  voce/projeto.git"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": "liga",
+      "fundo": 4,
+      "expressao": "rindo",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "origin = apelido do link do GitHub",
+          "cor": "#264DE4",
+          "cor_texto": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "inicio": "Terceiro",
+      "fundo": 0,
+      "expressao": "confiante",
+      "elementos": [
+        {
+          "tipo": "numero",
+          "texto": "3"
+        },
+        {
+          "tipo": "codigo",
+          "linhas": [
+            "$ git branch -M main",
+            "$ git push -u origin main"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": "Pronto",
+      "fundo": 1,
+      "expressao": "rindo",
+      "elementos": [
+        {
+          "tipo": "carimbo",
+          "texto": "NA NUVEM!",
+          "cor": "#3FB27F"
+        }
+      ]
+    },
+    {
+      "inicio": "próxima",
+      "fundo": 2,
+      "expressao": "oculos",
+      "elementos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "git add .",
+            "git commit -m \"menu\"",
+            "git push"
+          ],
+          "marcar": "check"
+        }
+      ]
+    },
+    {
+      "inicio": "mudou",
+      "fundo": 3,
+      "expressao": "pensando",
+      "elementos": [
+        {
+          "tipo": "codigo",
+          "linhas": [
+            "$ git pull"
+          ]
+        },
+        {
+          "tipo": "chips",
+          "itens": [
+            "GitHub",
+            "Seu PC"
+          ]
+        }
+      ]
+    },
+    {
+      "inicio": "Resumindo",
+      "fundo": 4,
+      "expressao": "surpreso",
+      "elementos": [
+        {
+          "tipo": "versus",
+          "a": "push manda",
+          "b": "pull puxa",
+          "cor_a": "#F05032",
+          "cor_b": "#264DE4"
+        }
+      ]
+    },
+    {
+      "inicio": "Salva",
+      "fundo": 0,
+      "expressao": "oculos",
+      "elementos": [
+        {
+          "tipo": "parte2",
+          "texto": "PARTE 3?",
+          "sub": "comenta o comando"
+        }
+      ]
+    }
+  ]
+}
