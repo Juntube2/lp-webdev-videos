@@ -1,0 +1,517 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.407
+},
+{
+"text": "ainda",
+"start": 0.418,
+"end": 0.708
+},
+{
+"text": "salva",
+"start": 0.72,
+"end": 1.032
+},
+{
+"text": "o",
+"start": 1.043,
+"end": 1.066
+},
+{
+"text": "projeto",
+"start": 1.077,
+"end": 1.512
+},
+{
+"text": "como",
+"start": 1.523,
+"end": 1.724
+},
+{
+"text": "final,",
+"start": 1.735,
+"end": 2.081
+},
+{
+"text": "final",
+"start": 2.304,
+"end": 2.572
+},
+{
+"text": "dois,",
+"start": 2.583,
+"end": 2.952
+},
+{
+"text": "agora",
+"start": 3.097,
+"end": 3.376
+},
+{
+"text": "vai?",
+"start": 3.387,
+"end": 3.621
+},
+{
+"text": "O",
+"start": 4.386,
+"end": 4.509
+},
+{
+"text": "Git",
+"start": 4.52,
+"end": 4.777
+},
+{
+"text": "resolve",
+"start": 4.788,
+"end": 5.324
+},
+{
+"text": "isso!",
+"start": 5.335,
+"end": 5.67
+},
+{
+"text": "Ele",
+"start": 6.44,
+"end": 6.63
+},
+{
+"text": "é",
+"start": 6.641,
+"end": 6.685
+},
+{
+"text": "um",
+"start": 6.696,
+"end": 6.797
+},
+{
+"text": "controle",
+"start": 6.808,
+"end": 7.21
+},
+{
+"text": "de",
+"start": 7.221,
+"end": 7.299
+},
+{
+"text": "versões:",
+"start": 7.31,
+"end": 7.824
+},
+{
+"text": "guarda",
+"start": 8.047,
+"end": 8.393
+},
+{
+"text": "toda",
+"start": 8.404,
+"end": 8.65
+},
+{
+"text": "a",
+"start": 8.661,
+"end": 8.683
+},
+{
+"text": "história",
+"start": 8.694,
+"end": 9.018
+},
+{
+"text": "do",
+"start": 9.029,
+"end": 9.118
+},
+{
+"text": "seu",
+"start": 9.129,
+"end": 9.308
+},
+{
+"text": "código.",
+"start": 9.319,
+"end": 9.754
+},
+{
+"text": "São",
+"start": 10.525,
+"end": 10.837
+},
+{
+"text": "três",
+"start": 10.848,
+"end": 11.127
+},
+{
+"text": "passos.",
+"start": 11.138,
+"end": 11.641
+},
+{
+"text": "Primeiro:",
+"start": 12.411,
+"end": 12.846
+},
+{
+"text": "git",
+"start": 13.114,
+"end": 13.337
+},
+{
+"text": "init",
+"start": 13.348,
+"end": 13.605
+},
+{
+"text": "cria",
+"start": 13.616,
+"end": 13.817
+},
+{
+"text": "o",
+"start": 13.828,
+"end": 13.85
+},
+{
+"text": "repositório",
+"start": 13.862,
+"end": 14.475
+},
+{
+"text": "na",
+"start": 14.487,
+"end": 14.609
+},
+{
+"text": "pasta",
+"start": 14.621,
+"end": 14.911
+},
+{
+"text": "do",
+"start": 14.922,
+"end": 15.0
+},
+{
+"text": "projeto.",
+"start": 15.011,
+"end": 15.525
+},
+{
+"text": "Segundo:",
+"start": 16.295,
+"end": 16.83
+},
+{
+"text": "git",
+"start": 17.154,
+"end": 17.355
+},
+{
+"text": "add",
+"start": 17.366,
+"end": 17.5
+},
+{
+"text": "escolhe",
+"start": 17.511,
+"end": 17.891
+},
+{
+"text": "quais",
+"start": 17.902,
+"end": 18.147
+},
+{
+"text": "mudanças",
+"start": 18.159,
+"end": 18.638
+},
+{
+"text": "entram",
+"start": 18.65,
+"end": 18.973
+},
+{
+"text": "na",
+"start": 18.984,
+"end": 19.096
+},
+{
+"text": "foto.",
+"start": 19.107,
+"end": 19.487
+},
+{
+"text": "Terceiro:",
+"start": 20.257,
+"end": 20.748
+},
+{
+"text": "git",
+"start": 21.038,
+"end": 21.283
+},
+{
+"text": "commit",
+"start": 21.295,
+"end": 21.607
+},
+{
+"text": "tira",
+"start": 21.618,
+"end": 21.808
+},
+{
+"text": "a",
+"start": 21.819,
+"end": 21.853
+},
+{
+"text": "foto,",
+"start": 21.864,
+"end": 22.254
+},
+{
+"text": "com",
+"start": 22.545,
+"end": 22.667
+},
+{
+"text": "uma",
+"start": 22.679,
+"end": 22.768
+},
+{
+"text": "mensagem",
+"start": 22.779,
+"end": 23.292
+},
+{
+"text": "dizendo",
+"start": 23.304,
+"end": 23.705
+},
+{
+"text": "o",
+"start": 23.716,
+"end": 23.75
+},
+{
+"text": "que",
+"start": 23.761,
+"end": 23.85
+},
+{
+"text": "mudou.",
+"start": 23.862,
+"end": 24.185
+},
+{
+"text": "Errou",
+"start": 24.955,
+"end": 25.279
+},
+{
+"text": "feio?",
+"start": 25.29,
+"end": 25.658
+},
+{
+"text": "Dá",
+"start": 26.429,
+"end": 26.618
+},
+{
+"text": "pra",
+"start": 26.629,
+"end": 26.775
+},
+{
+"text": "voltar",
+"start": 26.786,
+"end": 27.221
+},
+{
+"text": "pra",
+"start": 27.232,
+"end": 27.388
+},
+{
+"text": "um",
+"start": 27.4,
+"end": 27.489
+},
+{
+"text": "commit",
+"start": 27.5,
+"end": 27.801
+},
+{
+"text": "antigo.",
+"start": 27.812,
+"end": 28.27
+},
+{
+"text": "E",
+"start": 29.04,
+"end": 29.141
+},
+{
+"text": "atenção:",
+"start": 29.152,
+"end": 29.71
+},
+{
+"text": "Git",
+"start": 29.944,
+"end": 30.19
+},
+{
+"text": "roda",
+"start": 30.201,
+"end": 30.491
+},
+{
+"text": "no",
+"start": 30.502,
+"end": 30.592
+},
+{
+"text": "seu",
+"start": 30.603,
+"end": 30.792
+},
+{
+"text": "computador.",
+"start": 30.804,
+"end": 31.384
+},
+{
+"text": "O",
+"start": 32.154,
+"end": 32.254
+},
+{
+"text": "GitHub",
+"start": 32.266,
+"end": 32.734
+},
+{
+"text": "guarda",
+"start": 32.746,
+"end": 33.103
+},
+{
+"text": "seu",
+"start": 33.114,
+"end": 33.281
+},
+{
+"text": "código",
+"start": 33.292,
+"end": 33.65
+},
+{
+"text": "na",
+"start": 33.661,
+"end": 33.75
+},
+{
+"text": "nuvem",
+"start": 33.761,
+"end": 34.118
+},
+{
+"text": "e",
+"start": 34.129,
+"end": 34.174
+},
+{
+"text": "ainda",
+"start": 34.185,
+"end": 34.498
+},
+{
+"text": "vira",
+"start": 34.509,
+"end": 34.743
+},
+{
+"text": "portfólio.",
+"start": 34.754,
+"end": 35.312
+},
+{
+"text": "Salva",
+"start": 36.083,
+"end": 36.484
+},
+{
+"text": "esse",
+"start": 36.496,
+"end": 36.674
+},
+{
+"text": "vídeo",
+"start": 36.685,
+"end": 36.987
+},
+{
+"text": "e",
+"start": 36.998,
+"end": 37.02
+},
+{
+"text": "me",
+"start": 37.031,
+"end": 37.121
+},
+{
+"text": "segue",
+"start": 37.132,
+"end": 37.411
+},
+{
+"text": "pra",
+"start": 37.422,
+"end": 37.567
+},
+{
+"text": "parte",
+"start": 37.578,
+"end": 37.868
+},
+{
+"text": "dois,",
+"start": 37.879,
+"end": 38.214
+},
+{
+"text": "com",
+"start": 38.449,
+"end": 38.65
+},
+{
+"text": "o",
+"start": 38.661,
+"end": 38.683
+},
+{
+"text": "git",
+"start": 38.694,
+"end": 38.984
+},
+{
+"text": "push!",
+"start": 38.996,
+"end": 39.42
+}
+]
