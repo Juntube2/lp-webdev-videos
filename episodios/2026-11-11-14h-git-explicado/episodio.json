@@ -17,7 +17,7 @@
       "elementos": [
         {
           "tipo": "riscado",
-          "texto": "final_final2_agoravai"
+          "texto": "final_final2"
         }
       ]
     },
@@ -125,14 +125,9 @@
           "itens": [
             "commit: topo",
             "commit: menu",
-            "commit: quebrei tudo"
+            "volta pro menu"
           ],
-          "marcar": "x"
-        },
-        {
-          "tipo": "carimbo",
-          "texto": "VOLTA NO TEMPO",
-          "cor": "#3FB27F"
+          "marcar": "check"
         }
       ]
     },
@@ -143,8 +138,8 @@
       "elementos": [
         {
           "tipo": "versus",
-          "a": "Git: no seu PC",
-          "b": "GitHub: na nuvem",
+          "a": "Git",
+          "b": "GitHub",
           "cor_a": "#F05032",
           "cor_b": "#3FB27F"
         }
