@@ -31,7 +31,7 @@
       "elementos": [
         {
           "tipo": "selo",
-          "texto": "GIT PUSH",
+          "texto": "PUSH",
           "cor": "#F05032",
           "cor_texto": "#FFFFFF"
         }
@@ -43,15 +43,11 @@
       "expressao": "confiante",
       "elementos": [
         {
-          "tipo": "numero",
-          "texto": "1"
-        },
-        {
           "tipo": "navegador",
-          "titulo": "New repository",
+          "titulo": "Novo repositório",
           "url": "github.com/new",
           "cor": "#3FB27F",
-          "botao": "Create repository"
+          "botao": "Criar"
         }
       ]
     },
@@ -141,14 +137,8 @@
         {
           "tipo": "codigo",
           "linhas": [
-            "$ git pull"
-          ]
-        },
-        {
-          "tipo": "chips",
-          "itens": [
-            "GitHub",
-            "Seu PC"
+            "$ git pull",
+            "# GitHub -> seu PC"
           ]
         }
       ]
