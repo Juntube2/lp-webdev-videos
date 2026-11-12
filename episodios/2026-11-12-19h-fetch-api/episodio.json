@@ -1,0 +1,18 @@
+{
+  "titulo": "Fetch: pegue dados de uma API com JavaScript",
+  "roteiro": "Parte dois da API: hoje você vai pedir dados de verdade com fetch! Lembra do garçom? Em JavaScript, quem leva o pedido é o fetch. Primeiro: chame fetch com o endereço da API. Segundo: a resposta não chega na hora. Por isso usamos await, que espera o prato chegar. Terceiro: transforme a resposta em dados com ponto json, também com await. Pronto! Agora é só usar, tipo mostrar a temperatura na tela. Atenção: num script comum, await precisa ficar dentro de uma função async. E se a internet cair? Use try e catch pra tratar o erro. Salva esse vídeo e segue pra mais!",
+  "legenda": "Parte 2 da API: o fetch é o garçom do JavaScript. Salva pra testar depois!",
+  "hashtags": ["javascript", "api", "fetch", "programacao", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "API", "cor": "#3FB27F", "cor_texto": "#FFFFFF"}, {"tipo": "texto", "texto": "Parte 2: fetch", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "Lembra", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "versus", "a": "Garçom", "b": "fetch", "cor_a": "#3FB27F", "cor_b": "#F0DB4F"}]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "codigo", "linhas": ["fetch(url)"]}]},
+    {"inicio": "Segundo", "fundo": 3, "expressao": "surpreso", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "riscado", "texto": "Resposta na hora"}]},
+    {"inicio": "Por", "fundo": 4, "expressao": "pensando", "elementos": [{"tipo": "carimbo", "texto": "AWAIT = ESPERA", "cor": "#264DE4"}]},
+    {"inicio": "Terceiro", "fundo": 0, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "codigo", "linhas": ["const r = await fetch(url);", "const dados = await r.json();"]}]},
+    {"inicio": "Pronto", "fundo": 1, "expressao": "rindo", "elementos": [{"tipo": "navegador", "titulo": "Tempo Agora", "url": "tempoagora.app", "cor": "#3776AB", "botao": "31 graus"}]},
+    {"inicio": "Atenção", "fundo": 2, "expressao": "bravo", "elementos": [{"tipo": "codigo", "linhas": ["async function verTempo() {", " const r = await fetch(url);", " const dados = await r.json();", " console.log(dados);", "}"]}]},
+    {"inicio": "internet", "fundo": 3, "expressao": "pensando", "elementos": [{"tipo": "lista", "itens": ["try: tenta o pedido", "catch: trata o erro"], "marcar": "check"}]},
+    {"inicio": "Salva", "fundo": 4, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "SALVA!", "sub": "segue pra mais"}]}
+  ]
+}
