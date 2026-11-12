@@ -1,0 +1,19 @@
+{
+  "titulo": "API explicada com um garçom",
+  "roteiro": "Você usa API todo dia e nem sabe! Pensa num restaurante. Você é o cliente, a cozinha é o servidor, e o garçom é a API. Primeiro: você faz o pedido. Isso é a requisição. Segundo: o garçom leva o pedido até a cozinha. Você nunca entra lá! Terceiro: ele volta com o prato. Isso é a resposta. Na web, essa resposta costuma vir em JSON. Exemplo: o app do tempo pede a previsão pra uma API, e ela devolve a temperatura da sua cidade. Em JavaScript, esse pedido é feito com fetch. Segue o perfil e comenta API pra ver o fetch na parte dois!",
+  "legenda": "API é o garçom entre o seu app e o servidor. Agora ficou fácil? Comenta API pra parte dois com fetch.",
+  "hashtags": ["api", "javascript", "programacao", "aprenderaprogramar", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "API", "cor": "#3FB27F", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Pensa", "fundo": 1, "expressao": "pensando", "elementos": [{"tipo": "chips", "itens": ["Cliente = você", "Cozinha = servidor", "Garçom = API"]}]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "texto", "texto": "Pedido = requisição", "cor": "#264DE4", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Segundo", "fundo": 3, "expressao": "rindo", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "versus", "a": "Seu app", "b": "Servidor", "cor_a": "#264DE4", "cor_b": "#F05032"}]},
+    {"inicio": "nunca", "fundo": 4, "expressao": "bravo", "elementos": [{"tipo": "riscado", "texto": "Entrar na cozinha"}]},
+    {"inicio": "Terceiro", "fundo": 0, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "carimbo", "texto": "RESPOSTA!", "cor": "#3FB27F"}]},
+    {"inicio": "web", "fundo": 1, "expressao": "surpreso", "elementos": [{"tipo": "codigo", "linhas": ["{", "  \"cidade\": \"Recife\",", "  \"temperatura\": 31", "}"]}]},
+    {"inicio": "Exemplo", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "navegador", "titulo": "Tempo Agora", "url": "tempoagora.app", "cor": "#3776AB", "botao": "Ver previsão"}]},
+    {"inicio": "devolve", "fundo": 3, "expressao": "rindo", "elementos": [{"tipo": "lista", "itens": ["Pede a previsão", "API busca no servidor", "Devolve a temperatura"], "marcar": "check"}]},
+    {"inicio": "JavaScript", "fundo": 4, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "JS", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}, {"tipo": "codigo", "linhas": ["fetch(url)", "  .then(r => r.json())", "  .then(d => console.log(d))"]}]},
+    {"inicio": "Segue", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "PARTE 2?", "sub": "comenta API"}]}
+  ]
+}
