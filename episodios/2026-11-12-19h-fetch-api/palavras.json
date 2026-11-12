@@ -1,0 +1,522 @@
+[
+{
+"text": "Parte",
+"start": 0.095,
+"end": 0.418
+},
+{
+"text": "dois",
+"start": 0.429,
+"end": 0.675
+},
+{
+"text": "da",
+"start": 0.686,
+"end": 0.764
+},
+{
+"text": "API:",
+"start": 0.775,
+"end": 1.267
+},
+{
+"text": "hoje",
+"start": 1.49,
+"end": 1.758
+},
+{
+"text": "você",
+"start": 1.769,
+"end": 2.014
+},
+{
+"text": "vai",
+"start": 2.025,
+"end": 2.148
+},
+{
+"text": "pedir",
+"start": 2.159,
+"end": 2.427
+},
+{
+"text": "dados",
+"start": 2.438,
+"end": 2.762
+},
+{
+"text": "de",
+"start": 2.773,
+"end": 2.851
+},
+{
+"text": "verdade",
+"start": 2.862,
+"end": 3.331
+},
+{
+"text": "com",
+"start": 3.342,
+"end": 3.499
+},
+{
+"text": "fetch!",
+"start": 3.51,
+"end": 3.833
+},
+{
+"text": "Lembra",
+"start": 4.598,
+"end": 4.955
+},
+{
+"text": "do",
+"start": 4.966,
+"end": 5.033
+},
+{
+"text": "garçom?",
+"start": 5.045,
+"end": 5.502
+},
+{
+"text": "Em",
+"start": 6.272,
+"end": 6.417
+},
+{
+"text": "JavaScript,",
+"start": 6.429,
+"end": 7.254
+},
+{
+"text": "quem",
+"start": 7.466,
+"end": 7.645
+},
+{
+"text": "leva",
+"start": 7.656,
+"end": 7.902
+},
+{
+"text": "o",
+"start": 7.913,
+"end": 7.935
+},
+{
+"text": "pedido",
+"start": 7.946,
+"end": 8.304
+},
+{
+"text": "é",
+"start": 8.315,
+"end": 8.404
+},
+{
+"text": "o",
+"start": 8.415,
+"end": 8.46
+},
+{
+"text": "fetch.",
+"start": 8.471,
+"end": 8.817
+},
+{
+"text": "Primeiro:",
+"start": 9.587,
+"end": 10.0
+},
+{
+"text": "chame",
+"start": 10.201,
+"end": 10.502
+},
+{
+"text": "fetch",
+"start": 10.513,
+"end": 10.792
+},
+{
+"text": "com",
+"start": 10.804,
+"end": 10.915
+},
+{
+"text": "o",
+"start": 10.926,
+"end": 10.971
+},
+{
+"text": "endereço",
+"start": 10.982,
+"end": 11.406
+},
+{
+"text": "da",
+"start": 11.417,
+"end": 11.496
+},
+{
+"text": "API.",
+"start": 11.507,
+"end": 12.042
+},
+{
+"text": "Segundo:",
+"start": 12.812,
+"end": 13.382
+},
+{
+"text": "a",
+"start": 13.605,
+"end": 13.672
+},
+{
+"text": "resposta",
+"start": 13.683,
+"end": 14.23
+},
+{
+"text": "não",
+"start": 14.241,
+"end": 14.386
+},
+{
+"text": "chega",
+"start": 14.397,
+"end": 14.676
+},
+{
+"text": "na",
+"start": 14.688,
+"end": 14.799
+},
+{
+"text": "hora.",
+"start": 14.81,
+"end": 15.089
+},
+{
+"text": "Por",
+"start": 15.859,
+"end": 16.027
+},
+{
+"text": "isso",
+"start": 16.038,
+"end": 16.295
+},
+{
+"text": "usamos",
+"start": 16.306,
+"end": 16.585
+},
+{
+"text": "await,",
+"start": 16.596,
+"end": 17.076
+},
+{
+"text": "que",
+"start": 17.221,
+"end": 17.321
+},
+{
+"text": "espera",
+"start": 17.333,
+"end": 17.623
+},
+{
+"text": "o",
+"start": 17.634,
+"end": 17.667
+},
+{
+"text": "prato",
+"start": 17.679,
+"end": 17.98
+},
+{
+"text": "chegar.",
+"start": 17.991,
+"end": 18.371
+},
+{
+"text": "Terceiro:",
+"start": 19.141,
+"end": 19.621
+},
+{
+"text": "transforme",
+"start": 19.888,
+"end": 20.446
+},
+{
+"text": "a",
+"start": 20.458,
+"end": 20.491
+},
+{
+"text": "resposta",
+"start": 20.502,
+"end": 20.949
+},
+{
+"text": "em",
+"start": 20.96,
+"end": 21.027
+},
+{
+"text": "dados",
+"start": 21.038,
+"end": 21.373
+},
+{
+"text": "com",
+"start": 21.384,
+"end": 21.574
+},
+{
+"text": "ponto",
+"start": 21.585,
+"end": 21.875
+},
+{
+"text": "json,",
+"start": 21.886,
+"end": 22.143
+},
+{
+"text": "também",
+"start": 22.377,
+"end": 22.757
+},
+{
+"text": "com",
+"start": 22.768,
+"end": 22.913
+},
+{
+"text": "await.",
+"start": 22.924,
+"end": 23.292
+},
+{
+"text": "Pronto!",
+"start": 24.062,
+"end": 24.52
+},
+{
+"text": "Agora",
+"start": 25.29,
+"end": 25.692
+},
+{
+"text": "é",
+"start": 25.703,
+"end": 25.725
+},
+{
+"text": "só",
+"start": 25.737,
+"end": 25.938
+},
+{
+"text": "usar,",
+"start": 25.949,
+"end": 26.239
+},
+{
+"text": "tipo",
+"start": 26.496,
+"end": 26.741
+},
+{
+"text": "mostrar",
+"start": 26.752,
+"end": 27.098
+},
+{
+"text": "a",
+"start": 27.109,
+"end": 27.165
+},
+{
+"text": "temperatura",
+"start": 27.176,
+"end": 27.768
+},
+{
+"text": "na",
+"start": 27.779,
+"end": 27.891
+},
+{
+"text": "tela.",
+"start": 27.902,
+"end": 28.214
+},
+{
+"text": "Atenção:",
+"start": 28.984,
+"end": 29.587
+},
+{
+"text": "num",
+"start": 29.833,
+"end": 29.944
+},
+{
+"text": "script",
+"start": 29.955,
+"end": 30.402
+},
+{
+"text": "comum,",
+"start": 30.413,
+"end": 30.748
+},
+{
+"text": "await",
+"start": 31.004,
+"end": 31.283
+},
+{
+"text": "precisa",
+"start": 31.295,
+"end": 31.652
+},
+{
+"text": "ficar",
+"start": 31.663,
+"end": 31.964
+},
+{
+"text": "dentro",
+"start": 31.975,
+"end": 32.31
+},
+{
+"text": "de",
+"start": 32.321,
+"end": 32.377
+},
+{
+"text": "uma",
+"start": 32.388,
+"end": 32.522
+},
+{
+"text": "função",
+"start": 32.533,
+"end": 32.946
+},
+{
+"text": "async.",
+"start": 32.958,
+"end": 33.348
+},
+{
+"text": "E",
+"start": 34.118,
+"end": 34.241
+},
+{
+"text": "se",
+"start": 34.252,
+"end": 34.375
+},
+{
+"text": "a",
+"start": 34.386,
+"end": 34.42
+},
+{
+"text": "internet",
+"start": 34.431,
+"end": 35.011
+},
+{
+"text": "cair?",
+"start": 35.022,
+"end": 35.324
+},
+{
+"text": "Use",
+"start": 36.094,
+"end": 36.406
+},
+{
+"text": "try",
+"start": 36.417,
+"end": 36.629
+},
+{
+"text": "e",
+"start": 36.641,
+"end": 36.696
+},
+{
+"text": "catch",
+"start": 36.708,
+"end": 36.987
+},
+{
+"text": "pra",
+"start": 36.998,
+"end": 37.121
+},
+{
+"text": "tratar",
+"start": 37.132,
+"end": 37.467
+},
+{
+"text": "o",
+"start": 37.478,
+"end": 37.589
+},
+{
+"text": "erro.",
+"start": 37.6,
+"end": 37.835
+},
+{
+"text": "Salva",
+"start": 38.605,
+"end": 39.04
+},
+{
+"text": "esse",
+"start": 39.051,
+"end": 39.263
+},
+{
+"text": "vídeo",
+"start": 39.275,
+"end": 39.598
+},
+{
+"text": "e",
+"start": 39.609,
+"end": 39.643
+},
+{
+"text": "segue",
+"start": 39.654,
+"end": 39.967
+},
+{
+"text": "pra",
+"start": 39.978,
+"end": 40.112
+},
+{
+"text": "mais!",
+"start": 40.123,
+"end": 40.58
+}
+]
