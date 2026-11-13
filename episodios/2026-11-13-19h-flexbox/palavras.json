@@ -1,0 +1,482 @@
+[
+{
+"text": "Pare",
+"start": 0.095,
+"end": 0.34
+},
+{
+"text": "de",
+"start": 0.351,
+"end": 0.441
+},
+{
+"text": "centralizar",
+"start": 0.452,
+"end": 1.077
+},
+{
+"text": "com",
+"start": 1.088,
+"end": 1.267
+},
+{
+"text": "margem",
+"start": 1.278,
+"end": 1.646
+},
+{
+"text": "no",
+"start": 1.657,
+"end": 1.746
+},
+{
+"text": "chute!",
+"start": 1.758,
+"end": 2.193
+},
+{
+"text": "Aprenda",
+"start": 2.958,
+"end": 3.415
+},
+{
+"text": "flexbox",
+"start": 3.426,
+"end": 4.007
+},
+{
+"text": "em",
+"start": 4.018,
+"end": 4.13
+},
+{
+"text": "quarenta",
+"start": 4.141,
+"end": 4.565
+},
+{
+"text": "segundos.",
+"start": 4.576,
+"end": 5.167
+},
+{
+"text": "Primeiro:",
+"start": 5.938,
+"end": 6.339
+},
+{
+"text": "coloque",
+"start": 6.652,
+"end": 7.054
+},
+{
+"text": "display",
+"start": 7.065,
+"end": 7.4
+},
+{
+"text": "flex",
+"start": 7.411,
+"end": 7.768
+},
+{
+"text": "no",
+"start": 7.779,
+"end": 7.891
+},
+{
+"text": "pai,",
+"start": 7.902,
+"end": 8.158
+},
+{
+"text": "a",
+"start": 8.371,
+"end": 8.449
+},
+{
+"text": "caixa",
+"start": 8.46,
+"end": 8.795
+},
+{
+"text": "de",
+"start": 8.806,
+"end": 8.895
+},
+{
+"text": "fora.",
+"start": 8.906,
+"end": 9.252
+},
+{
+"text": "Pronto,",
+"start": 10.022,
+"end": 10.413
+},
+{
+"text": "os",
+"start": 10.67,
+"end": 10.815
+},
+{
+"text": "filhos",
+"start": 10.826,
+"end": 11.127
+},
+{
+"text": "ficam",
+"start": 11.138,
+"end": 11.462
+},
+{
+"text": "lado",
+"start": 11.473,
+"end": 11.685
+},
+{
+"text": "a",
+"start": 11.696,
+"end": 11.719
+},
+{
+"text": "lado,",
+"start": 11.73,
+"end": 12.087
+},
+{
+"text": "em",
+"start": 12.277,
+"end": 12.411
+},
+{
+"text": "linha.",
+"start": 12.422,
+"end": 12.734
+},
+{
+"text": "Segundo:",
+"start": 13.504,
+"end": 14.04
+},
+{
+"text": "justify-content",
+"start": 14.319,
+"end": 15.145
+},
+{
+"text": "arruma",
+"start": 15.156,
+"end": 15.402
+},
+{
+"text": "os",
+"start": 15.413,
+"end": 15.513
+},
+{
+"text": "filhos",
+"start": 15.525,
+"end": 15.837
+},
+{
+"text": "na",
+"start": 15.848,
+"end": 15.96
+},
+{
+"text": "horizontal.",
+"start": 15.971,
+"end": 16.574
+},
+{
+"text": "Center",
+"start": 17.344,
+"end": 17.779
+},
+{
+"text": "centraliza,",
+"start": 17.79,
+"end": 18.404
+},
+{
+"text": "space-between",
+"start": 18.605,
+"end": 19.252
+},
+{
+"text": "espalha.",
+"start": 19.263,
+"end": 19.71
+},
+{
+"text": "Terceiro:",
+"start": 20.48,
+"end": 20.982
+},
+{
+"text": "align-items",
+"start": 21.138,
+"end": 21.73
+},
+{
+"text": "cuida",
+"start": 21.741,
+"end": 22.02
+},
+{
+"text": "da",
+"start": 22.031,
+"end": 22.154
+},
+{
+"text": "vertical.",
+"start": 22.165,
+"end": 22.734
+},
+{
+"text": "Com",
+"start": 23.504,
+"end": 23.694
+},
+{
+"text": "center,",
+"start": 23.705,
+"end": 24.118
+},
+{
+"text": "tudo",
+"start": 24.353,
+"end": 24.598
+},
+{
+"text": "fica",
+"start": 24.609,
+"end": 24.844
+},
+{
+"text": "no",
+"start": 24.855,
+"end": 24.955
+},
+{
+"text": "meio",
+"start": 24.966,
+"end": 25.201
+},
+{
+"text": "da",
+"start": 25.212,
+"end": 25.279
+},
+{
+"text": "altura.",
+"start": 25.29,
+"end": 25.714
+},
+{
+"text": "Quarto:",
+"start": 26.484,
+"end": 26.886
+},
+{
+"text": "gap",
+"start": 27.087,
+"end": 27.31
+},
+{
+"text": "dá",
+"start": 27.321,
+"end": 27.4
+},
+{
+"text": "espaço",
+"start": 27.411,
+"end": 27.824
+},
+{
+"text": "entre",
+"start": 27.835,
+"end": 27.991
+},
+{
+"text": "os",
+"start": 28.002,
+"end": 28.025
+},
+{
+"text": "itens,",
+"start": 28.036,
+"end": 28.516
+},
+{
+"text": "sem",
+"start": 28.728,
+"end": 28.895
+},
+{
+"text": "gambiarra",
+"start": 28.906,
+"end": 29.442
+},
+{
+"text": "de",
+"start": 29.453,
+"end": 29.542
+},
+{
+"text": "margem.",
+"start": 29.554,
+"end": 29.978
+},
+{
+"text": "Quer",
+"start": 30.748,
+"end": 30.938
+},
+{
+"text": "um",
+"start": 30.949,
+"end": 31.06
+},
+{
+"text": "embaixo",
+"start": 31.071,
+"end": 31.496
+},
+{
+"text": "do",
+"start": 31.507,
+"end": 31.641
+},
+{
+"text": "outro?",
+"start": 31.652,
+"end": 31.987
+},
+{
+"text": "Use",
+"start": 32.757,
+"end": 33.047
+},
+{
+"text": "flex-direction",
+"start": 33.058,
+"end": 33.929
+},
+{
+"text": "column.",
+"start": 33.94,
+"end": 34.275
+},
+{
+"text": "E",
+"start": 35.045,
+"end": 35.156
+},
+{
+"text": "atenção:",
+"start": 35.167,
+"end": 35.77
+},
+{
+"text": "com",
+"start": 35.993,
+"end": 36.161
+},
+{
+"text": "column,",
+"start": 36.172,
+"end": 36.529
+},
+{
+"text": "horizontal",
+"start": 36.752,
+"end": 37.366
+},
+{
+"text": "e",
+"start": 37.377,
+"end": 37.411
+},
+{
+"text": "vertical",
+"start": 37.422,
+"end": 37.902
+},
+{
+"text": "trocam",
+"start": 37.913,
+"end": 38.281
+},
+{
+"text": "de",
+"start": 38.292,
+"end": 38.382
+},
+{
+"text": "papel!",
+"start": 38.393,
+"end": 38.795
+},
+{
+"text": "Salva",
+"start": 39.565,
+"end": 39.978
+},
+{
+"text": "esse",
+"start": 39.989,
+"end": 40.167
+},
+{
+"text": "vídeo",
+"start": 40.179,
+"end": 40.446
+},
+{
+"text": "e",
+"start": 40.458,
+"end": 40.48
+},
+{
+"text": "comenta",
+"start": 40.491,
+"end": 40.926
+},
+{
+"text": "se",
+"start": 40.938,
+"end": 41.071
+},
+{
+"text": "quer",
+"start": 41.083,
+"end": 41.239
+},
+{
+"text": "a",
+"start": 41.25,
+"end": 41.317
+},
+{
+"text": "parte",
+"start": 41.328,
+"end": 41.641
+},
+{
+"text": "dois",
+"start": 41.652,
+"end": 41.975
+},
+{
+"text": "com",
+"start": 41.987,
+"end": 42.132
+},
+{
+"text": "grid!",
+"start": 42.143,
+"end": 42.522
+}
+]
