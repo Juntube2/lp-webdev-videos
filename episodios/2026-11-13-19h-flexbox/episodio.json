@@ -1,0 +1,18 @@
+{
+  "titulo": "Flexbox explicado em 40 segundos",
+  "roteiro": "Pare de centralizar com margem no chute! Aprenda flexbox em quarenta segundos. Primeiro: coloque display flex no pai, a caixa de fora. Pronto, os filhos ficam lado a lado, em linha. Segundo: justify-content arruma os filhos na horizontal. Center centraliza, space-between espalha. Terceiro: align-items cuida da vertical. Com center, tudo fica no meio da altura. Quarto: gap dá espaço entre os itens, sem gambiarra de margem. Quer um embaixo do outro? Use flex-direction column. E atenção: com column, horizontal e vertical trocam de papel! Salva esse vídeo e comenta se quer a parte dois com grid!",
+  "legenda": "Flexbox sem medo: display flex, justify-content, align-items e gap. Salva pra usar no seu próximo site!",
+  "hashtags": ["css", "flexbox", "programacao", "frontend", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "selo", "texto": "CSS", "cor": "#264DE4", "cor_texto": "#FFFFFF"}, {"tipo": "texto", "texto": "Flexbox em 40s", "cor": "#3FB27F", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Primeiro", "fundo": 1, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "codigo", "linhas": [".pai {", "  display: flex;", "}"]}]},
+    {"inicio": "Pronto", "fundo": 2, "expressao": "surpreso", "elementos": [{"tipo": "chips", "itens": ["filho 1", "filho 2", "filho 3"]}]},
+    {"inicio": "Segundo", "fundo": 3, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "texto", "texto": "justify-content = horizontal", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "Center", "fundo": 4, "expressao": "rindo", "elementos": [{"tipo": "versus", "a": "center", "b": "space-between", "cor_a": "#3FB27F", "cor_b": "#264DE4"}]},
+    {"inicio": "Terceiro", "fundo": 0, "expressao": "confiante", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "codigo", "linhas": [".pai {", "  display: flex;", "  justify-content: center;", "  align-items: center;", "}"]}]},
+    {"inicio": "Quarto", "fundo": 1, "expressao": "rindo", "elementos": [{"tipo": "numero", "texto": "4"}, {"tipo": "riscado", "texto": "Gambiarra de margem"}, {"tipo": "carimbo", "texto": "GAP = ESPAÇO", "cor": "#3FB27F"}]},
+    {"inicio": "Quer", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "codigo", "linhas": [".pai {", "  display: flex;", "  flex-direction: column;", "  gap: 16px;", "}"]}]},
+    {"inicio": "atenção", "fundo": 3, "expressao": "surpreso", "elementos": [{"tipo": "carimbo", "texto": "EIXOS TROCAM!", "cor": "#FE2C55"}]},
+    {"inicio": "Salva", "fundo": 4, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "PARTE 2: GRID?", "sub": "comenta aí"}]}
+  ]
+}
