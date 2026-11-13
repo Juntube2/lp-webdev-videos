@@ -1,0 +1,19 @@
+{
+  "titulo": "Site lento perde cliente: 3 jeitos de acelerar",
+  "roteiro": "Seu site demora pra abrir? Então o cliente já foi embora pro concorrente! No celular, ninguém tem paciência pra página carregando. Veja três jeitos de deixar o site mais rápido. Primeiro: diminua as imagens. Foto direto da câmera é pesada demais. Redimensione e salve em formato WebP. Segundo: corte o que não precisa. Vídeo tocando sozinho no topo e um monte de plugin deixam tudo lento. Terceiro: teste de graça no PageSpeed Insights, do Google. Ele dá uma nota e mostra o que está pesando. Bônus: site rápido passa confiança e também conta pontos no Google. Comenta aí: o seu site abre rápido?",
+  "legenda": "Site lento faz o cliente desistir antes de ver o que você vende. Salva essas dicas e testa o seu hoje!",
+  "hashtags": ["sitesparanegocios", "desenvolvimentoweb", "programacao", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "navegador", "titulo": "Carregando...", "url": "padariadobairro.com.br", "cor": "#FE2C55"}]},
+    {"inicio": "Então", "fundo": 1, "expressao": "bravo", "elementos": [{"tipo": "carimbo", "texto": "CLIENTE FOI EMBORA", "cor": "#FE2C55"}]},
+    {"inicio": "celular", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "texto", "texto": "Ninguém espera carregar", "cor": "#264DE4", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Veja", "fundo": 3, "expressao": "confiante", "elementos": [{"tipo": "chips", "itens": ["Imagens", "Excessos", "Teste"]}]},
+    {"inicio": "Primeiro", "fundo": 4, "expressao": "surpreso", "elementos": [{"tipo": "numero", "texto": "1"}, {"tipo": "riscado", "texto": "Foto direto da câmera"}]},
+    {"inicio": "Redimensione", "fundo": 0, "expressao": "confiante", "elementos": [{"tipo": "versus", "a": "JPG gigante", "b": "WebP leve", "cor_a": "#FE2C55", "cor_b": "#3FB27F"}]},
+    {"inicio": "Segundo", "fundo": 1, "expressao": "bravo", "elementos": [{"tipo": "numero", "texto": "2"}, {"tipo": "lista", "itens": ["Vídeo tocando sozinho", "Plugin demais"], "marcar": "x"}]},
+    {"inicio": "Terceiro", "fundo": 2, "expressao": "pensando", "elementos": [{"tipo": "numero", "texto": "3"}, {"tipo": "selo", "texto": "PageSpeed", "cor": "#3776AB", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Ele", "fundo": 3, "expressao": "surpreso", "elementos": [{"tipo": "grafico", "texto": "Nota do site subindo"}]},
+    {"inicio": "Bônus", "fundo": 4, "expressao": "rindo", "elementos": [{"tipo": "chips", "itens": ["Confiança", "Pontos no Google"]}]},
+    {"inicio": "Comenta", "fundo": 0, "expressao": "oculos", "elementos": [{"tipo": "parte2", "texto": "COMENTA!", "sub": "seu site abre rápido?"}]}
+  ]
+}
