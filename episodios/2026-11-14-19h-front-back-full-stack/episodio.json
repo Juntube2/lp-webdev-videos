@@ -1,0 +1,44 @@
+{
+  "titulo": "Front-end, back-end e full-stack: qual a diferença?",
+  "roteiro": "Front-end, back-end e full-stack: você sabe a diferença? Pensa num restaurante. Primeiro: o front-end é o salão. É tudo que o usuário vê e clica: botões, cores, textos. Quem faz usa HTML, CSS e JavaScript. Segundo: o back-end é a cozinha. O cliente não vê, mas é lá que o trabalho pesado acontece: login, pagamento, salvar dados no banco. Linguagens comuns: Python, Java, PHP e JavaScript com Node. Terceiro: full-stack é quem trabalha nos dois lados. Dica: muita gente começa pelo front-end, porque vê o resultado na hora. Comenta qual lado você quer seguir e me segue pra mais!",
+  "legenda": "Front-end, back-end ou full-stack? Explicado com um restaurante. Comenta qual lado você quer seguir!",
+  "hashtags": ["programacao", "aprenderaprogramar", "frontend", "backend", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [
+      {"tipo": "chips", "itens": ["front-end", "back-end", "full-stack"]}
+    ]},
+    {"inicio": "Pensa", "fundo": 1, "expressao": "pensando", "elementos": [
+      {"tipo": "versus", "a": "Salão", "b": "Cozinha", "cor_a": "#3FB27F", "cor_b": "#FE2C55"}
+    ]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "confiante", "elementos": [
+      {"tipo": "numero", "texto": "1"},
+      {"tipo": "navegador", "titulo": "Padaria Pão Quente", "url": "paoquente.com.br", "cor": "#E34F26", "botao": "Fazer pedido"}
+    ]},
+    {"inicio": "Quem", "fundo": 3, "expressao": "oculos", "elementos": [
+      {"tipo": "selo", "texto": "HTML", "cor": "#E34F26"},
+      {"tipo": "selo", "texto": "CSS", "cor": "#264DE4"},
+      {"tipo": "selo", "texto": "JS", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}
+    ]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "surpreso", "elementos": [
+      {"tipo": "numero", "texto": "2"},
+      {"tipo": "texto", "texto": "Back-end = a cozinha", "cor": "#FE2C55", "cor_texto": "#FFFFFF"}
+    ]},
+    {"inicio": "login", "fundo": 0, "expressao": "pensando", "elementos": [
+      {"tipo": "lista", "itens": ["Login", "Pagamento", "Salvar no banco"], "marcar": "check"}
+    ]},
+    {"inicio": "Linguagens", "fundo": 1, "expressao": "confiante", "elementos": [
+      {"tipo": "chips", "itens": ["Python", "Java", "PHP", "Node.js"]}
+    ]},
+    {"inicio": "Terceiro", "fundo": 2, "expressao": "rindo", "elementos": [
+      {"tipo": "numero", "texto": "3"},
+      {"tipo": "carimbo", "texto": "FULL-STACK = OS DOIS", "cor": "#3FB27F"}
+    ]},
+    {"inicio": "Dica", "fundo": 3, "expressao": "surpreso", "elementos": [
+      {"tipo": "codigo", "linhas": ["<h1>Olá, mundo!</h1>", "<button>Clique</button>"]},
+      {"tipo": "texto", "texto": "Resultado na hora", "cor": "#3FB27F", "cor_texto": "#FFFFFF"}
+    ]},
+    {"inicio": "Comenta", "fundo": 4, "expressao": "oculos", "elementos": [
+      {"tipo": "parte2", "texto": "FRONT OU BACK?", "sub": "comenta aí"}
+    ]}
+  ]
+}
