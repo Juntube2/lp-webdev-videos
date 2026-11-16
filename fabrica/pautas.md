@@ -1,47 +1,42 @@
 # Banco de pautas
 
-Ideias de temas. Use livremente, combine ou invente novos no mesmo estilo. Marque nada aqui: o controle do que já foi ao ar
-fica em `historico.md`.
+Ideias de temas. Use, combine ou invente no mesmo estilo. O que já foi ao ar fica em `historico.md`.
+Antes de falar de meta, armas ou números, confira o patch/temporada atual na web.
 
-## Programação para iniciantes
+## Valorant (console)
 
-- Como começar a programar do zero — parte 2: o que estudar no primeiro mês
-- Lógica de programação explicada com uma receita de bolo
-- Variável é uma caixa com etiqueta (com exemplo em JavaScript)
-- `if` e `else` explicados com o semáforo
-- Laço `for` em 30 segundos
-- O que é uma função e por que ela evita repetição
-- HTML, CSS e JavaScript: o esqueleto, a roupa e os músculos do site
-- Qual linguagem aprender primeiro: Python ou JavaScript?
-- 3 erros que todo iniciante comete (e como evitar)
-- O que é Git e por que todo dev usa
-- O que é uma API, com o exemplo do garçom
-- Front-end, back-end e full-stack: qual a diferença?
-- O que é banco de dados explicado com uma planilha
-- Como estudar programação sem desistir no primeiro mês
-- Inglês para programar: quanto você realmente precisa
-- O que fazer quando o código dá erro (ler a mensagem!)
-- Console.log: o melhor amigo do iniciante
-- Arrays explicados com uma fila de supermercado
-- Objetos em JavaScript explicados com a ficha de um personagem
-- O que é responsividade e por que o site quebra no celular
-- Flexbox em 40 segundos
-- 5 projetos para colocar no portfólio
-- Usar IA para programar: ajuda ou atrapalha quem está começando?
-- Tutorial infinito: como sair dele
-- O que é um framework (React, Vue) e quando aprender
-- Python em 40 segundos: seu primeiro programa
-- Comentários no código: quando usar
-- Diferença entre `=`, `==` e `===` em JavaScript
-- O que é deploy: colocar o site no ar
-- Rotina de estudo de 1 hora por dia
+- 3 erros que todo jogador de console comete
+- Onde deixar a mira: altura da cabeça e o canto que o inimigo aparece
+- Peek curto x peek longo: quando usar cada um
+- Vandal ou Phantom no console?
+- Sheriff no pistol: vale a pena?
+- Economia: quando dar eco e quando forçar
+- Posicionamento de defesa: não fique no lugar óbvio
+- Por que você morre primeiro no round (e como evitar)
+- Configurações de controle que ajudam a mirar (sensibilidade, zona morta)
+- Como segurar um ângulo sem tomar o primeiro tiro
+- Ataque: não entre no bomb sozinho
+- Curiosidades e easter eggs dos mapas
+- Agentes mais fáceis para começar no console
+- O que fazer no pós-plant
+- Como clutchar 1v2: ganhe um duelo de cada vez
+- Pare de pular e atirar (precisão no movimento)
+- Spots de um mapa (sempre com clipes daquele mapa)
 
-## Sites para negócios (cerca de 1 a cada 5 vídeos)
+## Fortnite (console)
 
-- Instagram não é site: 3 motivos
-- O que todo site de negócio local precisa ter
-- Seu cliente te procurou no Google. E agora?
-- Botão de WhatsApp no site: por que faz diferença
-- Site lento perde cliente
-- Domínio próprio x link gratuito: o que passa mais confiança
-- Landing page: o que é e quando usar
+- Melhor loadout da temporada para solo
+- 3 erros que fazem você morrer no começo da partida
+- Onde cair para ter loot sem morrer
+- Rotação de zona: quando sair e por onde ir
+- Zero build: como usar a cobertura e o deslize
+- Build: 3 edições que todo jogador de controle precisa saber
+- Configurações de controle para buildar mais rápido
+- Como ganhar a luta de perto
+- Cura certa na hora certa
+- Itens mais subestimados da temporada
+- Curiosidades e segredos do mapa atual
+- Como jogar o final da partida (top 10)
+- Mira no controle: sensibilidade e assistência de mira
+- Terceiro jogador chegando: como não ser o "terceiro" morto
+- Dicas para ranked
