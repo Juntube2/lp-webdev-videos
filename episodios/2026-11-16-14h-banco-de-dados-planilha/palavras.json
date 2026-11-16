@@ -1,0 +1,542 @@
+[
+{
+"text": "Banco",
+"start": 0.095,
+"end": 0.452
+},
+{
+"text": "de",
+"start": 0.463,
+"end": 0.541
+},
+{
+"text": "dados",
+"start": 0.552,
+"end": 0.842
+},
+{
+"text": "parece",
+"start": 0.854,
+"end": 1.2
+},
+{
+"text": "coisa",
+"start": 1.211,
+"end": 1.534
+},
+{
+"text": "de",
+"start": 1.546,
+"end": 1.668
+},
+{
+"text": "outro",
+"start": 1.679,
+"end": 1.903
+},
+{
+"text": "mundo?",
+"start": 1.914,
+"end": 2.237
+},
+{
+"text": "Ele",
+"start": 3.002,
+"end": 3.181
+},
+{
+"text": "funciona",
+"start": 3.192,
+"end": 3.661
+},
+{
+"text": "igual",
+"start": 3.672,
+"end": 3.973
+},
+{
+"text": "a",
+"start": 3.984,
+"end": 4.029
+},
+{
+"text": "uma",
+"start": 4.04,
+"end": 4.23
+},
+{
+"text": "planilha.",
+"start": 4.241,
+"end": 4.71
+},
+{
+"text": "Pensa",
+"start": 5.48,
+"end": 5.815
+},
+{
+"text": "no",
+"start": 5.826,
+"end": 5.904
+},
+{
+"text": "cadastro",
+"start": 5.915,
+"end": 6.417
+},
+{
+"text": "de",
+"start": 6.429,
+"end": 6.529
+},
+{
+"text": "uma",
+"start": 6.54,
+"end": 6.696
+},
+{
+"text": "padaria.",
+"start": 6.708,
+"end": 7.21
+},
+{
+"text": "Primeiro:",
+"start": 7.98,
+"end": 8.404
+},
+{
+"text": "cada",
+"start": 8.638,
+"end": 8.884
+},
+{
+"text": "tabela",
+"start": 8.895,
+"end": 9.23
+},
+{
+"text": "é",
+"start": 9.241,
+"end": 9.275
+},
+{
+"text": "como",
+"start": 9.286,
+"end": 9.498
+},
+{
+"text": "uma",
+"start": 9.509,
+"end": 9.687
+},
+{
+"text": "aba",
+"start": 9.699,
+"end": 9.933
+},
+{
+"text": "da",
+"start": 9.944,
+"end": 10.033
+},
+{
+"text": "planilha.",
+"start": 10.045,
+"end": 10.502
+},
+{
+"text": "Uma",
+"start": 11.272,
+"end": 11.484
+},
+{
+"text": "de",
+"start": 11.496,
+"end": 11.607
+},
+{
+"text": "clientes,",
+"start": 11.618,
+"end": 12.176
+},
+{
+"text": "outra",
+"start": 12.388,
+"end": 12.634
+},
+{
+"text": "de",
+"start": 12.645,
+"end": 12.734
+},
+{
+"text": "pedidos.",
+"start": 12.746,
+"end": 13.315
+},
+{
+"text": "Segundo:",
+"start": 14.085,
+"end": 14.609
+},
+{
+"text": "cada",
+"start": 14.855,
+"end": 15.1
+},
+{
+"text": "coluna",
+"start": 15.112,
+"end": 15.491
+},
+{
+"text": "é",
+"start": 15.502,
+"end": 15.525
+},
+{
+"text": "um",
+"start": 15.536,
+"end": 15.647
+},
+{
+"text": "tipo",
+"start": 15.659,
+"end": 15.926
+},
+{
+"text": "de",
+"start": 15.938,
+"end": 16.004
+},
+{
+"text": "informação,",
+"start": 16.016,
+"end": 16.652
+},
+{
+"text": "como",
+"start": 16.886,
+"end": 17.109
+},
+{
+"text": "nome",
+"start": 17.121,
+"end": 17.4
+},
+{
+"text": "e",
+"start": 17.411,
+"end": 17.455
+},
+{
+"text": "telefone.",
+"start": 17.466,
+"end": 18.013
+},
+{
+"text": "E",
+"start": 18.784,
+"end": 18.895
+},
+{
+"text": "cada",
+"start": 18.906,
+"end": 19.152
+},
+{
+"text": "linha",
+"start": 19.163,
+"end": 19.453
+},
+{
+"text": "é",
+"start": 19.464,
+"end": 19.498
+},
+{
+"text": "um",
+"start": 19.509,
+"end": 19.587
+},
+{
+"text": "registro,",
+"start": 19.598,
+"end": 20.167
+},
+{
+"text": "ou",
+"start": 20.368,
+"end": 20.48
+},
+{
+"text": "seja,",
+"start": 20.491,
+"end": 20.904
+},
+{
+"text": "um",
+"start": 21.071,
+"end": 21.216
+},
+{
+"text": "cliente.",
+"start": 21.228,
+"end": 21.696
+},
+{
+"text": "Terceiro:",
+"start": 22.466,
+"end": 22.958
+},
+{
+"text": "pra",
+"start": 23.203,
+"end": 23.359
+},
+{
+"text": "conversar",
+"start": 23.371,
+"end": 23.873
+},
+{
+"text": "com",
+"start": 23.884,
+"end": 24.062
+},
+{
+"text": "o",
+"start": 24.074,
+"end": 24.118
+},
+{
+"text": "banco,",
+"start": 24.129,
+"end": 24.453
+},
+{
+"text": "você",
+"start": 24.732,
+"end": 25.078
+},
+{
+"text": "usa",
+"start": 25.089,
+"end": 25.368
+},
+{
+"text": "SQL.",
+"start": 25.379,
+"end": 26.094
+},
+{
+"text": "Por",
+"start": 26.864,
+"end": 26.998
+},
+{
+"text": "exemplo:",
+"start": 27.009,
+"end": 27.422
+},
+{
+"text": "SELECT",
+"start": 27.69,
+"end": 28.17
+},
+{
+"text": "nome",
+"start": 28.181,
+"end": 28.449
+},
+{
+"text": "FROM",
+"start": 28.46,
+"end": 28.683
+},
+{
+"text": "clientes.",
+"start": 28.694,
+"end": 29.297
+},
+{
+"text": "Traduzindo:",
+"start": 30.067,
+"end": 30.681
+},
+{
+"text": "me",
+"start": 30.938,
+"end": 31.027
+},
+{
+"text": "mostra",
+"start": 31.038,
+"end": 31.44
+},
+{
+"text": "o",
+"start": 31.451,
+"end": 31.473
+},
+{
+"text": "nome",
+"start": 31.484,
+"end": 31.719
+},
+{
+"text": "de",
+"start": 31.73,
+"end": 31.875
+},
+{
+"text": "todos",
+"start": 31.886,
+"end": 32.154
+},
+{
+"text": "os",
+"start": 32.165,
+"end": 32.321
+},
+{
+"text": "clientes.",
+"start": 32.333,
+"end": 32.935
+},
+{
+"text": "E",
+"start": 33.705,
+"end": 33.817
+},
+{
+"text": "a",
+"start": 33.828,
+"end": 33.895
+},
+{
+"text": "diferença",
+"start": 33.906,
+"end": 34.464
+},
+{
+"text": "pra",
+"start": 34.475,
+"end": 34.587
+},
+{
+"text": "planilha?",
+"start": 34.598,
+"end": 35.1
+},
+{
+"text": "O",
+"start": 35.871,
+"end": 35.993
+},
+{
+"text": "banco",
+"start": 36.004,
+"end": 36.339
+},
+{
+"text": "aguenta",
+"start": 36.35,
+"end": 36.663
+},
+{
+"text": "milhões",
+"start": 36.674,
+"end": 37.02
+},
+{
+"text": "de",
+"start": 37.031,
+"end": 37.109
+},
+{
+"text": "linhas",
+"start": 37.121,
+"end": 37.377
+},
+{
+"text": "e",
+"start": 37.388,
+"end": 37.489
+},
+{
+"text": "muita",
+"start": 37.5,
+"end": 37.835
+},
+{
+"text": "gente",
+"start": 37.846,
+"end": 38.103
+},
+{
+"text": "usando",
+"start": 38.114,
+"end": 38.404
+},
+{
+"text": "ao",
+"start": 38.415,
+"end": 38.493
+},
+{
+"text": "mesmo",
+"start": 38.504,
+"end": 38.839
+},
+{
+"text": "tempo.",
+"start": 38.85,
+"end": 39.185
+},
+{
+"text": "Salva",
+"start": 39.955,
+"end": 40.368
+},
+{
+"text": "esse",
+"start": 40.379,
+"end": 40.558
+},
+{
+"text": "vídeo",
+"start": 40.569,
+"end": 40.871
+},
+{
+"text": "e",
+"start": 40.882,
+"end": 40.904
+},
+{
+"text": "me",
+"start": 40.915,
+"end": 41.016
+},
+{
+"text": "segue",
+"start": 41.027,
+"end": 41.35
+},
+{
+"text": "pra",
+"start": 41.362,
+"end": 41.529
+},
+{
+"text": "parte",
+"start": 41.54,
+"end": 41.864
+},
+{
+"text": "dois!",
+"start": 41.875,
+"end": 42.299
+}
+]
