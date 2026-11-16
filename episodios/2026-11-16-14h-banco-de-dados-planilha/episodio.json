@@ -1,0 +1,44 @@
+{
+  "titulo": "Banco de dados explicado com uma planilha",
+  "roteiro": "Banco de dados parece coisa de outro mundo? Ele funciona igual a uma planilha. Pensa no cadastro de uma padaria. Primeiro: cada tabela é como uma aba da planilha. Uma de clientes, outra de pedidos. Segundo: cada coluna é um tipo de informação, como nome e telefone. E cada linha é um registro, ou seja, um cliente. Terceiro: pra conversar com o banco, você usa SQL. Por exemplo: SELECT nome FROM clientes. Traduzindo: me mostra o nome de todos os clientes. E a diferença pra planilha? O banco aguenta milhões de linhas e muita gente usando ao mesmo tempo. Salva esse vídeo e me segue pra parte dois!",
+  "legenda": "Banco de dados é mais simples do que parece: pensa numa planilha. Salva pra estudar depois!",
+  "hashtags": ["programacao", "aprenderaprogramar", "bancodedados", "sql", "dev", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [
+      {"tipo": "texto", "texto": "Banco de dados = planilha?", "cor": "#3FB27F", "cor_texto": "#FFFFFF"}
+    ]},
+    {"inicio": "Pensa", "fundo": 1, "expressao": "pensando", "elementos": [
+      {"tipo": "navegador", "titulo": "Padaria Sol Nascente", "url": "solnascente.com.br", "cor": "#E34F26", "botao": "Cadastrar"}
+    ]},
+    {"inicio": "Primeiro", "fundo": 2, "expressao": "confiante", "elementos": [
+      {"tipo": "numero", "texto": "1"},
+      {"tipo": "carimbo", "texto": "TABELA = ABA", "cor": "#3FB27F"}
+    ]},
+    {"inicio": "clientes", "fundo": 3, "expressao": "oculos", "elementos": [
+      {"tipo": "chips", "itens": ["clientes", "pedidos", "produtos"]}
+    ]},
+    {"inicio": "Segundo", "fundo": 4, "expressao": "pensando", "elementos": [
+      {"tipo": "numero", "texto": "2"},
+      {"tipo": "codigo", "linhas": ["nome  | telefone", "Ana   | 11 9999-0000", "Bruno | 21 9888-0000"]}
+    ]},
+    {"inicio": "registro", "fundo": 0, "expressao": "surpreso", "elementos": [
+      {"tipo": "texto", "texto": "1 linha = 1 cliente", "cor": "#FE2C55", "cor_texto": "#FFFFFF"}
+    ]},
+    {"inicio": "Terceiro", "fundo": 1, "expressao": "confiante", "elementos": [
+      {"tipo": "numero", "texto": "3"},
+      {"tipo": "selo", "texto": "SQL", "cor": "#264DE4"}
+    ]},
+    {"inicio": "exemplo", "fundo": 2, "expressao": "oculos", "elementos": [
+      {"tipo": "codigo", "linhas": ["SELECT nome", "FROM clientes;"]}
+    ]},
+    {"inicio": "Traduzindo", "fundo": 3, "expressao": "rindo", "elementos": [
+      {"tipo": "lista", "itens": ["Ana", "Bruno", "Carla"], "marcar": "check"}
+    ]},
+    {"inicio": "diferença", "fundo": 4, "expressao": "surpreso", "elementos": [
+      {"tipo": "versus", "a": "Planilha", "b": "Banco de dados", "cor_a": "#3FB27F", "cor_b": "#264DE4"}
+    ]},
+    {"inicio": "Salva", "fundo": 0, "expressao": "oculos", "elementos": [
+      {"tipo": "parte2", "texto": "PARTE 2", "sub": "salva e me segue"}
+    ]}
+  ]
+}
