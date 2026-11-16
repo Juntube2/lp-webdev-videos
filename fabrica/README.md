@@ -77,7 +77,15 @@ Cada execução produz **um** episódio:
 - `forca` vai de 1 a 5 (5 = momento mais impressionante). Use os de força alta no começo do vídeo.
 - Em cada cena, `de` é o segundo do clipe onde a cena começa. Comece 0,5 a 1 s antes do momento.
 - Prefira clipes com menos `usos` e sem uso nos últimos 7 dias. Depois de agendar, some 1 em `usos` e preencha `ultimo_uso`.
+- **Pode repetir clipes** (decisão do dono): quando os clipes novos acabarem, reutilize os de menor `usos`,
+  de preferência outro trecho (`de`) ou outro `zoom`, para não ficar idêntico a um vídeo anterior.
 - Varie: não use o mesmo trecho em duas cenas do mesmo vídeo.
+- `plataforma`: "pc" ou "console". Clipes de PC servem para dicas gerais (posicionamento, mapa, economia, utilitário,
+  curiosidade). **Não use clipe de PC em dica específica de controle/configuração de console**, porque engana quem assiste.
+- `qualidade`: "1080p" ou "480p". Clipes 480p ficam borrados com zoom alto: use `zoom` entre 1.0 e 1.15 neles.
+- `audio_ok`: se for false, use `"mudo": true` nas cenas com esse clipe.
+- `credito`: a gameplay foi cedida por amigos do dono. **Sempre** preencha o campo `credito` do `episodio.json` com os
+  créditos dos clipes usados (sem repetir nomes, separados por " · ") e coloque "Gameplay: <créditos>" no fim da legenda do post.
 
 ## Formato do `episodio.json`
 
@@ -90,6 +98,7 @@ Cada execução produz **um** episódio:
   "legenda": "Legenda do post: 1 frase + pergunta para comentar.",
   "hashtags": ["valorant", "valorantconsole", "..."],
   "volume_jogo": 0.22,
+  "credito": "créditos dos clipes usados (do catalogo.json)",
   "cenas": [
     {"inicio": "", "clipe": "gameplay/valorant/v_partida1_003.mp4", "de": 11.5, "zoom": 1.35,
      "elementos": [{"tipo": "pergunta", "texto": "Por que eu sempre morro primeiro?"}]},

@@ -232,6 +232,13 @@ def title_img(txt, cor):
     return card(980, h, f)
 
 
+def credit_img(txt):
+    txt = f"gameplay: {txt}"; f = fit_font(F_BOLD, txt, 900, 34); w = int(tlen(txt, f)) + 40
+    im = Image.new("RGBA", (w, 56), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    rounded(d, (0, 0, w, 56), 28, (0, 0, 0, 150)); text_center(d, w / 2, 28, txt, f, (235, 235, 235))
+    return im
+
+
 def marker_draw(frame, fg_box, m, t_local, cor):
     """Círculo pulsante + rótulo sobre um ponto do gameplay (x, y de 0 a 1 dentro do gameplay)."""
     x0, y0, fw, fh = fg_box
@@ -287,6 +294,7 @@ def main(folder):
     dur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(audio)]).strip()) + 0.7
     scenes = ep["cenas"]; starts = scene_starts(scenes, words) + [dur]
     title = title_img(ep["titulo_tela"], cor) if ep.get("titulo_tela") else None
+    credit = credit_img(ep["credito"]) if ep.get("credito") else None
     built = []
     for sc in scenes:
         items = []
@@ -305,7 +313,7 @@ def main(folder):
         clip = REPO / sc["clipe"]
         if not clip.exists(): raise SystemExit(f"clipe não encontrado: {sc['clipe']}")
         de = float(sc.get("de", 0)); zoom = sc.get("zoom", 1.35); fx = sc.get("foco_x", 0.5)
-        audio_parts.append((clip, de, sdur))
+        audio_parts.append((clip, de, sdur, bool(sc.get("mudo"))))
         frames = clip_frames(clip, de, sdur, zoom, fx)
         sfx.append(("whoosh" if si else "pop", st))
         marcadores = [p for p in sc.get("elementos", []) if p.get("tipo") == "marcador"]
@@ -341,6 +349,8 @@ def main(folder):
                 if fi == int((st + delay) * FPS): sfx.append((SFX.get(tipo, "whoosh"), t))
                 base = 1.0 if tipo == "numero" else sc_fit
                 paste_center(frame, obj, cx, cy + 4 * math.sin(t * 2.5 + k), scale=base * ease_back((lt - delay) / 0.3))
+            if credit is not None:
+                paste_center(frame, credit, W / 2, H - 42)
             cur = next((w for w in words if w["start"] <= t < max(w["end"], w["start"] + 0.12) + 0.05), None)
             if cur:
                 key = cur["text"]
@@ -361,8 +371,8 @@ def main(folder):
 def game_audio(parts, out):
     """Concatena o áudio original dos clipes, cena por cena (silêncio se o clipe não tiver áudio)."""
     args, filt = [], []
-    for i, (clip, de, d) in enumerate(parts):
-        has_audio = probe(clip)[3]
+    for i, (clip, de, d, mudo) in enumerate(parts):
+        has_audio = probe(clip)[3] and not mudo
         if has_audio: args += ["-ss", f"{de:.3f}", "-t", f"{d + 0.2:.3f}", "-i", str(clip)]
         else: args += ["-f", "lavfi", "-t", f"{d:.3f}", "-i", "anullsrc=r=44100:cl=stereo"]
         filt.append(f"[{i}:a]aresample=44100,aformat=channel_layouts=stereo,apad,atrim=0:{d:.3f},asetpts=N/SR/TB[a{i}]")
