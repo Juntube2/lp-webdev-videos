@@ -86,6 +86,10 @@ Cada execução produz **um** episódio:
 - `audio_ok`: se for false, use `"mudo": true` nas cenas com esse clipe.
 - `credito`: a gameplay foi cedida por amigos do dono. **Sempre** preencha o campo `credito` do `episodio.json` com os
   créditos dos clipes usados (sem repetir nomes, separados por " · ") e coloque "Gameplay: <créditos>" no fim da legenda do post.
+  Enquanto o `credito` do clipe estiver vazio, use "cedida por amigos" no `episodio.json` e "Gameplay cedida por amigos" na legenda.
+- `evitar`: trecho do clipe que não pode aparecer (placar, transição). Escolha `de` para a cena não passar por ele.
+- `momentos` foram detectados pelo som (picos de tiro). Antes de apontar algo com `marcador`, confira o quadro no clipe;
+  se não der para conferir, não use `marcador` naquela cena.
 
 ## Formato do `episodio.json`
 
