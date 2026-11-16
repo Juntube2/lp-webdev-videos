@@ -84,9 +84,8 @@ Cada execução produz **um** episódio:
   curiosidade). **Não use clipe de PC em dica específica de controle/configuração de console**, porque engana quem assiste.
 - `qualidade`: "1080p" ou "480p". Clipes 480p ficam borrados com zoom alto: use `zoom` entre 1.0 e 1.15 neles.
 - `audio_ok`: se for false, use `"mudo": true` nas cenas com esse clipe.
-- `credito`: a gameplay foi cedida por amigos do dono. **Sempre** preencha o campo `credito` do `episodio.json` com os
-  créditos dos clipes usados (sem repetir nomes, separados por " · ") e coloque "Gameplay: <créditos>" no fim da legenda do post.
-  Enquanto o `credito` do clipe estiver vazio, use "cedida por amigos" no `episodio.json` e "Gameplay cedida por amigos" na legenda.
+- **Sem crédito** (decisão do dono, a pedido de quem cedeu a gameplay): não preencha `credito` no `episodio.json` e não
+  escreva nada sobre origem da gameplay (nomes, @, "cedida por amigos") no vídeo, na legenda ou nas hashtags.
 - `evitar`: trecho do clipe que não pode aparecer (placar, transição). Escolha `de` para a cena não passar por ele.
 - `momentos` foram detectados pelo som (picos de tiro). Antes de apontar algo com `marcador`, confira o quadro no clipe;
   se não der para conferir, não use `marcador` naquela cena.
@@ -102,7 +101,6 @@ Cada execução produz **um** episódio:
   "legenda": "Legenda do post: 1 frase + pergunta para comentar.",
   "hashtags": ["valorant", "valorantconsole", "..."],
   "volume_jogo": 0.22,
-  "credito": "créditos dos clipes usados (do catalogo.json)",
   "cenas": [
     {"inicio": "", "clipe": "gameplay/valorant/v_partida1_003.mp4", "de": 11.5, "zoom": 1.35,
      "elementos": [{"tipo": "pergunta", "texto": "Por que eu sempre morro primeiro?"}]},

@@ -1,0 +1,155 @@
+{
+ "jogo": "fortnite",
+ "titulo": "Como ganhar o high ground jogando no controle",
+ "titulo_tela": "COMO GANHAR O HIGH GROUND NO CONTROLE",
+ "roteiro": "Quem tem o alto, ganha a luta. Três dicas pra subir no high ground jogando no controle. Um: nunca suba só de rampa. Coloca a parede na frente e a rampa logo atrás, juntas. Dois: usa o layout Builder Pro, que deixa cada construção num botão, muito mais rápido no controle. Três: chegou no alto, coloca um cone em cima do inimigo pra ele não conseguir te passar. Se ele quebrar sua rampa, não entra em pânico, faz um box e recomeça. Você joga de construção ou zero build? Comenta aí.",
+ "legenda": "Três dicas pra ganhar o high ground no Fortnite jogando no controle. Você joga de construção ou zero build?",
+ "hashtags": [
+  "fortnite",
+  "fortnitebrasil",
+  "dicasfortnite",
+  "fortniteps5",
+  "fortniteclips",
+  "fortnitecontrole",
+  "ps5",
+  "gaming",
+  "fyp",
+  "foryou"
+ ],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {
+   "inicio": "",
+   "clipe": "gameplay/fortnite/f1_08.mp4",
+   "de": 10.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "pergunta",
+     "texto": "Como eu ganho o high ground no controle?"
+    }
+   ]
+  },
+  {
+   "inicio": "Três",
+   "clipe": "gameplay/fortnite/f1_02.mp4",
+   "de": 13.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "selo",
+     "texto": "DICA DE CONSOLE"
+    }
+   ]
+  },
+  {
+   "inicio": "Um",
+   "clipe": "gameplay/fortnite/f1_11.mp4",
+   "de": 6.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "numero",
+     "texto": "1"
+    },
+    {
+     "tipo": "riscado",
+     "texto": "só rampa"
+    }
+   ]
+  },
+  {
+   "inicio": "Coloca",
+   "clipe": "gameplay/fortnite/f1_03.mp4",
+   "de": 2.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "texto": "parede + rampa juntas"
+    }
+   ]
+  },
+  {
+   "inicio": "Dois",
+   "clipe": "gameplay/fortnite/f1_06.mp4",
+   "de": 1.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "numero",
+     "texto": "2"
+    },
+    {
+     "tipo": "carimbo",
+     "texto": "BUILDER PRO"
+    }
+   ]
+  },
+  {
+   "inicio": "muito",
+   "clipe": "gameplay/fortnite/f1_05.mp4",
+   "de": 4.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "texto": "uma construção por botão"
+    }
+   ]
+  },
+  {
+   "inicio": "Três",
+   "clipe": "gameplay/fortnite/f1_00.mp4",
+   "de": 12,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "numero",
+     "texto": "3"
+    },
+    {
+     "tipo": "carimbo",
+     "texto": "CONE EM CIMA DELE"
+    }
+   ]
+  },
+  {
+   "inicio": "quebrar",
+   "clipe": "gameplay/fortnite/f1_09.mp4",
+   "de": 0,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "texto": "faz um box e recomeça"
+    }
+   ]
+  },
+  {
+   "inicio": "Você",
+   "clipe": "gameplay/fortnite/f1_13.mp4",
+   "de": 10.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "versus",
+     "a": "CONSTRUÇÃO",
+     "b": "ZERO BUILD"
+    }
+   ]
+  },
+  {
+   "inicio": "Comenta",
+   "clipe": "gameplay/fortnite/f1_14.mp4",
+   "de": 1.5,
+   "zoom": 1.1,
+   "elementos": [
+    {
+     "tipo": "parte2",
+     "texto": "Comenta aí!"
+    }
+   ]
+  }
+ ]
+}

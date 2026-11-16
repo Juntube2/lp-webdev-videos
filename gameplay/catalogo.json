@@ -1,7 +1,6 @@
 {
  "observacoes": [
-  "Clipes cortados das gameplays cedidas por amigos do dono. Menus, loading, telas paradas e corridas sem ação foram removidos; o áudio foi filtrado e normalizado.",
-  "credito vazio = ainda sem @ do amigo: nesse caso use 'gameplay cedida por amigos' no episodio.json e na legenda.",
+  "Clipes cortados das gameplays do dono. Menus, loading, telas paradas e corridas sem ação foram removidos; o áudio foi filtrado e normalizado.",
   "Os clipes de Valorant são montagens de PC com cortes rápidos: não aponte mapa, agente ou arma específicos com marcador; use para dicas gerais.",
   "Respeite o campo 'evitar' quando existir."
  ],
@@ -35,7 +34,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -68,7 +66,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -101,7 +98,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -134,7 +130,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -167,7 +162,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -200,7 +194,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -233,7 +226,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -266,7 +258,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -299,7 +290,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -332,7 +322,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -365,7 +354,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -398,7 +386,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -431,7 +418,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -464,7 +450,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -497,7 +482,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -530,7 +514,6 @@
    "plataforma": "console",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -563,7 +546,6 @@
    "plataforma": "desconhecida",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -596,7 +578,6 @@
    "plataforma": "desconhecida",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -629,7 +610,6 @@
    "plataforma": "desconhecida",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -662,7 +642,6 @@
    "plataforma": "desconhecida",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -695,7 +674,6 @@
    "plataforma": "desconhecida",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -728,7 +706,6 @@
    "plataforma": "desconhecida",
    "qualidade": "480p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -760,7 +737,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": "",
    "evitar": "transição roxa por volta de 12s"
@@ -793,7 +769,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -825,7 +800,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": "",
    "evitar": "placar de derrota (LOST) entre 11s e 14s"
@@ -858,7 +832,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": "",
    "evitar": "tela lilás de transição a partir de 14s"
@@ -896,7 +869,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -928,7 +900,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -965,7 +936,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -997,7 +967,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": "",
    "evitar": "placar na tela a partir de 14s"
@@ -1030,7 +999,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1062,7 +1030,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1094,7 +1061,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1126,7 +1092,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1158,7 +1123,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1190,7 +1154,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1227,7 +1190,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1264,7 +1226,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1296,7 +1257,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1328,7 +1288,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1360,7 +1319,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1392,7 +1350,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1424,7 +1381,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1461,7 +1417,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1493,7 +1448,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1525,7 +1479,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1557,7 +1510,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1589,7 +1541,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1626,7 +1577,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   },
@@ -1658,7 +1608,6 @@
    "plataforma": "pc",
    "qualidade": "720p",
    "audio_ok": true,
-   "credito": "",
    "usos": 0,
    "ultimo_uso": ""
   }
