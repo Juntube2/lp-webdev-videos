@@ -1,0 +1,33 @@
+{
+  "titulo": "Landing page: o que é e quando usar",
+  "roteiro": "Você tem um site, mas ele não vende? Talvez você precise de uma landing page! Landing page é uma página com um objetivo só. Nada de menu cheio de links pra distrair. Veja o que ela precisa ter. Primeiro: um título que diz o benefício logo de cara. Segundo: provas, como fotos reais e avaliações de clientes. Terceiro: um único botão de ação, tipo chamar no WhatsApp ou agendar horário. Quando usar? Numa promoção, num curso, ou quando você faz anúncio. O site mostra tudo sobre o negócio. A landing page leva a pessoa a fazer uma coisa só. Salva esse vídeo e me conta: você já tem a sua?",
+  "legenda": "Landing page é a página feita pra uma ação só: chamar, agendar, comprar. Salva pra lembrar quando for anunciar!",
+  "hashtags": ["sitesparanegocios", "landingpage", "desenvolvimentoweb", "programacao", "lpwebdev"],
+  "cenas": [
+    {"inicio": "", "fundo": 0, "expressao": "oculos", "elementos": [
+      {"tipo": "navegador", "titulo": "Studio Bela Unha", "url": "studiobelaunha.com.br", "cor": "#FE2C55"}]},
+    {"inicio": "Talvez", "fundo": 1, "expressao": "surpreso", "elementos": [
+      {"tipo": "carimbo", "texto": "LANDING PAGE", "cor": "#3FB27F"}]},
+    {"inicio": "objetivo", "fundo": 2, "expressao": "confiante", "elementos": [
+      {"tipo": "texto", "texto": "1 página = 1 objetivo", "cor": "#264DE4", "cor_texto": "#FFFFFF"}]},
+    {"inicio": "Nada", "fundo": 3, "expressao": "bravo", "elementos": [
+      {"tipo": "riscado", "texto": "Menu cheio de links"}]},
+    {"inicio": "Veja", "fundo": 4, "expressao": "pensando", "elementos": [
+      {"tipo": "chips", "itens": ["Título", "Provas", "Botão"]}]},
+    {"inicio": "Primeiro", "fundo": 0, "expressao": "confiante", "elementos": [
+      {"tipo": "numero", "texto": "1"},
+      {"tipo": "texto", "texto": "Diga o benefício", "cor": "#F0DB4F", "cor_texto": "#1E1E1E"}]},
+    {"inicio": "Segundo", "fundo": 1, "expressao": "rindo", "elementos": [
+      {"tipo": "numero", "texto": "2"},
+      {"tipo": "lista", "itens": ["Fotos reais", "Avaliações"], "marcar": "check"}]},
+    {"inicio": "Terceiro", "fundo": 2, "expressao": "surpreso", "elementos": [
+      {"tipo": "numero", "texto": "3"},
+      {"tipo": "navegador", "titulo": "Unhas em gel", "url": "studiobelaunha.com.br/promo", "cor": "#3FB27F", "botao": "Agendar no WhatsApp"}]},
+    {"inicio": "Quando", "fundo": 3, "expressao": "pensando", "elementos": [
+      {"tipo": "chips", "itens": ["Promoção", "Curso", "Anúncio"]}]},
+    {"inicio": "mostra", "fundo": 4, "expressao": "confiante", "elementos": [
+      {"tipo": "versus", "a": "Site: mostra tudo", "b": "Landing: 1 ação", "cor_a": "#264DE4", "cor_b": "#3FB27F"}]},
+    {"inicio": "Salva", "fundo": 0, "expressao": "oculos", "elementos": [
+      {"tipo": "parte2", "texto": "SALVA!", "sub": "você já tem a sua?"}]}
+  ]
+}
