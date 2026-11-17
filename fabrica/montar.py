@@ -246,6 +246,8 @@ MIN_BG = (10, 10, 12)
 def min_title_img(txt):
     lines = wrap(txt, F_BOLD, 62, 940, 3); lh = 78
     im = Image.new("RGBA", (W, 20 + lh * len(lines)), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    for i, ln in enumerate(lines): text_center(d, W / 2, 14 + lh * i + lh / 2, ln, font(F_BOLD, 62), (0, 0, 0, 200))
+    im = im.filter(ImageFilter.GaussianBlur(6)); d = ImageDraw.Draw(im)
     for i, ln in enumerate(lines): text_center(d, W / 2, 10 + lh * i + lh / 2, ln, font(F_BOLD, 62), WHITE)
     return im
 
@@ -283,7 +285,7 @@ def render_minimal(ep, folder, words, dur, scenes, starts, enc):
         while fi < int(en * FPS) and fi < int(dur * FPS):
             t = fi / FPS
             fg = next(frames)
-            frame = Image.new("RGBA", (W, H), MIN_BG + (255,))
+            frame = background_from(fg).convert("RGBA")
             fy = int(FG_CY - fg.height / 2)
             frame.paste(fg, (0, fy))
             if title is not None:
