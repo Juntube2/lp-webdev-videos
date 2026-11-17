@@ -1,0 +1,24 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 dicas pra não morrer na zona final do Fortnite",
+ "titulo_tela": "3 DICAS PRA GANHAR A ZONA FINAL",
+ "roteiro": "Você chega no final da partida e morre sempre? Três dicas pra fechar a zona final. Um: chega com material. Quem entra no top dez sem madeira nem pedra não consegue se proteger. Farma antes de rotacionar. Dois: entra na zona cedo. Quem chega por último leva tiro de todo lado enquanto corre. Três: não briga com todo mundo. Deixa os outros lutarem entre si e só aparece pra limpar quem ficou sem vida. E nunca deixa o seu box aberto. Qual foi a sua última vitória? Comenta aí.",
+ "legenda": "Três dicas pra parar de morrer na zona final do Fortnite. Quando foi sua última vitória?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "fortnitereload", "ps5", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 11.8, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 1.8, "zoom": 1.35},
+  {"inicio": "Um", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 11.4, "zoom": 1.35},
+  {"inicio": "sem", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 0.5, "zoom": 1.35},
+  {"inicio": "Farma", "clipe": "gameplay/fortnite/f1_10.mp4", "de": 14.5, "zoom": 1.35},
+  {"inicio": "Dois", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 6.5, "zoom": 1.35},
+  {"inicio": "leva", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 3.4, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f1_01.mp4", "de": 7.8, "zoom": 1.35},
+  {"inicio": "Deixa", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 15.5, "zoom": 1.35},
+  {"inicio": "só", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 16.3, "zoom": 1.35},
+  {"inicio": "E", "clipe": "gameplay/fortnite/f1_10.mp4", "de": 3.8, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 2.8, "zoom": 1.35},
+  {"inicio": "Comenta", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 10.5, "zoom": 1.35}
+ ]
+}
