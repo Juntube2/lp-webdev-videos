@@ -22,11 +22,12 @@ def f(peso, tam):
 
 
 def fundo(nome, escurecer=0.32):
+    blur = 34 if nome.startswith("ret") else 14
     im = Image.open(BG / f"{nome}.png").convert("RGB")
     s = max(W / im.width, H / im.height)
     im = im.resize((int(im.width * s) + 1, int(im.height * s) + 1), Image.LANCZOS)
     x = (im.width - W) // 2
-    im = im.crop((x, 0, x + W, H)).filter(ImageFilter.GaussianBlur(14))
+    im = im.crop((x, 0, x + W, H)).filter(ImageFilter.GaussianBlur(blur))
     im = ImageEnhance.Brightness(im).enhance(escurecer)
     # véu roxo bem leve
     veu = Image.new("RGB", (W, H), (30, 12, 60))
@@ -142,34 +143,31 @@ def s_classe(s, d, im):
 
 
 def desenha_mira(cfg, escala=9):
-    """Desenha a mira com base nos parâmetros do código (em pixels do jogo x escala)."""
-    tam = 480
+    """Desenha a mira a partir dos parâmetros do código (pixels do jogo x escala)."""
+    tam = 640
     im = Image.new("RGBA", (tam, tam), (0, 0, 0, 0))
-    d = ImageDraw.Draw(im)
-    c = tam // 2
+    c = tam / 2
     cor = tuple(cfg["cor"])
-    t = cfg.get("t", 2) * escala
-    contorno = cfg.get("h", 0)
-    oc = (0, 0, 0, 255)
-    ow = escala  # espessura do contorno
-
-    def ret(x0, y0, x1, y1):
-        if contorno:
-            d.rectangle((x0 - ow, y0 - ow, x1 + ow, y1 + ow), fill=oc)
-        d.rectangle((x0, y0, x1, y1), fill=cor)
-
     rects = []
-    if cfg.get("l", 0) > 0:
-        L = cfg["l"] * escala
-        o = cfg.get("o", 0) * escala
-        rects += [(c - t / 2, c - o - L, c + t / 2, c - o), (c - t / 2, c + o, c + t / 2, c + o + L),
-                  (c - o - L, c - t / 2, c - o, c + t / 2), (c + o, c - t / 2, c + o + L, c + t / 2)]
+    for ln in cfg.get("linhas", []):
+        t = ln.get("t", 2) * escala
+        o = ln.get("o", 0) * escala
+        lh, lv = ln.get("lh", 0) * escala, ln.get("lv", 0) * escala
+        if lv:
+            rects += [(c - t / 2, c - o - lv, c + t / 2, c - o), (c - t / 2, c + o, c + t / 2, c + o + lv)]
+        if lh:
+            rects += [(c - o - lh, c - t / 2, c - o, c + t / 2), (c + o, c - t / 2, c + o + lh, c + t / 2)]
     if cfg.get("dot"):
         z = cfg.get("z", 2) * escala
         rects.append((c - z / 2, c - z / 2, c + z / 2, c + z / 2))
-    if contorno:
+    if cfg.get("contorno"):
+        ow = cfg.get("ow", 1) * escala
+        oa = int(255 * cfg.get("oa", 0.5))
+        lay = Image.new("RGBA", (tam, tam), (0, 0, 0, 0)); dl = ImageDraw.Draw(lay)
         for r in rects:
-            d.rectangle((r[0] - ow, r[1] - ow, r[2] + ow, r[3] + ow), fill=oc)
+            dl.rectangle((r[0] - ow, r[1] - ow, r[2] + ow, r[3] + ow), fill=(0, 0, 0, oa))
+        im.alpha_composite(lay)
+    d = ImageDraw.Draw(im)
     for r in rects:
         d.rectangle(r, fill=cor)
     return im
@@ -180,14 +178,16 @@ def s_mira(s, d, im):
     y = selo(d, M, y, s["selo"]) + 36
     y = texto(d, (M, y), s["titulo"], f("Black", 84), BRANCO) + 30
     # prévia sobre a gameplay
-    bx = (M, y, W - M, y + 520)
+    bx = (M, y, W - M, y + 420)
     prev = Image.open(BG / f"{s['fundo_mira']}.png").convert("RGB")
-    s2 = max((bx[2] - bx[0]) / prev.width * 1.6, (bx[3] - bx[1]) / prev.height * 1.6)
+    zf = s.get("zoom_fundo", 1.6)
+    s2 = max((bx[2] - bx[0]) / prev.width * zf, (bx[3] - bx[1]) / prev.height * zf)
     prev = prev.resize((int(prev.width * s2), int(prev.height * s2)), Image.LANCZOS)
     cx, cy = prev.width // 2, prev.height // 2
     bw, bh = bx[2] - bx[0], bx[3] - bx[1]
+    prev = prev.filter(ImageFilter.GaussianBlur(2))
     prev = prev.crop((cx - bw // 2, cy - bh // 2, cx - bw // 2 + bw, cy - bh // 2 + bh)).convert("RGBA")
-    mira = desenha_mira(s["mira"])
+    mira = desenha_mira(s["mira"], escala=13)
     prev.alpha_composite(mira, (bw // 2 - mira.width // 2, bh // 2 - mira.height // 2))
     mask = Image.new("L", (bw, bh), 0); ImageDraw.Draw(mask).rounded_rectangle((0, 0, bw, bh), 28, fill=255)
     im.paste(prev, (bx[0], bx[1]), mask)
