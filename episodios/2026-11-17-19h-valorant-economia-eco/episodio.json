@@ -1,0 +1,23 @@
+{
+  "jogo": "valorant",
+  "titulo": "Pare de forçar compra todo round no Valorant",
+  "titulo_tela": "PARE DE FORÇAR COMPRA TODO ROUND",
+  "roteiro": "Pare de forçar compra todo round. Isso quebra a economia do time inteiro. Regra um: rifle mais colete pesado custa três mil e novecentos créditos. Se você não tem isso, segura o dinheiro. Regra dois: perdeu o pistol? Dá eco no segundo round e compra completo no terceiro, todo mundo junto. Regra três: o time compra junto. Um com Vandal e quatro de pistolinha perde do mesmo jeito. Antes de comprar, olha quanto o time tem. Economia ganha mais round do que mira. E aí, você força compra ou sabe dar eco? Comenta aí.",
+  "legenda": "Três regras de economia pra parar de perder round por compra errada no Valorant. Você força ou dá eco?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "ps5", "xbox", "gaming", "fyp", "foryou"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v1_01.mp4", "de": 2.3, "zoom": 1.7},
+    {"inicio": "Isso", "clipe": "gameplay/valorant/v2_02.mp4", "de": 10.5, "zoom": 1.7},
+    {"inicio": "Regra", "clipe": "gameplay/valorant/v1_05.mp4", "de": 9.7, "zoom": 1.7},
+    {"inicio": "Se", "clipe": "gameplay/valorant/v2_10.mp4", "de": 3.4, "zoom": 1.7},
+    {"inicio": "Regra", "clipe": "gameplay/valorant/v2_04.mp4", "de": 4.0, "zoom": 1.7},
+    {"inicio": "Dá", "clipe": "gameplay/valorant/v2_09.mp4", "de": 9.5, "zoom": 1.7},
+    {"inicio": "todo", "clipe": "gameplay/valorant/v2_06.mp4", "de": 11.8, "zoom": 1.7},
+    {"inicio": "Regra", "clipe": "gameplay/valorant/v1_13.mp4", "de": 9.6, "zoom": 1.7},
+    {"inicio": "Um", "clipe": "gameplay/valorant/v2_13.mp4", "de": 9.0, "zoom": 1.7},
+    {"inicio": "Antes", "clipe": "gameplay/valorant/v1_03.mp4", "de": 8.0, "zoom": 1.7},
+    {"inicio": "Economia", "clipe": "gameplay/valorant/v2_11.mp4", "de": 13.6, "zoom": 1.7},
+    {"inicio": "E", "clipe": "gameplay/valorant/v1_11.mp4", "de": 2.4, "zoom": 1.7}
+  ]
+}
