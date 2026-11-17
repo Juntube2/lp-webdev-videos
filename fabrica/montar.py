@@ -239,6 +239,62 @@ def credit_img(txt):
     return im
 
 
+# ---------------- estilo minimalista (padrão) ----------------
+MIN_BG = (10, 10, 12)
+
+
+def min_title_img(txt):
+    lines = wrap(txt, F_BOLD, 62, 940, 3); lh = 78
+    im = Image.new("RGBA", (W, 20 + lh * len(lines)), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    for i, ln in enumerate(lines): text_center(d, W / 2, 10 + lh * i + lh / 2, ln, font(F_BOLD, 62), WHITE)
+    return im
+
+
+def min_chunks(words, max_words=3):
+    """Agrupa as palavras em blocos curtos (quebra em pontuação) para a legenda."""
+    chunks, cur = [], []
+    for w in words:
+        cur.append(w)
+        if len(cur) >= max_words or re.search(r"[.,:;!?…]$", w["text"].strip()):
+            chunks.append(cur); cur = []
+    if cur: chunks.append(cur)
+    return [{"start": c[0]["start"], "end": c[-1]["end"], "text": " ".join(x["text"] for x in c).strip().rstrip(",;:.")} for c in chunks]
+
+
+def min_caption_img(txt):
+    f = fit_font(F_BOLD, txt, W - 140, 66, 40)
+    bb = ImageDraw.Draw(Image.new("RGB", (1, 1))).textbbox((0, 0), txt, font=f)
+    im = Image.new("RGBA", (bb[2] - bb[0] + 60, bb[3] - bb[1] + 60), (0, 0, 0, 0))
+    sh = Image.new("RGBA", im.size, (0, 0, 0, 0)); ImageDraw.Draw(sh).text((30 - bb[0], 34 - bb[1]), txt, font=f, fill=(0, 0, 0, 200))
+    im.alpha_composite(sh.filter(ImageFilter.GaussianBlur(6)))
+    ImageDraw.Draw(im).text((30 - bb[0], 30 - bb[1]), txt, font=f, fill=WHITE)
+    return im
+
+
+def render_minimal(ep, folder, words, dur, scenes, starts, enc):
+    title = min_title_img(ep["titulo_tela"]) if ep.get("titulo_tela") else None
+    chunks = min_chunks(words); caps = {}
+    fi = 0
+    for si, sc in enumerate(scenes):
+        st, en = starts[si], starts[si + 1]; sdur = max(0.1, en - st)
+        clip = REPO / sc["clipe"]
+        if not clip.exists(): raise SystemExit(f"clipe não encontrado: {sc['clipe']}")
+        frames = clip_frames(clip, float(sc.get("de", 0)), sdur, sc.get("zoom", 1.7), sc.get("foco_x", 0.5))
+        while fi < int(en * FPS) and fi < int(dur * FPS):
+            t = fi / FPS
+            fg = next(frames)
+            frame = Image.new("RGBA", (W, H), MIN_BG + (255,))
+            fy = int(FG_CY - fg.height / 2)
+            frame.paste(fg, (0, fy))
+            if title is not None:
+                frame.alpha_composite(title, (0, max(60, fy - title.height - 50)))
+            cur = next((c for i, c in enumerate(chunks) if c["start"] <= t < (chunks[i + 1]["start"] if i + 1 < len(chunks) else c["end"] + 0.4)), None)
+            if cur:
+                if cur["text"] not in caps: caps[cur["text"]] = min_caption_img(cur["text"])
+                paste_center(frame, caps[cur["text"]], W / 2, fy + fg.height + 110)
+            enc.stdin.write(frame.convert("RGB").tobytes()); fi += 1
+
+
 def marker_draw(frame, fg_box, m, t_local, cor):
     """Círculo pulsante + rótulo sobre um ponto do gameplay (x, y de 0 a 1 dentro do gameplay)."""
     x0, y0, fw, fh = fg_box
@@ -295,8 +351,9 @@ def main(folder):
     scenes = ep["cenas"]; starts = scene_starts(scenes, words) + [dur]
     title = title_img(ep["titulo_tela"], cor) if ep.get("titulo_tela") else None
     credit = credit_img(ep["credito"]) if ep.get("credito") else None
+    minimal = ep.get("estilo", "minimalista") == "minimalista"
     built = []
-    for sc in scenes:
+    for sc in ([] if minimal else scenes):
         items = []
         for p in sc.get("elementos", [])[:3]:
             fn = PROPS.get(p.get("tipo"))
@@ -308,7 +365,9 @@ def main(folder):
     enc = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                             "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", str(tmp_video)], stdin=subprocess.PIPE)
     fi = 0
-    for si, sc in enumerate(scenes):
+    if minimal:
+        render_minimal(ep, folder, words, dur, scenes, starts, enc)
+    for si, sc in enumerate([] if minimal else scenes):
         st, en = starts[si], starts[si + 1]; sdur = max(0.1, en - st)
         clip = REPO / sc["clipe"]
         if not clip.exists(): raise SystemExit(f"clipe não encontrado: {sc['clipe']}")
@@ -358,6 +417,9 @@ def main(folder):
                 paste_center(frame, caps[key], W / 2, CAPTION_Y, scale=0.88 + 0.12 * ease_back((t - cur["start"]) / 0.12))
             enc.stdin.write(frame.convert("RGB").tobytes()); fi += 1
     enc.stdin.close(); enc.wait()
+    if minimal:
+        audio_parts = [(REPO / sc["clipe"], float(sc.get("de", 0)), max(0.1, starts[i + 1] - starts[i]), bool(sc.get("mudo"))) for i, sc in enumerate(scenes)]
+        sfx = []
     game_audio(audio_parts, folder / "_game.wav")
     make_sfx(sfx, dur, folder / "_sfx.wav")
     gv = float(ep.get("volume_jogo", 0.22))

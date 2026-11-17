@@ -21,135 +21,67 @@
    "inicio": "",
    "clipe": "gameplay/valorant/v2_01.mp4",
    "de": 10.5,
-   "elementos": [
-    {
-     "tipo": "pergunta",
-     "texto": "Por que eu sempre perco o duelo?"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Erro",
    "clipe": "gameplay/valorant/v1_04.mp4",
    "de": 4.5,
-   "elementos": [
-    {
-     "tipo": "numero",
-     "texto": "1"
-    },
-    {
-     "tipo": "riscado",
-     "texto": "atirar andando"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "No",
    "clipe": "gameplay/valorant/v1_10.mp4",
    "de": 4,
-   "elementos": [
-    {
-     "tipo": "texto",
-     "texto": "bala certa = você parado"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Para",
    "clipe": "gameplay/valorant/v2_00.mp4",
    "de": 4.5,
-   "elementos": [
-    {
-     "tipo": "carimbo",
-     "texto": "PARA E ATIRA"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Erro",
    "clipe": "gameplay/valorant/v1_09.mp4",
    "de": 1.5,
-   "elementos": [
-    {
-     "tipo": "numero",
-     "texto": "2"
-    },
-    {
-     "tipo": "riscado",
-     "texto": "mira no chão"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Deixa",
    "clipe": "gameplay/valorant/v1_12.mp4",
    "de": 0.5,
-   "elementos": [
-    {
-     "tipo": "texto",
-     "texto": "mira na altura da cabeça"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "quina",
    "clipe": "gameplay/valorant/v2_08.mp4",
    "de": 11.5,
-   "elementos": [
-    {
-     "tipo": "selo",
-     "texto": "MIRA NA QUINA"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Erro",
    "clipe": "gameplay/valorant/v2_12.mp4",
    "de": 3.5,
-   "elementos": [
-    {
-     "tipo": "numero",
-     "texto": "3"
-    },
-    {
-     "tipo": "riscado",
-     "texto": "peek sozinho"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Entra",
    "clipe": "gameplay/valorant/v2_07.mp4",
    "de": 4,
-   "elementos": [
-    {
-     "tipo": "carimbo",
-     "texto": "ENTRA EM DUPLA"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Corrigindo",
    "clipe": "gameplay/valorant/v1_06.mp4",
    "de": 12.5,
-   "elementos": [
-    {
-     "tipo": "texto",
-     "texto": "mais duelos ganhos"
-    }
-   ]
+   "zoom": 1.7
   },
   {
    "inicio": "Qual",
    "clipe": "gameplay/valorant/v2_05.mp4",
    "de": 14.5,
-   "elementos": [
-    {
-     "tipo": "parte2",
-     "texto": "Qual você comete?",
-     "sub": "comenta aí"
-    }
-   ]
+   "zoom": 1.7
   }
  ]
 }

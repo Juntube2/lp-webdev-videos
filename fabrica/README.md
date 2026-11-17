@@ -90,6 +90,13 @@ Cada execução produz **um** episódio:
 - `momentos` foram detectados pelo som (picos de tiro). Antes de apontar algo com `marcador`, confira o quadro no clipe;
   se não der para conferir, não use `marcador` naquela cena.
 
+## Estilo visual: minimalista (decisão do dono)
+
+O vídeo é só: fundo escuro, gameplay grande no meio, título curto em texto branco simples acima e legenda discreta
+(2 a 3 palavras por vez) abaixo. **Sem elementos** (balões, selos, números, marcadores, cards), sem efeitos sonoros e sem
+nada que pareça edição feita por IA. Não preencha `elementos` nas cenas. Zoom: Valorant 1.7, Fortnite 1.35 (clipes 480p).
+O estilo antigo com elementos só é usado se o `episodio.json` tiver `"estilo": "cards"`, e não deve ser usado.
+
 ## Formato do `episodio.json`
 
 ```json
