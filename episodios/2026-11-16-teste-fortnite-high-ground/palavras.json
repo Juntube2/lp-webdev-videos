@@ -1,0 +1,457 @@
+[
+{
+"text": "Quem",
+"start": 0.095,
+"end": 0.318
+},
+{
+"text": "tem",
+"start": 0.329,
+"end": 0.485
+},
+{
+"text": "o",
+"start": 0.496,
+"end": 0.597
+},
+{
+"text": "alto,",
+"start": 0.608,
+"end": 0.909
+},
+{
+"text": "ganha",
+"start": 1.077,
+"end": 1.333
+},
+{
+"text": "a",
+"start": 1.345,
+"end": 1.367
+},
+{
+"text": "luta.",
+"start": 1.378,
+"end": 1.713
+},
+{
+"text": "Três",
+"start": 2.478,
+"end": 2.779
+},
+{
+"text": "dicas",
+"start": 2.79,
+"end": 3.147
+},
+{
+"text": "pra",
+"start": 3.159,
+"end": 3.281
+},
+{
+"text": "subir",
+"start": 3.292,
+"end": 3.583
+},
+{
+"text": "no",
+"start": 3.594,
+"end": 3.683
+},
+{
+"text": "high",
+"start": 3.694,
+"end": 3.85
+},
+{
+"text": "ground",
+"start": 3.862,
+"end": 4.163
+},
+{
+"text": "jogando",
+"start": 4.174,
+"end": 4.565
+},
+{
+"text": "no",
+"start": 4.576,
+"end": 4.654
+},
+{
+"text": "controle.",
+"start": 4.665,
+"end": 5.167
+},
+{
+"text": "Um:",
+"start": 5.938,
+"end": 6.161
+},
+{
+"text": "nunca",
+"start": 6.35,
+"end": 6.685
+},
+{
+"text": "suba",
+"start": 6.696,
+"end": 7.031
+},
+{
+"text": "só",
+"start": 7.042,
+"end": 7.232
+},
+{
+"text": "de",
+"start": 7.243,
+"end": 7.344
+},
+{
+"text": "rampa.",
+"start": 7.355,
+"end": 7.757
+},
+{
+"text": "Coloca",
+"start": 8.527,
+"end": 8.951
+},
+{
+"text": "a",
+"start": 8.962,
+"end": 8.996
+},
+{
+"text": "parede",
+"start": 9.007,
+"end": 9.308
+},
+{
+"text": "na",
+"start": 9.319,
+"end": 9.42
+},
+{
+"text": "frente",
+"start": 9.431,
+"end": 9.821
+},
+{
+"text": "e",
+"start": 9.833,
+"end": 9.866
+},
+{
+"text": "a",
+"start": 9.877,
+"end": 9.933
+},
+{
+"text": "rampa",
+"start": 9.944,
+"end": 10.212
+},
+{
+"text": "logo",
+"start": 10.223,
+"end": 10.469
+},
+{
+"text": "atrás,",
+"start": 10.48,
+"end": 10.893
+},
+{
+"text": "juntas.",
+"start": 10.982,
+"end": 11.529
+},
+{
+"text": "Dois:",
+"start": 12.299,
+"end": 12.679
+},
+{
+"text": "usa",
+"start": 12.913,
+"end": 13.114
+},
+{
+"text": "o",
+"start": 13.125,
+"end": 13.136
+},
+{
+"text": "layout",
+"start": 13.147,
+"end": 13.549
+},
+{
+"text": "Builder",
+"start": 13.56,
+"end": 13.895
+},
+{
+"text": "Pro,",
+"start": 13.906,
+"end": 14.152
+},
+{
+"text": "que",
+"start": 14.319,
+"end": 14.431
+},
+{
+"text": "deixa",
+"start": 14.442,
+"end": 14.766
+},
+{
+"text": "cada",
+"start": 14.777,
+"end": 15.0
+},
+{
+"text": "construção",
+"start": 15.011,
+"end": 15.536
+},
+{
+"text": "num",
+"start": 15.547,
+"end": 15.647
+},
+{
+"text": "botão,",
+"start": 15.659,
+"end": 16.06
+},
+{
+"text": "muito",
+"start": 16.284,
+"end": 16.585
+},
+{
+"text": "mais",
+"start": 16.596,
+"end": 16.775
+},
+{
+"text": "rápido",
+"start": 16.786,
+"end": 17.109
+},
+{
+"text": "no",
+"start": 17.121,
+"end": 17.199
+},
+{
+"text": "controle.",
+"start": 17.21,
+"end": 17.701
+},
+{
+"text": "Três:",
+"start": 18.471,
+"end": 18.839
+},
+{
+"text": "chegou",
+"start": 19.074,
+"end": 19.42
+},
+{
+"text": "no",
+"start": 19.431,
+"end": 19.565
+},
+{
+"text": "alto,",
+"start": 19.576,
+"end": 19.855
+},
+{
+"text": "coloca",
+"start": 20.156,
+"end": 20.614
+},
+{
+"text": "um",
+"start": 20.625,
+"end": 20.714
+},
+{
+"text": "cone",
+"start": 20.725,
+"end": 20.96
+},
+{
+"text": "em",
+"start": 20.971,
+"end": 21.027
+},
+{
+"text": "cima",
+"start": 21.038,
+"end": 21.317
+},
+{
+"text": "do",
+"start": 21.328,
+"end": 21.406
+},
+{
+"text": "inimigo",
+"start": 21.417,
+"end": 21.864
+},
+{
+"text": "pra",
+"start": 21.875,
+"end": 22.031
+},
+{
+"text": "ele",
+"start": 22.042,
+"end": 22.221
+},
+{
+"text": "não",
+"start": 22.232,
+"end": 22.4
+},
+{
+"text": "conseguir",
+"start": 22.411,
+"end": 22.846
+},
+{
+"text": "te",
+"start": 22.857,
+"end": 22.958
+},
+{
+"text": "passar.",
+"start": 22.969,
+"end": 23.337
+},
+{
+"text": "Se",
+"start": 24.107,
+"end": 24.33
+},
+{
+"text": "ele",
+"start": 24.341,
+"end": 24.464
+},
+{
+"text": "quebrar",
+"start": 24.475,
+"end": 24.788
+},
+{
+"text": "sua",
+"start": 24.799,
+"end": 24.989
+},
+{
+"text": "rampa,",
+"start": 25.0,
+"end": 25.357
+},
+{
+"text": "não",
+"start": 25.591,
+"end": 25.837
+},
+{
+"text": "entra",
+"start": 25.848,
+"end": 26.049
+},
+{
+"text": "em",
+"start": 26.06,
+"end": 26.15
+},
+{
+"text": "pânico,",
+"start": 26.161,
+"end": 26.551
+},
+{
+"text": "faz",
+"start": 26.797,
+"end": 26.942
+},
+{
+"text": "um",
+"start": 26.953,
+"end": 27.132
+},
+{
+"text": "box",
+"start": 27.143,
+"end": 27.444
+},
+{
+"text": "e",
+"start": 27.455,
+"end": 27.534
+},
+{
+"text": "recomeça.",
+"start": 27.545,
+"end": 28.103
+},
+{
+"text": "Você",
+"start": 28.873,
+"end": 29.185
+},
+{
+"text": "joga",
+"start": 29.196,
+"end": 29.498
+},
+{
+"text": "de",
+"start": 29.509,
+"end": 29.576
+},
+{
+"text": "construção",
+"start": 29.587,
+"end": 30.179
+},
+{
+"text": "ou",
+"start": 30.19,
+"end": 30.279
+},
+{
+"text": "zero",
+"start": 30.29,
+"end": 30.58
+},
+{
+"text": "build?",
+"start": 30.591,
+"end": 30.882
+},
+{
+"text": "Comenta",
+"start": 31.652,
+"end": 32.132
+},
+{
+"text": "aí.",
+"start": 32.143,
+"end": 32.4
+}
+]
