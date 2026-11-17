@@ -1,0 +1,22 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 erros que te fazem perder luta no zero build",
+ "titulo_tela": "3 ERROS QUE TE MATAM NO ZERO BUILD",
+ "roteiro": "Pare de perder luta no zero build por causa disso. Três erros que quase todo mundo comete. Um: correr no campo aberto. Sem construção, sua parede é o terreno. Anda de casa em casa, de árvore em árvore, e usa o deslize pra trocar de cobertura. Dois: ficar lá embaixo. Quem está no morro vê tudo e atira primeiro, então pega o alto antes da luta começar. Três: curar no meio do tiroteio. Entra numa casa, fecha a porta e só depois cura. Qual desses erros você mais comete? Comenta aí.",
+ "legenda": "Três erros que fazem você perder luta no zero build do Fortnite. Qual desses você mais comete?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "zerobuild", "fortniteps5", "fortniteclips", "ps5", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f2_11.mp4", "de": 2, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f2_05.mp4", "de": 9, "zoom": 1.35},
+  {"inicio": "Um", "clipe": "gameplay/fortnite/f2_01.mp4", "de": 0, "zoom": 1.35},
+  {"inicio": "Sem", "clipe": "gameplay/fortnite/f2_05.mp4", "de": 0, "zoom": 1.35},
+  {"inicio": "e", "clipe": "gameplay/fortnite/f2_12.mp4", "de": 7, "zoom": 1.35},
+  {"inicio": "Dois", "clipe": "gameplay/fortnite/f2_11.mp4", "de": 12, "zoom": 1.35},
+  {"inicio": "então", "clipe": "gameplay/fortnite/f2_07.mp4", "de": 3, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f2_12.mp4", "de": 13.5, "zoom": 1.35},
+  {"inicio": "Entra", "clipe": "gameplay/fortnite/f2_02.mp4", "de": 0, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f2_07.mp4", "de": 17, "zoom": 1.35},
+  {"inicio": "Comenta", "clipe": "gameplay/fortnite/f2_01.mp4", "de": 3.5, "zoom": 1.35}
+ ]
+}
