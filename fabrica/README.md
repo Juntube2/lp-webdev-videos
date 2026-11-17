@@ -1,6 +1,6 @@
 # Manual de produção — TikTok de dicas de Valorant e Fortnite (console)
 
-Este manual é seguido pelas tarefas agendadas, que produzem e agendam os vídeos sozinhas.
+Este manual é seguido pelas tarefas agendadas, que produzem os vídeos sozinhas e entregam ao dono, que posta à mão no TikTok.
 Cada execução produz **um** episódio:
 
 | Execução (horário de São Paulo) | Vai ao ar | Jogo |
@@ -18,7 +18,7 @@ Cada execução produz **um** episódio:
 5. Commit + push na `main`. O GitHub Actions narra (voz grátis pt-BR-AntonioNeural) e monta o vídeo
    (`episodios/<pasta>/video.mp4`, `status.json` e `videos/<pasta>.mp4`).
 6. Conferir o vídeo (mosaico de quadros). No máximo uma correção.
-7. Agendar no Metricool. Atualizar `historico.md` e o campo `usos` dos clipes usados no `catalogo.json`. Commit + push.
+7. Entregar o vídeo e o texto do post ao dono (seção "Entrega"). Atualizar `historico.md` e o campo `usos` dos clipes usados no `catalogo.json`. Commit + push.
 
 ## Público e linha editorial
 
@@ -76,7 +76,7 @@ Cada execução produz **um** episódio:
 
 - `forca` vai de 1 a 5 (5 = momento mais impressionante). Use os de força alta no começo do vídeo.
 - Em cada cena, `de` é o segundo do clipe onde a cena começa. Comece 0,5 a 1 s antes do momento.
-- Prefira clipes com menos `usos` e sem uso nos últimos 7 dias. Depois de agendar, some 1 em `usos` e preencha `ultimo_uso`.
+- Prefira clipes com menos `usos` e sem uso nos últimos 7 dias. Depois de entregar, some 1 em `usos` e preencha `ultimo_uso`.
 - **Pode repetir clipes** (decisão do dono): quando os clipes novos acabarem, reutilize os de menor `usos`,
   de preferência outro trecho (`de`) ou outro `zoom`, para não ficar idêntico a um vídeo anterior.
 - Varie: não use o mesmo trecho em duas cenas do mesmo vídeo.
@@ -147,13 +147,20 @@ Cores em hexadecimal. A cor padrão segue o jogo: Valorant `#FF4655`, Fortnite `
 - Nomes do jogo como são falados: "Vandal", "Phantom", "Operator", "Jett", "Ascent", "zero build". Evite siglas obscuras.
 - Números por extenso quando forem importantes ("dois tiros na cabeça").
 
-## Agendamento no Metricool
+## Entrega (postagem manual pelo dono)
 
-- Marca (blogId) `7800532`, rede `tiktok`, fuso `America/Sao_Paulo`.
-- Mídia: `https://raw.githubusercontent.com/Juntube2/lp-webdev-videos/main/videos/<pasta>.mp4`
-- Texto: `legenda` + linha em branco + hashtags com `#`.
-- `tiktokData`: `title` = `titulo`, `privacyOption` = `PUBLIC_TO_EVERYONE`, `isAigc` = **false** (decisão do dono da conta), `autoAddMusic` = false.
-- Horário do slot (14:00 ou 19:00). Se já tiver passado, daqui a 10 minutos.
+**Não agende no Metricool.** O plano grátis do Metricool só permite 20 posts por mês e a cota acabou; o dono decidiu postar
+à mão pelo app do TikTok. Cada execução entrega:
+
+1. O arquivo `episodios/<pasta>/video.mp4`, enviado ao dono com a ferramenta de enviar arquivo (SendUserFile).
+2. Uma mensagem (SendUserMessage) pronta para copiar, neste formato:
+   - **Horário para postar:** 14:00 (Fortnite) ou 19:00 (Valorant)
+   - **Título:** `titulo`
+   - **Texto do post:** `legenda` + linha em branco + hashtags com `#` (num bloco de código, para copiar fácil)
+   - Lembrete: não marcar "conteúdo gerado por IA" (decisão do dono).
+3. Uma notificação push curta: "Vídeo de <jogo> pronto: <titulo>. Abre a conversa pra baixar e postar às <horário>."
+
+No `historico.md`, use o horário do slot e escreva "entregue para postar" no tema.
 
 ## Análise de desempenho (toda segunda-feira, na tarefa das 13h55)
 
