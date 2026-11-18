@@ -1,0 +1,24 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 configurações pra buildar mais rápido no controle",
+ "titulo_tela": "BUILDA MAIS RÁPIDO NO CONTROLE",
+ "roteiro": "Você constrói devagar no controle? Muda essas três configurações hoje. Um: troca o layout pra Construtor Pro. As construções vão pros gatilhos e você não tira o polegar do analógico. Dois: liga a construção turbo. Segurando o botão, as paredes e rampas saem em sequência, sem apertar de novo. Três: abaixa o tempo de segurar pra editar, perto de zero vírgula um, e sobe o multiplicador de sensibilidade do modo construção. Sua câmera gira mais rápido só quando você está buildando. Treina uns minutos no criativo antes da ranked. Qual sensibilidade você usa? Comenta aí.",
+ "legenda": "Três configurações de controle pra buildar e editar mais rápido no Fortnite. Qual sensibilidade você usa?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "fortnitesettings", "ps5", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f1_06.mp4", "de": 2.0, "zoom": 1.35},
+  {"inicio": "Muda", "clipe": "gameplay/fortnite/f1_08.mp4", "de": 10.5, "zoom": 1.35},
+  {"inicio": "Um", "clipe": "gameplay/fortnite/f1_05.mp4", "de": 5.0, "zoom": 1.35},
+  {"inicio": "As", "clipe": "gameplay/fortnite/f1_00.mp4", "de": 12.7, "zoom": 1.35},
+  {"inicio": "você", "clipe": "gameplay/fortnite/f1_03.mp4", "de": 3.0, "zoom": 1.35},
+  {"inicio": "Dois", "clipe": "gameplay/fortnite/f1_11.mp4", "de": 6.9, "zoom": 1.35},
+  {"inicio": "paredes", "clipe": "gameplay/fortnite/f1_08.mp4", "de": 14.8, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f1_09.mp4", "de": 14.9, "zoom": 1.35},
+  {"inicio": "sobe", "clipe": "gameplay/fortnite/f1_13.mp4", "de": 11.1, "zoom": 1.35},
+  {"inicio": "Sua", "clipe": "gameplay/fortnite/f1_02.mp4", "de": 14.0, "zoom": 1.35},
+  {"inicio": "Treina", "clipe": "gameplay/fortnite/f1_00.mp4", "de": 5.5, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f1_06.mp4", "de": 15.8, "zoom": 1.35},
+  {"inicio": "Comenta", "clipe": "gameplay/fortnite/f1_03.mp4", "de": 10.3, "zoom": 1.35}
+ ]
+}
