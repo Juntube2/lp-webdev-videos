@@ -1,0 +1,163 @@
+{
+ "segmentos": [
+  {
+   "inicio": 0.59,
+   "fim": 8.83,
+   "texto": "Rapaziada, sabe por que eu nunca usei camisinha? Porque camisinha não é biodegradável e eu sou a favor do meu ambiente, tá?",
+   "palavras": [
+    {
+     "text": "Rapaziada,",
+     "start": 0.59,
+     "end": 1.27
+    },
+    {
+     "text": "sabe",
+     "start": 1.31,
+     "end": 1.41
+    },
+    {
+     "text": "por",
+     "start": 1.41,
+     "end": 1.53
+    },
+    {
+     "text": "que",
+     "start": 1.53,
+     "end": 1.59
+    },
+    {
+     "text": "eu",
+     "start": 1.59,
+     "end": 1.73
+    },
+    {
+     "text": "nunca",
+     "start": 1.73,
+     "end": 2.29
+    },
+    {
+     "text": "usei",
+     "start": 2.29,
+     "end": 2.65
+    },
+    {
+     "text": "camisinha?",
+     "start": 2.65,
+     "end": 3.15
+    },
+    {
+     "text": "Porque",
+     "start": 3.73,
+     "end": 3.91
+    },
+    {
+     "text": "camisinha",
+     "start": 3.91,
+     "end": 4.41
+    },
+    {
+     "text": "não",
+     "start": 4.41,
+     "end": 4.55
+    },
+    {
+     "text": "é",
+     "start": 4.55,
+     "end": 4.77
+    },
+    {
+     "text": "biodegradável",
+     "start": 4.77,
+     "end": 5.75
+    },
+    {
+     "text": "e",
+     "start": 5.75,
+     "end": 6.25
+    },
+    {
+     "text": "eu",
+     "start": 6.25,
+     "end": 6.43
+    },
+    {
+     "text": "sou",
+     "start": 6.43,
+     "end": 6.59
+    },
+    {
+     "text": "a",
+     "start": 6.59,
+     "end": 6.73
+    },
+    {
+     "text": "favor",
+     "start": 6.73,
+     "end": 7.03
+    },
+    {
+     "text": "do",
+     "start": 7.03,
+     "end": 7.25
+    },
+    {
+     "text": "meu",
+     "start": 7.25,
+     "end": 7.37
+    },
+    {
+     "text": "ambiente,",
+     "start": 7.37,
+     "end": 7.91
+    },
+    {
+     "text": "tá?",
+     "start": 7.91,
+     "end": 8.83
+    }
+   ]
+  },
+  {
+   "inicio": 10.01,
+   "fim": 11.75,
+   "texto": "Não escuta o que o governo fala.",
+   "palavras": [
+    {
+     "text": "Não",
+     "start": 10.01,
+     "end": 10.17
+    },
+    {
+     "text": "escuta",
+     "start": 10.17,
+     "end": 10.47
+    },
+    {
+     "text": "o",
+     "start": 10.47,
+     "end": 10.61
+    },
+    {
+     "text": "que",
+     "start": 10.61,
+     "end": 10.85
+    },
+    {
+     "text": "o",
+     "start": 10.85,
+     "end": 11.07
+    },
+    {
+     "text": "governo",
+     "start": 11.07,
+     "end": 11.31
+    },
+    {
+     "text": "fala.",
+     "start": 11.31,
+     "end": 11.75
+    }
+   ]
+  }
+ ]
+}

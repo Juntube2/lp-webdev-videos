@@ -1,0 +1,777 @@
+{
+ "segmentos": [
+  {
+   "inicio": 0.43,
+   "fim": 2.67,
+   "texto": "Sabe uma parada que eu escutei?",
+   "palavras": [
+    {
+     "text": "Sabe",
+     "start": 0.43,
+     "end": 1.11
+    },
+    {
+     "text": "uma",
+     "start": 1.11,
+     "end": 1.27
+    },
+    {
+     "text": "parada",
+     "start": 1.27,
+     "end": 1.51
+    },
+    {
+     "text": "que",
+     "start": 1.51,
+     "end": 1.63
+    },
+    {
+     "text": "eu",
+     "start": 1.63,
+     "end": 1.75
+    },
+    {
+     "text": "escutei?",
+     "start": 1.75,
+     "end": 2.67
+    }
+   ]
+  },
+  {
+   "inicio": 2.67,
+   "fim": 4.03,
+   "texto": "Sabe uma parada que eu escutei, chat?",
+   "palavras": [
+    {
+     "text": "Sabe",
+     "start": 2.67,
+     "end": 2.85
+    },
+    {
+     "text": "uma",
+     "start": 2.85,
+     "end": 2.99
+    },
+    {
+     "text": "parada",
+     "start": 2.99,
+     "end": 3.19
+    },
+    {
+     "text": "que",
+     "start": 3.19,
+     "end": 3.31
+    },
+    {
+     "text": "eu",
+     "start": 3.31,
+     "end": 3.41
+    },
+    {
+     "text": "escutei,",
+     "start": 3.41,
+     "end": 3.75
+    },
+    {
+     "text": "chat?",
+     "start": 3.87,
+     "end": 4.03
+    }
+   ]
+  },
+  {
+   "inicio": 7.79,
+   "fim": 8.79,
+   "texto": "Um homem...",
+   "palavras": [
+    {
+     "text": "Um",
+     "start": 7.79,
+     "end": 8.29
+    },
+    {
+     "text": "homem...",
+     "start": 8.29,
+     "end": 8.79
+    }
+   ]
+  },
+  {
+   "inicio": 8.79,
+   "fim": 11.63,
+   "texto": "A maioria dos homens morrem aos 25 anos.",
+   "palavras": [
+    {
+     "text": "A",
+     "start": 8.79,
+     "end": 8.81
+    },
+    {
+     "text": "maioria",
+     "start": 8.81,
+     "end": 9.05
+    },
+    {
+     "text": "dos",
+     "start": 9.05,
+     "end": 9.37
+    },
+    {
+     "text": "homens",
+     "start": 9.37,
+     "end": 9.71
+    },
+    {
+     "text": "morrem",
+     "start": 9.71,
+     "end": 10.19
+    },
+    {
+     "text": "aos",
+     "start": 10.19,
+     "end": 10.47
+    },
+    {
+     "text": "25",
+     "start": 10.47,
+     "end": 10.99
+    },
+    {
+     "text": "anos.",
+     "start": 10.99,
+     "end": 11.63
+    }
+   ]
+  },
+  {
+   "inicio": 12.85,
+   "fim": 15.19,
+   "texto": "Mas só são enterrados aos 70.",
+   "palavras": [
+    {
+     "text": "Mas",
+     "start": 12.85,
+     "end": 13.01
+    },
+    {
+     "text": "só",
+     "start": 13.01,
+     "end": 13.33
+    },
+    {
+     "text": "são",
+     "start": 13.33,
+     "end": 13.49
+    },
+    {
+     "text": "enterrados",
+     "start": 13.49,
+     "end": 14.37
+    },
+    {
+     "text": "aos",
+     "start": 14.37,
+     "end": 14.73
+    },
+    {
+     "text": "70.",
+     "start": 14.73,
+     "end": 15.19
+    }
+   ]
+  },
+  {
+   "inicio": 16.61,
+   "fim": 18.77,
+   "texto": "Na primeira vez que eu ouvi isso eu não escutei, sabia?",
+   "palavras": [
+    {
+     "text": "Na",
+     "start": 16.61,
+     "end": 16.93
+    },
+    {
+     "text": "primeira",
+     "start": 16.93,
+     "end": 17.21
+    },
+    {
+     "text": "vez",
+     "start": 17.21,
+     "end": 17.45
+    },
+    {
+     "text": "que",
+     "start": 17.45,
+     "end": 17.61
+    },
+    {
+     "text": "eu",
+     "start": 17.61,
+     "end": 17.73
+    },
+    {
+     "text": "ouvi",
+     "start": 17.73,
+     "end": 17.83
+    },
+    {
+     "text": "isso",
+     "start": 17.83,
+     "end": 17.97
+    },
+    {
+     "text": "eu",
+     "start": 17.97,
+     "end": 18.05
+    },
+    {
+     "text": "não",
+     "start": 18.05,
+     "end": 18.19
+    },
+    {
+     "text": "escutei,",
+     "start": 18.19,
+     "end": 18.57
+    },
+    {
+     "text": "sabia?",
+     "start": 18.61,
+     "end": 18.77
+    }
+   ]
+  },
+  {
+   "inicio": 19.77,
+   "fim": 21.77,
+   "texto": "Mas o que ele quis dizer falando isso?",
+   "palavras": [
+    {
+     "text": "Mas",
+     "start": 19.77,
+     "end": 19.93
+    },
+    {
+     "text": "o",
+     "start": 19.93,
+     "end": 20.05
+    },
+    {
+     "text": "que",
+     "start": 20.05,
+     "end": 20.15
+    },
+    {
+     "text": "ele",
+     "start": 20.15,
+     "end": 20.31
+    },
+    {
+     "text": "quis",
+     "start": 20.31,
+     "end": 20.47
+    },
+    {
+     "text": "dizer",
+     "start": 20.47,
+     "end": 20.83
+    },
+    {
+     "text": "falando",
+     "start": 20.83,
+     "end": 21.17
+    },
+    {
+     "text": "isso?",
+     "start": 21.17,
+     "end": 21.77
+    }
+   ]
+  },
+  {
+   "inicio": 22.35,
+   "fim": 24.81,
+   "texto": "Esse cara que me falou essa parada uma vez.",
+   "palavras": [
+    {
+     "text": "Esse",
+     "start": 22.35,
+     "end": 22.53
+    },
+    {
+     "text": "cara",
+     "start": 22.53,
+     "end": 22.73
+    },
+    {
+     "text": "que",
+     "start": 22.73,
+     "end": 22.87
+    },
+    {
+     "text": "me",
+     "start": 22.87,
+     "end": 23.09
+    },
+    {
+     "text": "falou",
+     "start": 23.09,
+     "end": 23.47
+    },
+    {
+     "text": "essa",
+     "start": 23.47,
+     "end": 23.89
+    },
+    {
+     "text": "parada",
+     "start": 23.89,
+     "end": 24.15
+    },
+    {
+     "text": "uma",
+     "start": 24.15,
+     "end": 24.41
+    },
+    {
+     "text": "vez.",
+     "start": 24.41,
+     "end": 24.81
+    }
+   ]
+  },
+  {
+   "inicio": 26.95,
+   "fim": 30.01,
+   "texto": "Que os homens morrem quando os sonhos deles morrem, mano.",
+   "palavras": [
+    {
+     "text": "Que",
+     "start": 26.95,
+     "end": 27.11
+    },
+    {
+     "text": "os",
+     "start": 27.11,
+     "end": 27.37
+    },
+    {
+     "text": "homens",
+     "start": 27.37,
+     "end": 27.69
+    },
+    {
+     "text": "morrem",
+     "start": 27.69,
+     "end": 28.13
+    },
+    {
+     "text": "quando",
+     "start": 28.13,
+     "end": 28.43
+    },
+    {
+     "text": "os",
+     "start": 28.43,
+     "end": 28.69
+    },
+    {
+     "text": "sonhos",
+     "start": 28.69,
+     "end": 28.95
+    },
+    {
+     "text": "deles",
+     "start": 28.95,
+     "end": 29.33
+    },
+    {
+     "text": "morrem,",
+     "start": 29.33,
+     "end": 29.75
+    },
+    {
+     "text": "mano.",
+     "start": 29.81,
+     "end": 30.01
+    }
+   ]
+  },
+  {
+   "inicio": 30.29,
+   "fim": 31.85,
+   "texto": "E é isso que acontece com a maioria.",
+   "palavras": [
+    {
+     "text": "E",
+     "start": 30.29,
+     "end": 30.47
+    },
+    {
+     "text": "é",
+     "start": 30.47,
+     "end": 30.55
+    },
+    {
+     "text": "isso",
+     "start": 30.55,
+     "end": 30.69
+    },
+    {
+     "text": "que",
+     "start": 30.69,
+     "end": 30.85
+    },
+    {
+     "text": "acontece",
+     "start": 30.85,
+     "end": 31.25
+    },
+    {
+     "text": "com",
+     "start": 31.25,
+     "end": 31.43
+    },
+    {
+     "text": "a",
+     "start": 31.43,
+     "end": 31.53
+    },
+    {
+     "text": "maioria.",
+     "start": 31.53,
+     "end": 31.85
+    }
+   ]
+  },
+  {
+   "inicio": 31.85,
+   "fim": 35.65,
+   "texto": "Eles desistem de ter a vida dos sonhos deles, eles desistem ali.",
+   "palavras": [
+    {
+     "text": "Eles",
+     "start": 31.85,
+     "end": 32.43
+    },
+    {
+     "text": "desistem",
+     "start": 32.43,
+     "end": 32.97
+    },
+    {
+     "text": "de",
+     "start": 32.97,
+     "end": 33.15
+    },
+    {
+     "text": "ter",
+     "start": 33.15,
+     "end": 33.33
+    },
+    {
+     "text": "a",
+     "start": 33.33,
+     "end": 33.45
+    },
+    {
+     "text": "vida",
+     "start": 33.45,
+     "end": 33.61
+    },
+    {
+     "text": "dos",
+     "start": 33.61,
+     "end": 33.83
+    },
+    {
+     "text": "sonhos",
+     "start": 33.83,
+     "end": 34.21
+    },
+    {
+     "text": "deles,",
+     "start": 34.21,
+     "end": 34.53
+    },
+    {
+     "text": "eles",
+     "start": 34.73,
+     "end": 34.85
+    },
+    {
+     "text": "desistem",
+     "start": 34.85,
+     "end": 35.23
+    },
+    {
+     "text": "ali.",
+     "start": 35.23,
+     "end": 35.65
+    }
+   ]
+  },
+  {
+   "inicio": 35.97,
+   "fim": 38.95,
+   "texto": "Acaba a esperança de fazer os bagulho, tá ligado?",
+   "palavras": [
+    {
+     "text": "Acaba",
+     "start": 35.97,
+     "end": 36.17
+    },
+    {
+     "text": "a",
+     "start": 36.17,
+     "end": 36.39
+    },
+    {
+     "text": "esperança",
+     "start": 36.39,
+     "end": 36.83
+    },
+    {
+     "text": "de",
+     "start": 36.83,
+     "end": 37.05
+    },
+    {
+     "text": "fazer",
+     "start": 37.05,
+     "end": 37.19
+    },
+    {
+     "text": "os",
+     "start": 37.19,
+     "end": 37.35
+    },
+    {
+     "text": "bagulho,",
+     "start": 37.35,
+     "end": 37.75
+    },
+    {
+     "text": "tá",
+     "start": 37.83,
+     "end": 37.87
+    },
+    {
+     "text": "ligado?",
+     "start": 37.87,
+     "end": 38.95
+    }
+   ]
+  },
+  {
+   "inicio": 40.78,
+   "fim": 42.98,
+   "texto": "Não deixem isso acontecer com vocês, mano.",
+   "palavras": [
+    {
+     "text": "Não",
+     "start": 40.78,
+     "end": 40.98
+    },
+    {
+     "text": "deixem",
+     "start": 40.98,
+     "end": 41.34
+    },
+    {
+     "text": "isso",
+     "start": 41.34,
+     "end": 41.56
+    },
+    {
+     "text": "acontecer",
+     "start": 41.56,
+     "end": 41.86
+    },
+    {
+     "text": "com",
+     "start": 41.86,
+     "end": 42.12
+    },
+    {
+     "text": "vocês,",
+     "start": 42.12,
+     "end": 42.46
+    },
+    {
+     "text": "mano.",
+     "start": 42.98,
+     "end": 42.98
+    }
+   ]
+  },
+  {
+   "inicio": 43.68,
+   "fim": 44.2,
+   "texto": "Fechado?",
+   "palavras": [
+    {
+     "text": "Fechado?",
+     "start": 43.68,
+     "end": 44.2
+    }
+   ]
+  },
+  {
+   "inicio": 44.36,
+   "fim": 46.94,
+   "texto": "Não deixem aquela vontade que vocês têm.",
+   "palavras": [
+    {
+     "text": "Não",
+     "start": 44.36,
+     "end": 44.56
+    },
+    {
+     "text": "deixem",
+     "start": 44.56,
+     "end": 44.82
+    },
+    {
+     "text": "aquela",
+     "start": 44.82,
+     "end": 45.0
+    },
+    {
+     "text": "vontade",
+     "start": 45.0,
+     "end": 45.52
+    },
+    {
+     "text": "que",
+     "start": 45.52,
+     "end": 45.74
+    },
+    {
+     "text": "vocês",
+     "start": 45.74,
+     "end": 46.08
+    },
+    {
+     "text": "têm.",
+     "start": 46.08,
+     "end": 46.94
+    }
+   ]
+  },
+  {
+   "inicio": 47.42,
+   "fim": 50.0,
+   "texto": "De morrer no importo o que aconteça, mano.",
+   "palavras": [
+    {
+     "text": "De",
+     "start": 47.42,
+     "end": 47.94
+    },
+    {
+     "text": "morrer",
+     "start": 47.94,
+     "end": 48.32
+    },
+    {
+     "text": "no",
+     "start": 48.32,
+     "end": 48.5
+    },
+    {
+     "text": "importo",
+     "start": 48.5,
+     "end": 48.76
+    },
+    {
+     "text": "o",
+     "start": 48.76,
+     "end": 48.84
+    },
+    {
+     "text": "que",
+     "start": 48.84,
+     "end": 48.98
+    },
+    {
+     "text": "aconteça,",
+     "start": 48.98,
+     "end": 49.62
+    },
+    {
+     "text": "mano.",
+     "start": 50.0,
+     "end": 50.0
+    }
+   ]
+  },
+  {
+   "inicio": 50.22,
+   "fim": 50.58,
+   "texto": "Sacou?",
+   "palavras": [
+    {
+     "text": "Sacou?",
+     "start": 50.22,
+     "end": 50.58
+    }
+   ]
+  },
+  {
+   "inicio": 52.97,
+   "fim": 53.61,
+   "texto": "Bora pro álbum?",
+   "palavras": [
+    {
+     "text": "Bora",
+     "start": 52.97,
+     "end": 53.13
+    },
+    {
+     "text": "pro",
+     "start": 53.13,
+     "end": 53.31
+    },
+    {
+     "text": "álbum?",
+     "start": 53.31,
+     "end": 53.61
+    }
+   ]
+  },
+  {
+   "inicio": 56.48,
+   "fim": 57.36,
+   "texto": "Bora pro álbum ou não?",
+   "palavras": [
+    {
+     "text": "Bora",
+     "start": 56.48,
+     "end": 56.66
+    },
+    {
+     "text": "pro",
+     "start": 56.66,
+     "end": 56.84
+    },
+    {
+     "text": "álbum",
+     "start": 56.84,
+     "end": 57.08
+    },
+    {
+     "text": "ou",
+     "start": 57.08,
+     "end": 57.2
+    },
+    {
+     "text": "não?",
+     "start": 57.2,
+     "end": 57.36
+    }
+   ]
+  }
+ ]
+}
