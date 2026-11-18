@@ -1,0 +1,926 @@
+{
+ "segmentos": [
+  {
+   "inicio": 1.34,
+   "fim": 1.74,
+   "texto": "Cadê?",
+   "palavras": [
+    {
+     "text": "Cadê?",
+     "start": 1.34,
+     "end": 1.74
+    }
+   ]
+  },
+  {
+   "inicio": 3.0,
+   "fim": 3.4,
+   "texto": "Arte",
+   "palavras": [
+    {
+     "text": "Arte",
+     "start": 3.0,
+     "end": 3.4
+    }
+   ]
+  },
+  {
+   "inicio": 5.71,
+   "fim": 6.51,
+   "texto": "Ficou pica",
+   "palavras": [
+    {
+     "text": "Ficou",
+     "start": 5.71,
+     "end": 6.11
+    },
+    {
+     "text": "pica",
+     "start": 6.11,
+     "end": 6.51
+    }
+   ]
+  },
+  {
+   "inicio": 6.51,
+   "fim": 8.63,
+   "texto": "Ficou pica mano, olha o meds",
+   "palavras": [
+    {
+     "text": "Ficou",
+     "start": 6.51,
+     "end": 7.11
+    },
+    {
+     "text": "pica",
+     "start": 7.11,
+     "end": 7.59
+    },
+    {
+     "text": "mano,",
+     "start": 7.59,
+     "end": 7.85
+    },
+    {
+     "text": "olha",
+     "start": 7.89,
+     "end": 8.09
+    },
+    {
+     "text": "o",
+     "start": 8.09,
+     "end": 8.33
+    },
+    {
+     "text": "meds",
+     "start": 8.33,
+     "end": 8.63
+    }
+   ]
+  },
+  {
+   "inicio": 9.49,
+   "fim": 11.59,
+   "texto": "Caralho, será que eu posso dar um spoiler ou não?",
+   "palavras": [
+    {
+     "text": "Caralho,",
+     "start": 9.49,
+     "end": 9.89
+    },
+    {
+     "text": "será",
+     "start": 10.07,
+     "end": 10.17
+    },
+    {
+     "text": "que",
+     "start": 10.17,
+     "end": 10.29
+    },
+    {
+     "text": "eu",
+     "start": 10.29,
+     "end": 10.41
+    },
+    {
+     "text": "posso",
+     "start": 10.41,
+     "end": 10.53
+    },
+    {
+     "text": "dar",
+     "start": 10.53,
+     "end": 10.71
+    },
+    {
+     "text": "um",
+     "start": 10.71,
+     "end": 10.89
+    },
+    {
+     "text": "spoiler",
+     "start": 10.89,
+     "end": 11.17
+    },
+    {
+     "text": "ou",
+     "start": 11.17,
+     "end": 11.39
+    },
+    {
+     "text": "não?",
+     "start": 11.39,
+     "end": 11.59
+    }
+   ]
+  },
+  {
+   "inicio": 11.93,
+   "fim": 12.77,
+   "texto": "Não, vem no Instagram",
+   "palavras": [
+    {
+     "text": "Não,",
+     "start": 11.93,
+     "end": 12.05
+    },
+    {
+     "text": "vem",
+     "start": 12.09,
+     "end": 12.25
+    },
+    {
+     "text": "no",
+     "start": 12.25,
+     "end": 12.37
+    },
+    {
+     "text": "Instagram",
+     "start": 12.37,
+     "end": 12.77
+    }
+   ]
+  },
+  {
+   "inicio": 12.77,
+   "fim": 13.87,
+   "texto": "Não, vamos dar um spoilerzinho",
+   "palavras": [
+    {
+     "text": "Não,",
+     "start": 12.77,
+     "end": 13.05
+    },
+    {
+     "text": "vamos",
+     "start": 13.07,
+     "end": 13.23
+    },
+    {
+     "text": "dar",
+     "start": 13.23,
+     "end": 13.35
+    },
+    {
+     "text": "um",
+     "start": 13.35,
+     "end": 13.49
+    },
+    {
+     "text": "spoilerzinho",
+     "start": 13.49,
+     "end": 13.87
+    }
+   ]
+  },
+  {
+   "inicio": 13.87,
+   "fim": 13.95,
+   "texto": "Não é?",
+   "palavras": [
+    {
+     "text": "Não",
+     "start": 13.87,
+     "end": 13.87
+    },
+    {
+     "text": "é?",
+     "start": 13.87,
+     "end": 13.95
+    }
+   ]
+  },
+  {
+   "inicio": 14.45,
+   "fim": 15.73,
+   "texto": "Vamos dar um spoilerzinho, pode dar um spoilerzinho",
+   "palavras": [
+    {
+     "text": "Vamos",
+     "start": 14.45,
+     "end": 14.61
+    },
+    {
+     "text": "dar",
+     "start": 14.61,
+     "end": 14.83
+    },
+    {
+     "text": "um",
+     "start": 14.83,
+     "end": 14.85
+    },
+    {
+     "text": "spoilerzinho,",
+     "start": 14.85,
+     "end": 15.23
+    },
+    {
+     "text": "pode",
+     "start": 15.23,
+     "end": 15.39
+    },
+    {
+     "text": "dar",
+     "start": 15.39,
+     "end": 15.59
+    },
+    {
+     "text": "um",
+     "start": 15.59,
+     "end": 15.67
+    },
+    {
+     "text": "spoilerzinho",
+     "start": 15.67,
+     "end": 15.73
+    }
+   ]
+  },
+  {
+   "inicio": 15.73,
+   "fim": 16.45,
+   "texto": "Vamos mostrar tudo?",
+   "palavras": [
+    {
+     "text": "Vamos",
+     "start": 15.73,
+     "end": 15.85
+    },
+    {
+     "text": "mostrar",
+     "start": 15.85,
+     "end": 16.09
+    },
+    {
+     "text": "tudo?",
+     "start": 16.09,
+     "end": 16.45
+    }
+   ]
+  },
+  {
+   "inicio": 16.69,
+   "fim": 17.73,
+   "texto": "Querem dar um spoilerzinho?",
+   "palavras": [
+    {
+     "text": "Querem",
+     "start": 16.69,
+     "end": 16.89
+    },
+    {
+     "text": "dar",
+     "start": 16.89,
+     "end": 17.19
+    },
+    {
+     "text": "um",
+     "start": 17.19,
+     "end": 17.37
+    },
+    {
+     "text": "spoilerzinho?",
+     "start": 17.37,
+     "end": 17.73
+    }
+   ]
+  },
+  {
+   "inicio": 17.85,
+   "fim": 18.31,
+   "texto": "Vamos mostrar tudo?",
+   "palavras": [
+    {
+     "text": "Vamos",
+     "start": 17.85,
+     "end": 17.87
+    },
+    {
+     "text": "mostrar",
+     "start": 17.87,
+     "end": 18.01
+    },
+    {
+     "text": "tudo?",
+     "start": 18.01,
+     "end": 18.31
+    }
+   ]
+  },
+  {
+   "inicio": 18.45,
+   "fim": 19.43,
+   "texto": "Eu vou mostrar rápido",
+   "palavras": [
+    {
+     "text": "Eu",
+     "start": 18.45,
+     "end": 18.47
+    },
+    {
+     "text": "vou",
+     "start": 18.47,
+     "end": 18.65
+    },
+    {
+     "text": "mostrar",
+     "start": 18.65,
+     "end": 18.87
+    },
+    {
+     "text": "rápido",
+     "start": 18.87,
+     "end": 19.43
+    }
+   ]
+  },
+  {
+   "inicio": 19.43,
+   "fim": 19.95,
+   "texto": "Rápido?",
+   "palavras": [
+    {
+     "text": "Rápido?",
+     "start": 19.43,
+     "end": 19.95
+    }
+   ]
+  },
+  {
+   "inicio": 20.15,
+   "fim": 21.61,
+   "texto": "É, eu vou mostrar rápido",
+   "palavras": [
+    {
+     "text": "É,",
+     "start": 20.15,
+     "end": 20.37
+    },
+    {
+     "text": "eu",
+     "start": 20.47,
+     "end": 20.53
+    },
+    {
+     "text": "vou",
+     "start": 20.53,
+     "end": 20.61
+    },
+    {
+     "text": "mostrar",
+     "start": 20.61,
+     "end": 20.83
+    },
+    {
+     "text": "rápido",
+     "start": 20.83,
+     "end": 21.61
+    }
+   ]
+  },
+  {
+   "inicio": 21.61,
+   "fim": 23.05,
+   "texto": "Calma aí, calma aí, eu vou mostrar rápido",
+   "palavras": [
+    {
+     "text": "Calma",
+     "start": 21.61,
+     "end": 21.97
+    },
+    {
+     "text": "aí,",
+     "start": 21.97,
+     "end": 22.11
+    },
+    {
+     "text": "calma",
+     "start": 22.11,
+     "end": 22.27
+    },
+    {
+     "text": "aí,",
+     "start": 22.27,
+     "end": 22.37
+    },
+    {
+     "text": "eu",
+     "start": 22.39,
+     "end": 22.43
+    },
+    {
+     "text": "vou",
+     "start": 22.43,
+     "end": 22.57
+    },
+    {
+     "text": "mostrar",
+     "start": 22.57,
+     "end": 22.79
+    },
+    {
+     "text": "rápido",
+     "start": 22.79,
+     "end": 23.05
+    }
+   ]
+  },
+  {
+   "inicio": 23.05,
+   "fim": 23.85,
+   "texto": "Levanta pra mostrar",
+   "palavras": [
+    {
+     "text": "Levanta",
+     "start": 23.05,
+     "end": 23.37
+    },
+    {
+     "text": "pra",
+     "start": 23.37,
+     "end": 23.49
+    },
+    {
+     "text": "mostrar",
+     "start": 23.49,
+     "end": 23.85
+    }
+   ]
+  },
+  {
+   "inicio": 23.85,
+   "fim": 25.03,
+   "texto": "Posso mostrar rápido?",
+   "palavras": [
+    {
+     "text": "Posso",
+     "start": 23.85,
+     "end": 24.27
+    },
+    {
+     "text": "mostrar",
+     "start": 24.27,
+     "end": 24.59
+    },
+    {
+     "text": "rápido?",
+     "start": 24.59,
+     "end": 25.03
+    }
+   ]
+  },
+  {
+   "inicio": 25.37,
+   "fim": 26.07,
+   "texto": "Oh, oh",
+   "palavras": [
+    {
+     "text": "Oh,",
+     "start": 25.37,
+     "end": 25.37
+    },
+    {
+     "text": "oh",
+     "start": 25.37,
+     "end": 26.07
+    }
+   ]
+  },
+  {
+   "inicio": 26.07,
+   "fim": 28.63,
+   "texto": "Spoilerzinho, calma aí, fecha a cara, fecha a cara pra bem",
+   "palavras": [
+    {
+     "text": "Spoilerzinho,",
+     "start": 26.07,
+     "end": 26.39
+    },
+    {
+     "text": "calma",
+     "start": 26.47,
+     "end": 26.67
+    },
+    {
+     "text": "aí,",
+     "start": 26.67,
+     "end": 26.83
+    },
+    {
+     "text": "fecha",
+     "start": 27.13,
+     "end": 27.27
+    },
+    {
+     "text": "a",
+     "start": 27.27,
+     "end": 27.37
+    },
+    {
+     "text": "cara,",
+     "start": 27.37,
+     "end": 27.55
+    },
+    {
+     "text": "fecha",
+     "start": 27.55,
+     "end": 27.81
+    },
+    {
+     "text": "a",
+     "start": 27.81,
+     "end": 27.95
+    },
+    {
+     "text": "cara",
+     "start": 27.95,
+     "end": 28.09
+    },
+    {
+     "text": "pra",
+     "start": 28.09,
+     "end": 28.31
+    },
+    {
+     "text": "bem",
+     "start": 28.31,
+     "end": 28.63
+    }
+   ]
+  },
+  {
+   "inicio": 30.29,
+   "fim": 31.01,
+   "texto": "Calma aí, calma aí",
+   "palavras": [
+    {
+     "text": "Calma",
+     "start": 30.29,
+     "end": 30.69
+    },
+    {
+     "text": "aí,",
+     "start": 30.69,
+     "end": 30.79
+    },
+    {
+     "text": "calma",
+     "start": 30.83,
+     "end": 30.97
+    },
+    {
+     "text": "aí",
+     "start": 30.97,
+     "end": 31.01
+    }
+   ]
+  },
+  {
+   "inicio": 31.01,
+   "fim": 32.87,
+   "texto": "É conturdinho que vai ser de recém aqui em casa",
+   "palavras": [
+    {
+     "text": "É",
+     "start": 31.01,
+     "end": 31.23
+    },
+    {
+     "text": "conturdinho",
+     "start": 31.23,
+     "end": 31.67
+    },
+    {
+     "text": "que",
+     "start": 31.67,
+     "end": 31.75
+    },
+    {
+     "text": "vai",
+     "start": 31.75,
+     "end": 31.87
+    },
+    {
+     "text": "ser",
+     "start": 31.87,
+     "end": 31.97
+    },
+    {
+     "text": "de",
+     "start": 31.97,
+     "end": 32.17
+    },
+    {
+     "text": "recém",
+     "start": 32.17,
+     "end": 32.35
+    },
+    {
+     "text": "aqui",
+     "start": 32.35,
+     "end": 32.51
+    },
+    {
+     "text": "em",
+     "start": 32.51,
+     "end": 32.67
+    },
+    {
+     "text": "casa",
+     "start": 32.67,
+     "end": 32.87
+    }
+   ]
+  },
+  {
+   "inicio": 32.87,
+   "fim": 34.31,
+   "texto": "Vai, vai, mostra rápido",
+   "palavras": [
+    {
+     "text": "Vai,",
+     "start": 32.87,
+     "end": 33.13
+    },
+    {
+     "text": "vai,",
+     "start": 33.21,
+     "end": 33.37
+    },
+    {
+     "text": "mostra",
+     "start": 33.41,
+     "end": 33.61
+    },
+    {
+     "text": "rápido",
+     "start": 33.61,
+     "end": 34.31
+    }
+   ]
+  },
+  {
+   "inicio": 34.31,
+   "fim": 36.43,
+   "texto": "Vamos ver, vamos ver se deu pra ver",
+   "palavras": [
+    {
+     "text": "Vamos",
+     "start": 34.31,
+     "end": 35.03
+    },
+    {
+     "text": "ver,",
+     "start": 35.03,
+     "end": 35.19
+    },
+    {
+     "text": "vamos",
+     "start": 35.19,
+     "end": 35.37
+    },
+    {
+     "text": "ver",
+     "start": 35.37,
+     "end": 35.47
+    },
+    {
+     "text": "se",
+     "start": 35.47,
+     "end": 35.51
+    },
+    {
+     "text": "deu",
+     "start": 35.51,
+     "end": 35.61
+    },
+    {
+     "text": "pra",
+     "start": 35.61,
+     "end": 35.81
+    },
+    {
+     "text": "ver",
+     "start": 35.81,
+     "end": 36.43
+    }
+   ]
+  },
+  {
+   "inicio": 36.43,
+   "fim": 37.01,
+   "texto": "Calma aí",
+   "palavras": [
+    {
+     "text": "Calma",
+     "start": 36.43,
+     "end": 36.81
+    },
+    {
+     "text": "aí",
+     "start": 36.81,
+     "end": 37.01
+    }
+   ]
+  },
+  {
+   "inicio": 38.31,
+   "fim": 40.49,
+   "texto": "Opa, pegou o reflexo",
+   "palavras": [
+    {
+     "text": "Opa,",
+     "start": 38.31,
+     "end": 38.67
+    },
+    {
+     "text": "pegou",
+     "start": 39.01,
+     "end": 39.27
+    },
+    {
+     "text": "o",
+     "start": 39.27,
+     "end": 39.43
+    },
+    {
+     "text": "reflexo",
+     "start": 39.43,
+     "end": 40.49
+    }
+   ]
+  },
+  {
+   "inicio": 40.49,
+   "fim": 42.23,
+   "texto": "Pegou o reflexo, deu pra ver nada",
+   "palavras": [
+    {
+     "text": "Pegou",
+     "start": 40.49,
+     "end": 40.75
+    },
+    {
+     "text": "o",
+     "start": 40.75,
+     "end": 40.97
+    },
+    {
+     "text": "reflexo,",
+     "start": 40.97,
+     "end": 41.33
+    },
+    {
+     "text": "deu",
+     "start": 41.47,
+     "end": 41.49
+    },
+    {
+     "text": "pra",
+     "start": 41.49,
+     "end": 41.65
+    },
+    {
+     "text": "ver",
+     "start": 41.65,
+     "end": 41.79
+    },
+    {
+     "text": "nada",
+     "start": 41.79,
+     "end": 42.23
+    }
+   ]
+  },
+  {
+   "inicio": 42.23,
+   "fim": 44.01,
+   "texto": "Deu pra ver? Chato não",
+   "palavras": [
+    {
+     "text": "Deu",
+     "start": 42.23,
+     "end": 42.79
+    },
+    {
+     "text": "pra",
+     "start": 42.79,
+     "end": 42.93
+    },
+    {
+     "text": "ver?",
+     "start": 42.93,
+     "end": 43.11
+    },
+    {
+     "text": "Chato",
+     "start": 43.19,
+     "end": 43.41
+    },
+    {
+     "text": "não",
+     "start": 43.41,
+     "end": 44.01
+    }
+   ]
+  },
+  {
+   "inicio": 46.43,
+   "fim": 47.15,
+   "texto": "Aqui ó",
+   "palavras": [
+    {
+     "text": "Aqui",
+     "start": 46.43,
+     "end": 46.79
+    },
+    {
+     "text": "ó",
+     "start": 46.79,
+     "end": 47.15
+    }
+   ]
+  },
+  {
+   "inicio": 47.15,
+   "fim": 49.33,
+   "texto": "Calma aí, deixa o tempo pra metade",
+   "palavras": [
+    {
+     "text": "Calma",
+     "start": 47.15,
+     "end": 47.51
+    },
+    {
+     "text": "aí,",
+     "start": 47.51,
+     "end": 47.61
+    },
+    {
+     "text": "deixa",
+     "start": 47.73,
+     "end": 47.81
+    },
+    {
+     "text": "o",
+     "start": 47.81,
+     "end": 47.89
+    },
+    {
+     "text": "tempo",
+     "start": 47.89,
+     "end": 48.05
+    },
+    {
+     "text": "pra",
+     "start": 48.05,
+     "end": 48.19
+    },
+    {
+     "text": "metade",
+     "start": 48.19,
+     "end": 49.33
+    }
+   ]
+  },
+  {
+   "inicio": 49.33,
+   "fim": 49.85,
+   "texto": "Calma aí",
+   "palavras": [
+    {
+     "text": "Calma",
+     "start": 49.33,
+     "end": 49.71
+    },
+    {
+     "text": "aí",
+     "start": 49.71,
+     "end": 49.85
+    }
+   ]
+  }
+ ]
+}

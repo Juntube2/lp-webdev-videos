@@ -1,0 +1,26 @@
+{
+ "segmentos": [
+  {
+   "inicio": 0.0,
+   "fim": 0.38,
+   "texto": "É isso aí!",
+   "palavras": [
+    {
+     "text": "É",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "text": "isso",
+     "start": 0.14,
+     "end": 0.36
+    },
+    {
+     "text": "aí!",
+     "start": 0.36,
+     "end": 0.38
+    }
+   ]
+  }
+ ]
+}

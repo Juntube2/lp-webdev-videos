@@ -1,0 +1,326 @@
+{
+ "segmentos": [
+  {
+   "inicio": 0.0,
+   "fim": 1.76,
+   "texto": "Vai embora, vai embora",
+   "palavras": [
+    {
+     "text": "Vai",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "embora,",
+     "start": 0.16,
+     "end": 0.56
+    },
+    {
+     "text": "vai",
+     "start": 0.56,
+     "end": 0.86
+    },
+    {
+     "text": "embora",
+     "start": 0.86,
+     "end": 1.76
+    }
+   ]
+  },
+  {
+   "inicio": 1.76,
+   "fim": 3.42,
+   "texto": "Eu não mereço",
+   "palavras": [
+    {
+     "text": "Eu",
+     "start": 1.76,
+     "end": 2.62
+    },
+    {
+     "text": "não",
+     "start": 2.62,
+     "end": 2.94
+    },
+    {
+     "text": "mereço",
+     "start": 2.94,
+     "end": 3.42
+    }
+   ]
+  },
+  {
+   "inicio": 3.72,
+   "fim": 5.66,
+   "texto": "É sério",
+   "palavras": [
+    {
+     "text": "É",
+     "start": 3.72,
+     "end": 4.04
+    },
+    {
+     "text": "sério",
+     "start": 4.04,
+     "end": 5.66
+    }
+   ]
+  },
+  {
+   "inicio": 5.66,
+   "fim": 8.0,
+   "texto": "Minha amiga me tapiou, vem aqui",
+   "palavras": [
+    {
+     "text": "Minha",
+     "start": 5.66,
+     "end": 6.16
+    },
+    {
+     "text": "amiga",
+     "start": 6.16,
+     "end": 6.46
+    },
+    {
+     "text": "me",
+     "start": 6.46,
+     "end": 6.8
+    },
+    {
+     "text": "tapiou,",
+     "start": 6.8,
+     "end": 7.34
+    },
+    {
+     "text": "vem",
+     "start": 7.36,
+     "end": 7.48
+    },
+    {
+     "text": "aqui",
+     "start": 7.48,
+     "end": 8.0
+    }
+   ]
+  },
+  {
+   "inicio": 22.55,
+   "fim": 23.45,
+   "texto": "Aí chatinho",
+   "palavras": [
+    {
+     "text": "Aí",
+     "start": 22.55,
+     "end": 23.11
+    },
+    {
+     "text": "chatinho",
+     "start": 23.11,
+     "end": 23.45
+    }
+   ]
+  },
+  {
+   "inicio": 23.45,
+   "fim": 25.29,
+   "texto": "A gente quer um clipe de 1 milhão no Instagram",
+   "palavras": [
+    {
+     "text": "A",
+     "start": 23.45,
+     "end": 23.57
+    },
+    {
+     "text": "gente",
+     "start": 23.57,
+     "end": 23.57
+    },
+    {
+     "text": "quer",
+     "start": 23.57,
+     "end": 23.61
+    },
+    {
+     "text": "um",
+     "start": 23.61,
+     "end": 23.77
+    },
+    {
+     "text": "clipe",
+     "start": 23.77,
+     "end": 23.95
+    },
+    {
+     "text": "de",
+     "start": 23.95,
+     "end": 24.11
+    },
+    {
+     "text": "1",
+     "start": 24.11,
+     "end": 24.25
+    },
+    {
+     "text": "milhão",
+     "start": 24.25,
+     "end": 24.71
+    },
+    {
+     "text": "no",
+     "start": 24.71,
+     "end": 24.85
+    },
+    {
+     "text": "Instagram",
+     "start": 24.85,
+     "end": 25.29
+    }
+   ]
+  },
+  {
+   "inicio": 27.05,
+   "fim": 27.69,
+   "texto": "Chate",
+   "palavras": [
+    {
+     "text": "Chate",
+     "start": 27.05,
+     "end": 27.69
+    }
+   ]
+  },
+  {
+   "inicio": 27.69,
+   "fim": 28.65,
+   "texto": "Clipe de 1 milhão",
+   "palavras": [
+    {
+     "text": "Clipe",
+     "start": 27.69,
+     "end": 28.09
+    },
+    {
+     "text": "de",
+     "start": 28.09,
+     "end": 28.23
+    },
+    {
+     "text": "1",
+     "start": 28.23,
+     "end": 28.37
+    },
+    {
+     "text": "milhão",
+     "start": 28.37,
+     "end": 28.65
+    }
+   ]
+  },
+  {
+   "inicio": 28.65,
+   "fim": 30.01,
+   "texto": "Cadê o microfone que eu te dei?",
+   "palavras": [
+    {
+     "text": "Cadê",
+     "start": 28.65,
+     "end": 28.97
+    },
+    {
+     "text": "o",
+     "start": 28.97,
+     "end": 29.11
+    },
+    {
+     "text": "microfone",
+     "start": 29.11,
+     "end": 29.37
+    },
+    {
+     "text": "que",
+     "start": 29.37,
+     "end": 29.45
+    },
+    {
+     "text": "eu",
+     "start": 29.45,
+     "end": 29.55
+    },
+    {
+     "text": "te",
+     "start": 29.55,
+     "end": 29.67
+    },
+    {
+     "text": "dei?",
+     "start": 29.67,
+     "end": 30.01
+    }
+   ]
+  },
+  {
+   "inicio": 30.59,
+   "fim": 32.39,
+   "texto": "Cadê o microfone que eu te dei?",
+   "palavras": [
+    {
+     "text": "Cadê",
+     "start": 30.59,
+     "end": 30.95
+    },
+    {
+     "text": "o",
+     "start": 30.95,
+     "end": 31.05
+    },
+    {
+     "text": "microfone",
+     "start": 31.05,
+     "end": 31.47
+    },
+    {
+     "text": "que",
+     "start": 31.47,
+     "end": 31.57
+    },
+    {
+     "text": "eu",
+     "start": 31.57,
+     "end": 31.61
+    },
+    {
+     "text": "te",
+     "start": 31.61,
+     "end": 31.77
+    },
+    {
+     "text": "dei?",
+     "start": 31.77,
+     "end": 32.39
+    }
+   ]
+  },
+  {
+   "inicio": 41.66,
+   "fim": 42.78,
+   "texto": "Ei firmão bigote",
+   "palavras": [
+    {
+     "text": "Ei",
+     "start": 41.66,
+     "end": 41.9
+    },
+    {
+     "text": "firmão",
+     "start": 41.9,
+     "end": 42.3
+    },
+    {
+     "text": "bigote",
+     "start": 42.3,
+     "end": 42.78
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "segmentos": [
+  {
+   "inicio": 17.68,
+   "fim": 18.36,
+   "texto": "Tá muito forte!",
+   "palavras": [
+    {
+     "text": "Tá",
+     "start": 17.68,
+     "end": 17.8
+    },
+    {
+     "text": "muito",
+     "start": 17.8,
+     "end": 18.02
+    },
+    {
+     "text": "forte!",
+     "start": 18.02,
+     "end": 18.36
+    }
+   ]
+  }
+ ]
+}
