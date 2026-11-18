@@ -1,0 +1,477 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.374
+},
+{
+"text": "constrói",
+"start": 0.385,
+"end": 0.775
+},
+{
+"text": "devagar",
+"start": 0.787,
+"end": 1.188
+},
+{
+"text": "no",
+"start": 1.2,
+"end": 1.289
+},
+{
+"text": "controle?",
+"start": 1.3,
+"end": 1.791
+},
+{
+"text": "Muda",
+"start": 2.556,
+"end": 2.879
+},
+{
+"text": "essas",
+"start": 2.891,
+"end": 3.181
+},
+{
+"text": "três",
+"start": 3.192,
+"end": 3.426
+},
+{
+"text": "configurações",
+"start": 3.438,
+"end": 4.141
+},
+{
+"text": "hoje.",
+"start": 4.152,
+"end": 4.542
+},
+{
+"text": "Um:",
+"start": 5.312,
+"end": 5.547
+},
+{
+"text": "troca",
+"start": 5.804,
+"end": 6.083
+},
+{
+"text": "o",
+"start": 6.094,
+"end": 6.105
+},
+{
+"text": "layout",
+"start": 6.116,
+"end": 6.54
+},
+{
+"text": "pra",
+"start": 6.551,
+"end": 6.685
+},
+{
+"text": "Construtor",
+"start": 6.696,
+"end": 7.221
+},
+{
+"text": "Pro.",
+"start": 7.232,
+"end": 7.466
+},
+{
+"text": "As",
+"start": 8.237,
+"end": 8.393
+},
+{
+"text": "construções",
+"start": 8.404,
+"end": 9.007
+},
+{
+"text": "vão",
+"start": 9.018,
+"end": 9.163
+},
+{
+"text": "pros",
+"start": 9.174,
+"end": 9.308
+},
+{
+"text": "gatilhos",
+"start": 9.319,
+"end": 9.754
+},
+{
+"text": "e",
+"start": 9.766,
+"end": 9.855
+},
+{
+"text": "você",
+"start": 9.866,
+"end": 10.1
+},
+{
+"text": "não",
+"start": 10.112,
+"end": 10.268
+},
+{
+"text": "tira",
+"start": 10.279,
+"end": 10.491
+},
+{
+"text": "o",
+"start": 10.502,
+"end": 10.536
+},
+{
+"text": "polegar",
+"start": 10.547,
+"end": 10.971
+},
+{
+"text": "do",
+"start": 10.982,
+"end": 11.105
+},
+{
+"text": "analógico.",
+"start": 11.116,
+"end": 11.685
+},
+{
+"text": "Dois:",
+"start": 12.455,
+"end": 12.88
+},
+{
+"text": "liga",
+"start": 13.17,
+"end": 13.438
+},
+{
+"text": "a",
+"start": 13.449,
+"end": 13.482
+},
+{
+"text": "construção",
+"start": 13.493,
+"end": 14.074
+},
+{
+"text": "turbo.",
+"start": 14.085,
+"end": 14.453
+},
+{
+"text": "Segurando",
+"start": 15.223,
+"end": 15.77
+},
+{
+"text": "o",
+"start": 15.781,
+"end": 15.804
+},
+{
+"text": "botão,",
+"start": 15.815,
+"end": 16.183
+},
+{
+"text": "as",
+"start": 16.462,
+"end": 16.585
+},
+{
+"text": "paredes",
+"start": 16.596,
+"end": 16.931
+},
+{
+"text": "e",
+"start": 16.942,
+"end": 17.054
+},
+{
+"text": "rampas",
+"start": 17.065,
+"end": 17.478
+},
+{
+"text": "saem",
+"start": 17.489,
+"end": 17.734
+},
+{
+"text": "em",
+"start": 17.746,
+"end": 17.812
+},
+{
+"text": "sequência,",
+"start": 17.824,
+"end": 18.348
+},
+{
+"text": "sem",
+"start": 18.616,
+"end": 18.795
+},
+{
+"text": "apertar",
+"start": 18.806,
+"end": 19.286
+},
+{
+"text": "de",
+"start": 19.297,
+"end": 19.397
+},
+{
+"text": "novo.",
+"start": 19.409,
+"end": 19.732
+},
+{
+"text": "Três:",
+"start": 20.502,
+"end": 20.871
+},
+{
+"text": "abaixa",
+"start": 21.161,
+"end": 21.562
+},
+{
+"text": "o",
+"start": 21.574,
+"end": 21.618
+},
+{
+"text": "tempo",
+"start": 21.629,
+"end": 21.931
+},
+{
+"text": "de",
+"start": 21.942,
+"end": 22.009
+},
+{
+"text": "segurar",
+"start": 22.02,
+"end": 22.466
+},
+{
+"text": "pra",
+"start": 22.478,
+"end": 22.612
+},
+{
+"text": "editar,",
+"start": 22.623,
+"end": 23.025
+},
+{
+"text": "perto",
+"start": 23.214,
+"end": 23.527
+},
+{
+"text": "de",
+"start": 23.538,
+"end": 23.638
+},
+{
+"text": "zero",
+"start": 23.65,
+"end": 23.951
+},
+{
+"text": "vírgula",
+"start": 23.962,
+"end": 24.297
+},
+{
+"text": "um,",
+"start": 24.308,
+"end": 24.487
+},
+{
+"text": "e",
+"start": 24.821,
+"end": 24.888
+},
+{
+"text": "sobe",
+"start": 24.9,
+"end": 25.234
+},
+{
+"text": "o",
+"start": 25.246,
+"end": 25.268
+},
+{
+"text": "multiplicador",
+"start": 25.279,
+"end": 25.982
+},
+{
+"text": "de",
+"start": 25.993,
+"end": 26.083
+},
+{
+"text": "sensibilidade",
+"start": 26.094,
+"end": 26.786
+},
+{
+"text": "do",
+"start": 26.797,
+"end": 26.886
+},
+{
+"text": "modo",
+"start": 26.897,
+"end": 27.187
+},
+{
+"text": "construção.",
+"start": 27.199,
+"end": 27.779
+},
+{
+"text": "Sua",
+"start": 28.549,
+"end": 28.828
+},
+{
+"text": "câmera",
+"start": 28.839,
+"end": 29.174
+},
+{
+"text": "gira",
+"start": 29.185,
+"end": 29.353
+},
+{
+"text": "mais",
+"start": 29.364,
+"end": 29.565
+},
+{
+"text": "rápido",
+"start": 29.576,
+"end": 29.955
+},
+{
+"text": "só",
+"start": 29.966,
+"end": 30.156
+},
+{
+"text": "quando",
+"start": 30.167,
+"end": 30.357
+},
+{
+"text": "você",
+"start": 30.368,
+"end": 30.614
+},
+{
+"text": "está",
+"start": 30.625,
+"end": 30.815
+},
+{
+"text": "buildando.",
+"start": 30.826,
+"end": 31.328
+},
+{
+"text": "Treina",
+"start": 32.098,
+"end": 32.366
+},
+{
+"text": "uns",
+"start": 32.377,
+"end": 32.5
+},
+{
+"text": "minutos",
+"start": 32.511,
+"end": 32.924
+},
+{
+"text": "no",
+"start": 32.935,
+"end": 33.025
+},
+{
+"text": "criativo",
+"start": 33.036,
+"end": 33.605
+},
+{
+"text": "antes",
+"start": 33.616,
+"end": 33.895
+},
+{
+"text": "da",
+"start": 33.906,
+"end": 34.018
+},
+{
+"text": "ranked.",
+"start": 34.029,
+"end": 34.453
+},
+{
+"text": "Qual",
+"start": 35.223,
+"end": 35.435
+},
+{
+"text": "sensibilidade",
+"start": 35.446,
+"end": 36.194
+},
+{
+"text": "você",
+"start": 36.205,
+"end": 36.529
+},
+{
+"text": "usa?",
+"start": 36.54,
+"end": 36.853
+},
+{
+"text": "Comenta",
+"start": 37.623,
+"end": 38.103
+},
+{
+"text": "aí.",
+"start": 38.114,
+"end": 38.371
+}
+]
