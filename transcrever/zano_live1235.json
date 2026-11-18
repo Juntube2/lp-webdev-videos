@@ -1,0 +1,411 @@
+{
+ "segmentos": [
+  {
+   "inicio": 0.11,
+   "fim": 7.75,
+   "texto": "Quando acaba a novela mexicana e você assume a Luísa, cara, eu e a Luísa a gente já trocou a ideia disso. A gente é só amigo, pô.",
+   "palavras": [
+    {
+     "text": "Quando",
+     "start": 0.11,
+     "end": 0.73
+    },
+    {
+     "text": "acaba",
+     "start": 0.73,
+     "end": 1.07
+    },
+    {
+     "text": "a",
+     "start": 1.07,
+     "end": 1.23
+    },
+    {
+     "text": "novela",
+     "start": 1.23,
+     "end": 1.55
+    },
+    {
+     "text": "mexicana",
+     "start": 1.55,
+     "end": 1.97
+    },
+    {
+     "text": "e",
+     "start": 1.97,
+     "end": 2.13
+    },
+    {
+     "text": "você",
+     "start": 2.13,
+     "end": 2.39
+    },
+    {
+     "text": "assume",
+     "start": 2.39,
+     "end": 2.67
+    },
+    {
+     "text": "a",
+     "start": 2.67,
+     "end": 2.85
+    },
+    {
+     "text": "Luísa,",
+     "start": 2.85,
+     "end": 3.15
+    },
+    {
+     "text": "cara,",
+     "start": 3.69,
+     "end": 3.69
+    },
+    {
+     "text": "eu",
+     "start": 3.91,
+     "end": 4.01
+    },
+    {
+     "text": "e",
+     "start": 4.01,
+     "end": 4.05
+    },
+    {
+     "text": "a",
+     "start": 4.05,
+     "end": 4.13
+    },
+    {
+     "text": "Luísa",
+     "start": 4.13,
+     "end": 4.39
+    },
+    {
+     "text": "a",
+     "start": 4.39,
+     "end": 4.41
+    },
+    {
+     "text": "gente",
+     "start": 4.41,
+     "end": 4.55
+    },
+    {
+     "text": "já",
+     "start": 4.55,
+     "end": 4.79
+    },
+    {
+     "text": "trocou",
+     "start": 4.79,
+     "end": 4.99
+    },
+    {
+     "text": "a",
+     "start": 4.99,
+     "end": 4.99
+    },
+    {
+     "text": "ideia",
+     "start": 4.99,
+     "end": 5.21
+    },
+    {
+     "text": "disso.",
+     "start": 5.21,
+     "end": 5.71
+    },
+    {
+     "text": "A",
+     "start": 6.21,
+     "end": 6.29
+    },
+    {
+     "text": "gente",
+     "start": 6.29,
+     "end": 6.59
+    },
+    {
+     "text": "é",
+     "start": 6.59,
+     "end": 6.89
+    },
+    {
+     "text": "só",
+     "start": 6.89,
+     "end": 7.07
+    },
+    {
+     "text": "amigo,",
+     "start": 7.07,
+     "end": 7.37
+    },
+    {
+     "text": "pô.",
+     "start": 7.47,
+     "end": 7.75
+    }
+   ]
+  },
+  {
+   "inicio": 11.06,
+   "fim": 12.74,
+   "texto": "Eu queria algo a mais e eu não tinha.",
+   "palavras": [
+    {
+     "text": "Eu",
+     "start": 11.06,
+     "end": 11.2
+    },
+    {
+     "text": "queria",
+     "start": 11.2,
+     "end": 11.48
+    },
+    {
+     "text": "algo",
+     "start": 11.48,
+     "end": 11.66
+    },
+    {
+     "text": "a",
+     "start": 11.66,
+     "end": 11.86
+    },
+    {
+     "text": "mais",
+     "start": 11.86,
+     "end": 12.02
+    },
+    {
+     "text": "e",
+     "start": 12.02,
+     "end": 12.22
+    },
+    {
+     "text": "eu",
+     "start": 12.22,
+     "end": 12.34
+    },
+    {
+     "text": "não",
+     "start": 12.34,
+     "end": 12.52
+    },
+    {
+     "text": "tinha.",
+     "start": 12.52,
+     "end": 12.74
+    }
+   ]
+  },
+  {
+   "inicio": 13.42,
+   "fim": 16.68,
+   "texto": "Ah, se liga que eu queria algo a mais.",
+   "palavras": [
+    {
+     "text": "Ah,",
+     "start": 13.42,
+     "end": 13.86
+    },
+    {
+     "text": "se",
+     "start": 13.88,
+     "end": 14.12
+    },
+    {
+     "text": "liga",
+     "start": 14.12,
+     "end": 14.56
+    },
+    {
+     "text": "que",
+     "start": 14.56,
+     "end": 14.92
+    },
+    {
+     "text": "eu",
+     "start": 14.92,
+     "end": 15.32
+    },
+    {
+     "text": "queria",
+     "start": 15.32,
+     "end": 15.62
+    },
+    {
+     "text": "algo",
+     "start": 15.62,
+     "end": 15.82
+    },
+    {
+     "text": "a",
+     "start": 15.82,
+     "end": 16.04
+    },
+    {
+     "text": "mais.",
+     "start": 16.04,
+     "end": 16.68
+    }
+   ]
+  },
+  {
+   "inicio": 17.64,
+   "fim": 20.86,
+   "texto": "Estou curtindo o baile pra caralho.",
+   "palavras": [
+    {
+     "text": "Estou",
+     "start": 17.64,
+     "end": 18.08
+    },
+    {
+     "text": "curtindo",
+     "start": 18.08,
+     "end": 18.48
+    },
+    {
+     "text": "o",
+     "start": 18.48,
+     "end": 18.58
+    },
+    {
+     "text": "baile",
+     "start": 18.58,
+     "end": 18.72
+    },
+    {
+     "text": "pra",
+     "start": 18.72,
+     "end": 19.0
+    },
+    {
+     "text": "caralho.",
+     "start": 19.0,
+     "end": 20.86
+    }
+   ]
+  },
+  {
+   "inicio": 21.02,
+   "fim": 23.92,
+   "texto": "Estou curtindo o baile pra caralho aqui, mano, e ele leva esse som.",
+   "palavras": [
+    {
+     "text": "Estou",
+     "start": 21.02,
+     "end": 21.2
+    },
+    {
+     "text": "curtindo",
+     "start": 21.2,
+     "end": 21.52
+    },
+    {
+     "text": "o",
+     "start": 21.52,
+     "end": 21.6
+    },
+    {
+     "text": "baile",
+     "start": 21.6,
+     "end": 21.74
+    },
+    {
+     "text": "pra",
+     "start": 21.74,
+     "end": 22.0
+    },
+    {
+     "text": "caralho",
+     "start": 22.0,
+     "end": 22.42
+    },
+    {
+     "text": "aqui,",
+     "start": 22.42,
+     "end": 22.66
+    },
+    {
+     "text": "mano,",
+     "start": 22.86,
+     "end": 22.92
+    },
+    {
+     "text": "e",
+     "start": 23.02,
+     "end": 23.08
+    },
+    {
+     "text": "ele",
+     "start": 23.08,
+     "end": 23.22
+    },
+    {
+     "text": "leva",
+     "start": 23.22,
+     "end": 23.48
+    },
+    {
+     "text": "esse",
+     "start": 23.48,
+     "end": 23.72
+    },
+    {
+     "text": "som.",
+     "start": 23.72,
+     "end": 23.92
+    }
+   ]
+  },
+  {
+   "inicio": 24.86,
+   "fim": 27.04,
+   "texto": "Ah, pô, não. Vem aqui, trocou a ideia.",
+   "palavras": [
+    {
+     "text": "Ah,",
+     "start": 24.86,
+     "end": 24.86
+    },
+    {
+     "text": "pô,",
+     "start": 25.06,
+     "end": 25.34
+    },
+    {
+     "text": "não.",
+     "start": 25.52,
+     "end": 25.98
+    },
+    {
+     "text": "Vem",
+     "start": 26.24,
+     "end": 26.38
+    },
+    {
+     "text": "aqui,",
+     "start": 26.38,
+     "end": 26.64
+    },
+    {
+     "text": "trocou",
+     "start": 26.8,
+     "end": 26.96
+    },
+    {
+     "text": "a",
+     "start": 26.96,
+     "end": 27.04
+    },
+    {
+     "text": "ideia.",
+     "start": 27.04,
+     "end": 27.04
+    }
+   ]
+  }
+ ]
+}

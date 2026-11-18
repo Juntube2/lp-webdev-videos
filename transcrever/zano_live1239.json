@@ -1,0 +1,263 @@
+{
+ "segmentos": [
+  {
+   "inicio": 0.14,
+   "fim": 3.84,
+   "texto": "Vai ter Luísa na live quando voltar para o Brasil, amores.",
+   "palavras": [
+    {
+     "text": "Vai",
+     "start": 0.14,
+     "end": 0.64
+    },
+    {
+     "text": "ter",
+     "start": 0.64,
+     "end": 0.84
+    },
+    {
+     "text": "Luísa",
+     "start": 0.84,
+     "end": 1.32
+    },
+    {
+     "text": "na",
+     "start": 1.32,
+     "end": 1.44
+    },
+    {
+     "text": "live",
+     "start": 1.44,
+     "end": 1.72
+    },
+    {
+     "text": "quando",
+     "start": 1.72,
+     "end": 1.98
+    },
+    {
+     "text": "voltar",
+     "start": 1.98,
+     "end": 2.3
+    },
+    {
+     "text": "para",
+     "start": 2.3,
+     "end": 2.48
+    },
+    {
+     "text": "o",
+     "start": 2.48,
+     "end": 2.5
+    },
+    {
+     "text": "Brasil,",
+     "start": 2.5,
+     "end": 2.92
+    },
+    {
+     "text": "amores.",
+     "start": 2.98,
+     "end": 3.84
+    }
+   ]
+  },
+  {
+   "inicio": 5.16,
+   "fim": 8.18,
+   "texto": "Vai ter Luísa no resto da vida dos humanistas.",
+   "palavras": [
+    {
+     "text": "Vai",
+     "start": 5.16,
+     "end": 5.26
+    },
+    {
+     "text": "ter",
+     "start": 5.26,
+     "end": 5.46
+    },
+    {
+     "text": "Luísa",
+     "start": 5.46,
+     "end": 6.02
+    },
+    {
+     "text": "no",
+     "start": 6.02,
+     "end": 6.2
+    },
+    {
+     "text": "resto",
+     "start": 6.2,
+     "end": 6.7
+    },
+    {
+     "text": "da",
+     "start": 6.7,
+     "end": 7.0
+    },
+    {
+     "text": "vida",
+     "start": 7.0,
+     "end": 7.24
+    },
+    {
+     "text": "dos",
+     "start": 7.24,
+     "end": 7.56
+    },
+    {
+     "text": "humanistas.",
+     "start": 7.56,
+     "end": 8.18
+    }
+   ]
+  },
+  {
+   "inicio": 8.4,
+   "fim": 9.26,
+   "texto": "Podem conhecer ele.",
+   "palavras": [
+    {
+     "text": "Podem",
+     "start": 8.4,
+     "end": 8.66
+    },
+    {
+     "text": "conhecer",
+     "start": 8.66,
+     "end": 8.92
+    },
+    {
+     "text": "ele.",
+     "start": 8.92,
+     "end": 9.26
+    }
+   ]
+  },
+  {
+   "inicio": 10.64,
+   "fim": 12.26,
+   "texto": "Porque o cara...",
+   "palavras": [
+    {
+     "text": "Porque",
+     "start": 10.64,
+     "end": 11.1
+    },
+    {
+     "text": "o",
+     "start": 11.1,
+     "end": 11.3
+    },
+    {
+     "text": "cara...",
+     "start": 11.3,
+     "end": 12.26
+    }
+   ]
+  },
+  {
+   "inicio": 14.54,
+   "fim": 16.06,
+   "texto": "E eu também não vivo sem ele.",
+   "palavras": [
+    {
+     "text": "E",
+     "start": 14.54,
+     "end": 14.7
+    },
+    {
+     "text": "eu",
+     "start": 14.7,
+     "end": 14.88
+    },
+    {
+     "text": "também",
+     "start": 14.88,
+     "end": 15.12
+    },
+    {
+     "text": "não",
+     "start": 15.12,
+     "end": 15.3
+    },
+    {
+     "text": "vivo",
+     "start": 15.3,
+     "end": 15.48
+    },
+    {
+     "text": "sem",
+     "start": 15.48,
+     "end": 15.68
+    },
+    {
+     "text": "ele.",
+     "start": 15.68,
+     "end": 16.06
+    }
+   ]
+  },
+  {
+   "inicio": 23.62,
+   "fim": 25.28,
+   "texto": "Foda-se o que todo mundo acha.",
+   "palavras": [
+    {
+     "text": "Foda",
+     "start": 23.62,
+     "end": 23.82
+    },
+    {
+     "text": "-se",
+     "start": 23.82,
+     "end": 24.14
+    },
+    {
+     "text": "o",
+     "start": 24.14,
+     "end": 24.34
+    },
+    {
+     "text": "que",
+     "start": 24.34,
+     "end": 24.5
+    },
+    {
+     "text": "todo",
+     "start": 24.5,
+     "end": 24.72
+    },
+    {
+     "text": "mundo",
+     "start": 24.72,
+     "end": 24.9
+    },
+    {
+     "text": "acha.",
+     "start": 24.9,
+     "end": 25.28
+    }
+   ]
+  },
+  {
+   "inicio": 25.66,
+   "fim": 26.08,
+   "texto": "Foda-se.",
+   "palavras": [
+    {
+     "text": "Foda",
+     "start": 25.66,
+     "end": 25.92
+    },
+    {
+     "text": "-se.",
+     "start": 25.92,
+     "end": 26.08
+    }
+   ]
+  }
+ ]
+}
