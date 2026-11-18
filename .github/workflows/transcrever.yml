@@ -1,0 +1,40 @@
+name: Transcrever áudios
+on:
+  push:
+    paths: ["transcrever/**.mp3"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: transcrever
+jobs:
+  transcrever:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install faster-whisper==1.1.1
+      - name: Transcrever
+        run: |
+          python - <<'PY'
+          import json, glob, os
+          from faster_whisper import WhisperModel
+          model = WhisperModel("medium", device="cpu", compute_type="int8")
+          for mp3 in sorted(glob.glob("transcrever/*.mp3")):
+              out = mp3[:-4] + ".json"
+              if os.path.exists(out):
+                  continue
+              segs, info = model.transcribe(mp3, language="pt", word_timestamps=True, vad_filter=True)
+              data = {"segmentos": []}
+              for s in segs:
+                  data["segmentos"].append({"inicio": round(s.start, 2), "fim": round(s.end, 2), "texto": s.text.strip(),
+                      "palavras": [{"text": w.word.strip(), "start": round(w.start, 2), "end": round(w.end, 2)} for w in s.words]})
+              json.dump(data, open(out, "w"), ensure_ascii=False, indent=1)
+              print(out, len(data["segmentos"]))
+          PY
+      - name: Commit
+        run: |
+          git config user.name "lp-webdev-bot"; git config user.email "bot@users.noreply.github.com"
+          git add transcrever/*.json
+          git commit -m "Transcrições" || exit 0
+          git pull --rebase && git push
