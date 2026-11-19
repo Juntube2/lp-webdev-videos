@@ -1,0 +1,24 @@
+{
+ "jogo": "fortnite",
+ "titulo": "Como não morrer pro terceiro depois de ganhar a luta",
+ "titulo_tela": "NÃO SEJA O TERCEIRO MORTO",
+ "roteiro": "Você ganha a luta e morre logo depois? Isso é o terceiro chegando. Se liga nessas dicas. Um: ouviu tiroteio perto? Não corre pro meio. Chega pelo alto ou pelo lado e espera os dois se gastarem. Dois: acabou a luta, se protege antes de tudo. Faz um box ou acha uma cobertura e cura ali dentro. Três: não sai lootando no campo aberto. Dá uma girada na câmera, olha em volta e só depois pega o loot. Quem ouviu os tiros vem atrás de você. Joga com calma e chega vivo no final. Já morreu assim? Comenta aí.",
+ "legenda": "Ganhou a luta e morreu pro terceiro logo depois? Três dicas pra isso não acontecer mais. Já passou por isso?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "zerobuild", "ps5", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f2_11.mp4", "de": 2.0, "zoom": 1.35},
+  {"inicio": "Isso", "clipe": "gameplay/fortnite/f1_01.mp4", "de": 7.8, "zoom": 1.35},
+  {"inicio": "Se", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 6.4, "zoom": 1.35},
+  {"inicio": "Um", "clipe": "gameplay/fortnite/f2_05.mp4", "de": 3.5, "zoom": 1.35},
+  {"inicio": "Chega", "clipe": "gameplay/fortnite/f2_11.mp4", "de": 12.2, "zoom": 1.35},
+  {"inicio": "espera", "clipe": "gameplay/fortnite/f2_01.mp4", "de": 3.4, "zoom": 1.35},
+  {"inicio": "Dois", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 11.9, "zoom": 1.35},
+  {"inicio": "Faz", "clipe": "gameplay/fortnite/f1_10.mp4", "de": 3.9, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 11.4, "zoom": 1.35},
+  {"inicio": "Dá", "clipe": "gameplay/fortnite/f2_12.mp4", "de": 13.6, "zoom": 1.35},
+  {"inicio": "Quem", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 3.4, "zoom": 1.35},
+  {"inicio": "Joga", "clipe": "gameplay/fortnite/f2_07.mp4", "de": 15.0, "zoom": 1.35},
+  {"inicio": "Já", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 1.8, "zoom": 1.35}
+ ]
+}
