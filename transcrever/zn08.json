@@ -1,0 +1,468 @@
+{
+ "segmentos": [
+  {
+   "inicio": 0.05,
+   "fim": 1.91,
+   "texto": "Usa as vezes, mano. Usa no line.",
+   "palavras": [
+    {
+     "text": "Usa",
+     "start": 0.05,
+     "end": 0.55
+    },
+    {
+     "text": "as",
+     "start": 0.55,
+     "end": 0.71
+    },
+    {
+     "text": "vezes,",
+     "start": 0.71,
+     "end": 0.93
+    },
+    {
+     "text": "mano.",
+     "start": 1.17,
+     "end": 1.29
+    },
+    {
+     "text": "Usa",
+     "start": 1.43,
+     "end": 1.51
+    },
+    {
+     "text": "no",
+     "start": 1.51,
+     "end": 1.71
+    },
+    {
+     "text": "line.",
+     "start": 1.71,
+     "end": 1.91
+    }
+   ]
+  },
+  {
+   "inicio": 2.39,
+   "fim": 3.97,
+   "texto": "Ó, olha as costas dele.",
+   "palavras": [
+    {
+     "text": "Ó,",
+     "start": 2.39,
+     "end": 2.61
+    },
+    {
+     "text": "olha",
+     "start": 3.07,
+     "end": 3.19
+    },
+    {
+     "text": "as",
+     "start": 3.19,
+     "end": 3.37
+    },
+    {
+     "text": "costas",
+     "start": 3.37,
+     "end": 3.73
+    },
+    {
+     "text": "dele.",
+     "start": 3.73,
+     "end": 3.97
+    }
+   ]
+  },
+  {
+   "inicio": 4.51,
+   "fim": 5.55,
+   "texto": "Ó, ó.",
+   "palavras": [
+    {
+     "text": "Ó,",
+     "start": 4.51,
+     "end": 4.51
+    },
+    {
+     "text": "ó.",
+     "start": 5.03,
+     "end": 5.55
+    }
+   ]
+  },
+  {
+   "inicio": 10.07,
+   "fim": 12.49,
+   "texto": "Mais ansiedade no bagulho. Ganhei presente de fã.",
+   "palavras": [
+    {
+     "text": "Mais",
+     "start": 10.07,
+     "end": 10.19
+    },
+    {
+     "text": "ansiedade",
+     "start": 10.19,
+     "end": 10.87
+    },
+    {
+     "text": "no",
+     "start": 10.87,
+     "end": 10.99
+    },
+    {
+     "text": "bagulho.",
+     "start": 10.99,
+     "end": 11.47
+    },
+    {
+     "text": "Ganhei",
+     "start": 11.61,
+     "end": 11.77
+    },
+    {
+     "text": "presente",
+     "start": 11.77,
+     "end": 12.03
+    },
+    {
+     "text": "de",
+     "start": 12.03,
+     "end": 12.31
+    },
+    {
+     "text": "fã.",
+     "start": 12.31,
+     "end": 12.49
+    }
+   ]
+  },
+  {
+   "inicio": 14.17,
+   "fim": 15.67,
+   "texto": "Aqui é a live do melhor streamer?",
+   "palavras": [
+    {
+     "text": "Aqui",
+     "start": 14.17,
+     "end": 14.37
+    },
+    {
+     "text": "é",
+     "start": 14.37,
+     "end": 14.45
+    },
+    {
+     "text": "a",
+     "start": 14.45,
+     "end": 14.49
+    },
+    {
+     "text": "live",
+     "start": 14.49,
+     "end": 14.59
+    },
+    {
+     "text": "do",
+     "start": 14.59,
+     "end": 14.71
+    },
+    {
+     "text": "melhor",
+     "start": 14.71,
+     "end": 14.97
+    },
+    {
+     "text": "streamer?",
+     "start": 14.97,
+     "end": 15.67
+    }
+   ]
+  },
+  {
+   "inicio": 17.49,
+   "fim": 18.57,
+   "texto": "Acertou, L.C.?",
+   "palavras": [
+    {
+     "text": "Acertou,",
+     "start": 17.49,
+     "end": 17.85
+    },
+    {
+     "text": "L",
+     "start": 17.91,
+     "end": 18.09
+    },
+    {
+     "text": ".C.?",
+     "start": 18.09,
+     "end": 18.57
+    }
+   ]
+  },
+  {
+   "inicio": 18.57,
+   "fim": 20.47,
+   "texto": "Aqui é a live do melhor streamer. Bom, seja bem vindo.",
+   "palavras": [
+    {
+     "text": "Aqui",
+     "start": 18.57,
+     "end": 18.75
+    },
+    {
+     "text": "é",
+     "start": 18.75,
+     "end": 18.85
+    },
+    {
+     "text": "a",
+     "start": 18.85,
+     "end": 18.87
+    },
+    {
+     "text": "live",
+     "start": 18.87,
+     "end": 18.99
+    },
+    {
+     "text": "do",
+     "start": 18.99,
+     "end": 19.13
+    },
+    {
+     "text": "melhor",
+     "start": 19.13,
+     "end": 19.33
+    },
+    {
+     "text": "streamer.",
+     "start": 19.33,
+     "end": 19.73
+    },
+    {
+     "text": "Bom,",
+     "start": 19.83,
+     "end": 19.83
+    },
+    {
+     "text": "seja",
+     "start": 19.95,
+     "end": 20.05
+    },
+    {
+     "text": "bem",
+     "start": 20.05,
+     "end": 20.33
+    },
+    {
+     "text": "vindo.",
+     "start": 20.33,
+     "end": 20.47
+    }
+   ]
+  },
+  {
+   "inicio": 20.79,
+   "fim": 21.93,
+   "texto": "Tá com o delay? Não.",
+   "palavras": [
+    {
+     "text": "Tá",
+     "start": 20.79,
+     "end": 20.89
+    },
+    {
+     "text": "com",
+     "start": 20.89,
+     "end": 21.07
+    },
+    {
+     "text": "o",
+     "start": 21.07,
+     "end": 21.11
+    },
+    {
+     "text": "delay?",
+     "start": 21.11,
+     "end": 21.29
+    },
+    {
+     "text": "Não.",
+     "start": 21.77,
+     "end": 21.93
+    }
+   ]
+  },
+  {
+   "inicio": 22.05,
+   "fim": 24.21,
+   "texto": "Mas eu vou ativar na hora que eu for jogar as rankings.",
+   "palavras": [
+    {
+     "text": "Mas",
+     "start": 22.05,
+     "end": 22.23
+    },
+    {
+     "text": "eu",
+     "start": 22.23,
+     "end": 22.35
+    },
+    {
+     "text": "vou",
+     "start": 22.35,
+     "end": 22.49
+    },
+    {
+     "text": "ativar",
+     "start": 22.49,
+     "end": 23.05
+    },
+    {
+     "text": "na",
+     "start": 23.05,
+     "end": 23.17
+    },
+    {
+     "text": "hora",
+     "start": 23.17,
+     "end": 23.27
+    },
+    {
+     "text": "que",
+     "start": 23.27,
+     "end": 23.41
+    },
+    {
+     "text": "eu",
+     "start": 23.41,
+     "end": 23.41
+    },
+    {
+     "text": "for",
+     "start": 23.41,
+     "end": 23.55
+    },
+    {
+     "text": "jogar",
+     "start": 23.55,
+     "end": 23.75
+    },
+    {
+     "text": "as",
+     "start": 23.75,
+     "end": 23.95
+    },
+    {
+     "text": "rankings.",
+     "start": 23.95,
+     "end": 24.21
+    }
+   ]
+  },
+  {
+   "inicio": 24.75,
+   "fim": 26.19,
+   "texto": "E aí, Helves? Tranquilidade?",
+   "palavras": [
+    {
+     "text": "E",
+     "start": 24.75,
+     "end": 24.85
+    },
+    {
+     "text": "aí,",
+     "start": 24.85,
+     "end": 24.97
+    },
+    {
+     "text": "Helves?",
+     "start": 25.21,
+     "end": 25.41
+    },
+    {
+     "text": "Tranquilidade?",
+     "start": 25.83,
+     "end": 26.19
+    }
+   ]
+  },
+  {
+   "inicio": 26.31,
+   "fim": 27.23,
+   "texto": "Deixa eu ver se eu postei aqui.",
+   "palavras": [
+    {
+     "text": "Deixa",
+     "start": 26.31,
+     "end": 26.35
+    },
+    {
+     "text": "eu",
+     "start": 26.35,
+     "end": 26.35
+    },
+    {
+     "text": "ver",
+     "start": 26.35,
+     "end": 26.43
+    },
+    {
+     "text": "se",
+     "start": 26.43,
+     "end": 26.55
+    },
+    {
+     "text": "eu",
+     "start": 26.55,
+     "end": 26.69
+    },
+    {
+     "text": "postei",
+     "start": 26.69,
+     "end": 26.97
+    },
+    {
+     "text": "aqui.",
+     "start": 26.97,
+     "end": 27.23
+    }
+   ]
+  },
+  {
+   "inicio": 28.05,
+   "fim": 28.81,
+   "texto": "Aqui a live tá on.",
+   "palavras": [
+    {
+     "text": "Aqui",
+     "start": 28.05,
+     "end": 28.17
+    },
+    {
+     "text": "a",
+     "start": 28.17,
+     "end": 28.25
+    },
+    {
+     "text": "live",
+     "start": 28.25,
+     "end": 28.41
+    },
+    {
+     "text": "tá",
+     "start": 28.41,
+     "end": 28.61
+    },
+    {
+     "text": "on.",
+     "start": 28.61,
+     "end": 28.81
+    }
+   ]
+  }
+ ]
+}
