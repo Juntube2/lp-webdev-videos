@@ -1,0 +1,22 @@
+{
+  "jogo": "valorant",
+  "titulo": "Pare de tomar o primeiro tiro segurando ângulo",
+  "titulo_tela": "COMO SEGURAR ÂNGULO NO VALORANT",
+  "roteiro": "Você sempre toma o primeiro tiro segurando ângulo? Para de colar na parede. Dica um: dá uns passos pra trás. Longe do canto, o inimigo aparece pertinho da sua mira e você mexe menos o analógico. Dica dois: deixa a mira pronta na altura da cabeça, bem no canto onde ele vai sair. No controle, quanto menos você precisa mexer a mira, melhor. Dica três: sai do lugar óbvio. Segura de um ângulo que ninguém checa, e depois do tiro, muda de posição. Quem segura bem ganha o round. Qual ângulo você mais segura? Comenta aí.",
+  "legenda": "Três dicas pra parar de tomar o primeiro tiro segurando ângulo no Valorant. Qual ângulo você mais segura?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "ps5", "xbox", "gaming", "fyp", "foryou"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v1_06.mp4", "de": 12.9, "zoom": 1.7},
+    {"inicio": "Para", "clipe": "gameplay/valorant/v1_07.mp4", "de": 7.0, "zoom": 1.7},
+    {"inicio": "Dica", "clipe": "gameplay/valorant/v2_00.mp4", "de": 8.5, "zoom": 1.7},
+    {"inicio": "Longe", "clipe": "gameplay/valorant/v2_07.mp4", "de": 4.8, "zoom": 1.7},
+    {"inicio": "Dica", "clipe": "gameplay/valorant/v2_02.mp4", "de": 10.6, "zoom": 1.7},
+    {"inicio": "controle", "clipe": "gameplay/valorant/v2_09.mp4", "de": 9.6, "zoom": 1.7},
+    {"inicio": "Dica", "clipe": "gameplay/valorant/v2_13.mp4", "de": 9.0, "zoom": 1.7},
+    {"inicio": "Segura", "clipe": "gameplay/valorant/v1_03.mp4", "de": 8.0, "zoom": 1.7},
+    {"inicio": "depois", "clipe": "gameplay/valorant/v2_04.mp4", "de": 4.0, "zoom": 1.7},
+    {"inicio": "Quem", "clipe": "gameplay/valorant/v2_10.mp4", "de": 3.5, "zoom": 1.7},
+    {"inicio": "Qual", "clipe": "gameplay/valorant/v2_06.mp4", "de": 11.8, "zoom": 1.7}
+  ]
+}
