@@ -1,0 +1,462 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.385
+},
+{
+"text": "sempre",
+"start": 0.396,
+"end": 0.731
+},
+{
+"text": "chega",
+"start": 0.742,
+"end": 0.976
+},
+{
+"text": "na",
+"start": 0.988,
+"end": 1.088
+},
+{
+"text": "zona",
+"start": 1.099,
+"end": 1.333
+},
+{
+"text": "atrasado",
+"start": 1.345,
+"end": 1.825
+},
+{
+"text": "e",
+"start": 1.836,
+"end": 1.869
+},
+{
+"text": "toma",
+"start": 1.88,
+"end": 2.104
+},
+{
+"text": "tiro",
+"start": 2.115,
+"end": 2.371
+},
+{
+"text": "de",
+"start": 2.383,
+"end": 2.494
+},
+{
+"text": "todo",
+"start": 2.505,
+"end": 2.751
+},
+{
+"text": "lado?",
+"start": 2.762,
+"end": 3.086
+},
+{
+"text": "Faz",
+"start": 3.85,
+"end": 4.074
+},
+{
+"text": "assim.",
+"start": 4.085,
+"end": 4.509
+},
+{
+"text": "Um:",
+"start": 5.279,
+"end": 5.558
+},
+{
+"text": "sai",
+"start": 5.781,
+"end": 6.06
+},
+{
+"text": "cedo.",
+"start": 6.071,
+"end": 6.44
+},
+{
+"text": "Assim",
+"start": 7.21,
+"end": 7.567
+},
+{
+"text": "que",
+"start": 7.578,
+"end": 7.645
+},
+{
+"text": "a",
+"start": 7.656,
+"end": 7.712
+},
+{
+"text": "próxima",
+"start": 7.723,
+"end": 8.103
+},
+{
+"text": "zona",
+"start": 8.114,
+"end": 8.393
+},
+{
+"text": "aparecer",
+"start": 8.404,
+"end": 8.828
+},
+{
+"text": "no",
+"start": 8.839,
+"end": 8.929
+},
+{
+"text": "mapa,",
+"start": 8.94,
+"end": 9.252
+},
+{
+"text": "já",
+"start": 9.498,
+"end": 9.632
+},
+{
+"text": "começa",
+"start": 9.643,
+"end": 10.034
+},
+{
+"text": "a",
+"start": 10.045,
+"end": 10.056
+},
+{
+"text": "andar.",
+"start": 10.067,
+"end": 10.368
+},
+{
+"text": "Quem",
+"start": 11.138,
+"end": 11.362
+},
+{
+"text": "sai",
+"start": 11.373,
+"end": 11.652
+},
+{
+"text": "no",
+"start": 11.663,
+"end": 11.763
+},
+{
+"text": "último",
+"start": 11.775,
+"end": 12.076
+},
+{
+"text": "segundo",
+"start": 12.087,
+"end": 12.455
+},
+{
+"text": "chega",
+"start": 12.466,
+"end": 12.734
+},
+{
+"text": "correndo",
+"start": 12.746,
+"end": 13.158
+},
+{
+"text": "e",
+"start": 13.17,
+"end": 13.214
+},
+{
+"text": "sem",
+"start": 13.225,
+"end": 13.415
+},
+{
+"text": "cobertura.",
+"start": 13.426,
+"end": 14.007
+},
+{
+"text": "Dois:",
+"start": 14.777,
+"end": 15.19
+},
+{
+"text": "vai",
+"start": 15.391,
+"end": 15.58
+},
+{
+"text": "pela",
+"start": 15.591,
+"end": 15.781
+},
+{
+"text": "borda",
+"start": 15.792,
+"end": 16.127
+},
+{
+"text": "da",
+"start": 16.138,
+"end": 16.239
+},
+{
+"text": "tempestade.",
+"start": 16.25,
+"end": 16.886
+},
+{
+"text": "Andando",
+"start": 17.656,
+"end": 18.114
+},
+{
+"text": "pela",
+"start": 18.125,
+"end": 18.304
+},
+{
+"text": "beirada,",
+"start": 18.315,
+"end": 18.761
+},
+{
+"text": "ninguém",
+"start": 18.973,
+"end": 19.286
+},
+{
+"text": "te",
+"start": 19.297,
+"end": 19.397
+},
+{
+"text": "pega",
+"start": 19.409,
+"end": 19.699
+},
+{
+"text": "pelas",
+"start": 19.71,
+"end": 19.955
+},
+{
+"text": "costas.",
+"start": 19.966,
+"end": 20.458
+},
+{
+"text": "Três:",
+"start": 21.228,
+"end": 21.607
+},
+{
+"text": "não",
+"start": 21.797,
+"end": 22.054
+},
+{
+"text": "corre",
+"start": 22.065,
+"end": 22.366
+},
+{
+"text": "no",
+"start": 22.377,
+"end": 22.478
+},
+{
+"text": "campo",
+"start": 22.489,
+"end": 22.701
+},
+{
+"text": "aberto.",
+"start": 22.712,
+"end": 23.136
+},
+{
+"text": "Passa",
+"start": 23.906,
+"end": 24.208
+},
+{
+"text": "por",
+"start": 24.219,
+"end": 24.364
+},
+{
+"text": "trás",
+"start": 24.375,
+"end": 24.621
+},
+{
+"text": "de",
+"start": 24.632,
+"end": 24.71
+},
+{
+"text": "morro,",
+"start": 24.721,
+"end": 25.045
+},
+{
+"text": "casa",
+"start": 25.268,
+"end": 25.558
+},
+{
+"text": "e",
+"start": 25.569,
+"end": 25.625
+},
+{
+"text": "árvore,",
+"start": 25.636,
+"end": 26.038
+},
+{
+"text": "ou",
+"start": 26.239,
+"end": 26.339
+},
+{
+"text": "constrói",
+"start": 26.35,
+"end": 26.786
+},
+{
+"text": "uma",
+"start": 26.797,
+"end": 26.931
+},
+{
+"text": "rampa",
+"start": 26.942,
+"end": 27.288
+},
+{
+"text": "e",
+"start": 27.299,
+"end": 27.333
+},
+{
+"text": "vai",
+"start": 27.344,
+"end": 27.489
+},
+{
+"text": "pelo",
+"start": 27.5,
+"end": 27.712
+},
+{
+"text": "alto.",
+"start": 27.723,
+"end": 28.047
+},
+{
+"text": "Sempre",
+"start": 28.817,
+"end": 29.241
+},
+{
+"text": "guarda",
+"start": 29.252,
+"end": 29.609
+},
+{
+"text": "um",
+"start": 29.621,
+"end": 29.777
+},
+{
+"text": "item",
+"start": 29.788,
+"end": 29.978
+},
+{
+"text": "de",
+"start": 29.989,
+"end": 30.078
+},
+{
+"text": "mobilidade",
+"start": 30.089,
+"end": 30.703
+},
+{
+"text": "pra",
+"start": 30.714,
+"end": 30.871
+},
+{
+"text": "emergência.",
+"start": 30.882,
+"end": 31.529
+},
+{
+"text": "Você",
+"start": 32.299,
+"end": 32.578
+},
+{
+"text": "sai",
+"start": 32.589,
+"end": 32.824
+},
+{
+"text": "cedo",
+"start": 32.835,
+"end": 33.192
+},
+{
+"text": "ou",
+"start": 33.203,
+"end": 33.292
+},
+{
+"text": "na",
+"start": 33.304,
+"end": 33.471
+},
+{
+"text": "última",
+"start": 33.482,
+"end": 33.806
+},
+{
+"text": "hora?",
+"start": 33.817,
+"end": 34.074
+},
+{
+"text": "Comenta",
+"start": 34.844,
+"end": 35.324
+},
+{
+"text": "aí.",
+"start": 35.335,
+"end": 35.592
+}
+]
