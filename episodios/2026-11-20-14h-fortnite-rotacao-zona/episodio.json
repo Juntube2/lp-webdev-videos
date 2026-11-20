@@ -1,0 +1,94 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 dicas de rotação pra nunca mais chegar atrasado na zona",
+ "titulo_tela": "PARE DE CHEGAR ATRASADO NA ZONA",
+ "roteiro": "Você sempre chega na zona atrasado e toma tiro de todo lado? Faz assim. Um: sai cedo. Assim que a próxima zona aparecer no mapa, já começa a andar. Quem sai no último segundo chega correndo e sem cobertura. Dois: vai pela borda da tempestade. Andando pela beirada, ninguém te pega pelas costas. Três: não corre no campo aberto. Passa por trás de morro, casa e árvore, ou constrói uma rampa e vai pelo alto. Sempre guarda um item de mobilidade pra emergência. Você sai cedo ou na última hora? Comenta aí.",
+ "legenda": "Chega sempre atrasado na zona e morre no caminho? Três dicas de rotação pra chegar vivo. Você sai cedo ou na última hora?",
+ "hashtags": [
+  "fortnite",
+  "fortnitebrasil",
+  "dicasfortnite",
+  "fortniteps5",
+  "fortniteclips",
+  "zerobuild",
+  "ps5",
+  "gaming",
+  "fyp",
+  "foryou"
+ ],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {
+   "inicio": "",
+   "clipe": "gameplay/fortnite/f1_06.mp4",
+   "de": 2.0,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Faz",
+   "clipe": "gameplay/fortnite/f1_11.mp4",
+   "de": 7.0,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Um",
+   "clipe": "gameplay/fortnite/f1_12.mp4",
+   "de": 9.0,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Assim",
+   "clipe": "gameplay/fortnite/f1_10.mp4",
+   "de": 15.2,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Quem",
+   "clipe": "gameplay/fortnite/f2_02.mp4",
+   "de": 4.2,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Dois",
+   "clipe": "gameplay/fortnite/f1_02.mp4",
+   "de": 2.0,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Andando",
+   "clipe": "gameplay/fortnite/f1_13.mp4",
+   "de": 11.0,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Três",
+   "clipe": "gameplay/fortnite/f1_03.mp4",
+   "de": 3.0,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Passa",
+   "clipe": "gameplay/fortnite/f1_09.mp4",
+   "de": 14.9,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "ou",
+   "clipe": "gameplay/fortnite/f1_08.mp4",
+   "de": 9.5,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Sempre",
+   "clipe": "gameplay/fortnite/f1_05.mp4",
+   "de": 13.0,
+   "zoom": 1.35
+  },
+  {
+   "inicio": "Você",
+   "clipe": "gameplay/fortnite/f1_00.mp4",
+   "de": 12.5,
+   "zoom": 1.35
+  }
+ ]
+}
