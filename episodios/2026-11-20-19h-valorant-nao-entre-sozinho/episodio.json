@@ -1,0 +1,23 @@
+{
+  "jogo": "valorant",
+  "titulo": "Pare de entrar no bomb sozinho no Valorant",
+  "titulo_tela": "PARE DE ENTRAR NO BOMB SOZINHO",
+  "roteiro": "Pare de entrar no bomb sozinho. É assim que você morre primeiro e o time perde o round. Dica um: entra em dupla. Um vai na frente e o outro vem colado, pronto pra trocar o abate na hora. Dica dois: espera o utilitário. Smoke, flash ou reconhecimento primeiro, depois todo mundo entra junto. Dica três: não para na porta. A entrada é onde todo mundo mira, então passa rápido e limpa um ângulo de cada vez. Time que entra junto ganha muito mais round. Você entra primeiro ou espera o time? Comenta aí.",
+  "legenda": "Três dicas pra parar de morrer sozinho na entrada do bomb no Valorant. Você entra primeiro ou espera o time?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "ps5", "xbox", "gaming", "fyp", "foryou"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v2_01.mp4", "de": 2.5, "zoom": 1.7},
+    {"inicio": "É", "clipe": "gameplay/valorant/v1_04.mp4", "de": 1.5, "zoom": 1.7},
+    {"inicio": "Dica", "clipe": "gameplay/valorant/v2_12.mp4", "de": 10.1, "zoom": 1.7},
+    {"inicio": "colado", "clipe": "gameplay/valorant/v1_10.mp4", "de": 4.3, "zoom": 1.7},
+    {"inicio": "Dica", "clipe": "gameplay/valorant/v1_01.mp4", "de": 8.2, "zoom": 1.7},
+    {"inicio": "Smoke", "clipe": "gameplay/valorant/v1_00.mp4", "de": 1.7, "zoom": 1.7},
+    {"inicio": "depois", "clipe": "gameplay/valorant/v2_03.mp4", "de": 9.2, "zoom": 1.7},
+    {"inicio": "Dica", "clipe": "gameplay/valorant/v1_02.mp4", "de": 5.4, "zoom": 1.7},
+    {"inicio": "entrada", "clipe": "gameplay/valorant/v2_08.mp4", "de": 6.1, "zoom": 1.7},
+    {"inicio": "limpa", "clipe": "gameplay/valorant/v1_09.mp4", "de": 5.4, "zoom": 1.7},
+    {"inicio": "Time", "clipe": "gameplay/valorant/v2_11.mp4", "de": 1.8, "zoom": 1.7},
+    {"inicio": "Você", "clipe": "gameplay/valorant/v1_12.mp4", "de": 6.1, "zoom": 1.7}
+  ]
+}
