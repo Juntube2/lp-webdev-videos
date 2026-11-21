@@ -832,8 +832,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19",
+      "usos": 3,
+      "ultimo_uso": "2026-11-21",
       "evitar": "tela lilás de transição a partir de 14s"
     },
     {
@@ -936,8 +936,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v1_07.mp4",
@@ -999,8 +999,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 1,
-      "ultimo_uso": "2026-11-17"
+      "usos": 2,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v1_09.mp4",
@@ -1092,8 +1092,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 1,
-      "ultimo_uso": "2026-11-17"
+      "usos": 2,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v1_12.mp4",
@@ -1154,8 +1154,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 1,
-      "ultimo_uso": "2026-11-18",
+      "usos": 2,
+      "ultimo_uso": "2026-11-21",
       "evitar": "tela roxa de transição por volta de 9s a 10s"
     },
     {
@@ -1191,8 +1191,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_01.mp4",
@@ -1258,8 +1258,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_03.mp4",
@@ -1320,8 +1320,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_05.mp4",
@@ -1351,8 +1351,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-18"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_06.mp4",
@@ -1382,8 +1382,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_07.mp4",
@@ -1418,8 +1418,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_08.mp4",
@@ -1480,8 +1480,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_10.mp4",
@@ -1511,8 +1511,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     },
     {
       "arquivo": "gameplay/valorant/v2_11.mp4",
@@ -1609,8 +1609,8 @@
       "plataforma": "pc",
       "qualidade": "720p",
       "audio_ok": true,
-      "usos": 2,
-      "ultimo_uso": "2026-11-19"
+      "usos": 3,
+      "ultimo_uso": "2026-11-21"
     }
   ]
 }
