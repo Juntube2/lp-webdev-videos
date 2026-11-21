@@ -1,0 +1,24 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 configurações pra sua mira grudar no controle",
+ "titulo_tela": "3 AJUSTES PRA MIRAR MELHOR NO CONTROLE",
+ "roteiro": "Sua mira no controle passa direto do inimigo? Arruma essas três configurações. Um: assistência de mira no máximo. Deixa a força em cem por cento. É ela que ajuda a mira a grudar no alvo. Dois: zona morta baixa. Começa em cinco por cento, entra no modo criativo e fica parado. Se a mira andar sozinha, sobe de um em um até parar. Três: sensibilidade baixa e fixa. Começa entre quatro e seis e mantém por uns dias. Mudar toda hora não deixa você pegar a memória muscular. E desliga a vibração do controle. Qual sensibilidade você usa? Comenta aí.",
+ "legenda": "Sua mira passa do inimigo no controle? Três ajustes pra mirar melhor no Fortnite. Qual sensibilidade você usa?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "fortnitecontrole", "ps5", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 11.4, "zoom": 1.35},
+  {"inicio": "Arruma", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 3.5, "zoom": 1.35},
+  {"inicio": "Um", "clipe": "gameplay/fortnite/f1_01.mp4", "de": 0.3, "zoom": 1.35},
+  {"inicio": "Deixa", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 11.0, "zoom": 1.35},
+  {"inicio": "É", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 2.8, "zoom": 1.35},
+  {"inicio": "Dois", "clipe": "gameplay/fortnite/f1_05.mp4", "de": 13.0, "zoom": 1.35},
+  {"inicio": "entra", "clipe": "gameplay/fortnite/f1_01.mp4", "de": 11.5, "zoom": 1.35},
+  {"inicio": "Se", "clipe": "gameplay/fortnite/f1_06.mp4", "de": 1.8, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 15.9, "zoom": 1.35},
+  {"inicio": "Começa", "clipe": "gameplay/fortnite/f1_00.mp4", "de": 12.5, "zoom": 1.35},
+  {"inicio": "Mudar", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 1.8, "zoom": 1.35},
+  {"inicio": "E", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 12.0, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 5.4, "zoom": 1.35}
+ ]
+}
