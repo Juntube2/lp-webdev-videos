@@ -1,0 +1,502 @@
+[
+{
+"text": "Sua",
+"start": 0.095,
+"end": 0.396
+},
+{
+"text": "mira",
+"start": 0.407,
+"end": 0.686
+},
+{
+"text": "no",
+"start": 0.697,
+"end": 0.787
+},
+{
+"text": "controle",
+"start": 0.798,
+"end": 1.2
+},
+{
+"text": "passa",
+"start": 1.211,
+"end": 1.479
+},
+{
+"text": "direto",
+"start": 1.49,
+"end": 1.847
+},
+{
+"text": "do",
+"start": 1.858,
+"end": 1.936
+},
+{
+"text": "inimigo?",
+"start": 1.947,
+"end": 2.371
+},
+{
+"text": "Arruma",
+"start": 3.136,
+"end": 3.493
+},
+{
+"text": "essas",
+"start": 3.504,
+"end": 3.795
+},
+{
+"text": "três",
+"start": 3.806,
+"end": 4.04
+},
+{
+"text": "configurações.",
+"start": 4.051,
+"end": 4.966
+},
+{
+"text": "Um:",
+"start": 5.737,
+"end": 5.96
+},
+{
+"text": "assistência",
+"start": 6.228,
+"end": 6.83
+},
+{
+"text": "de",
+"start": 6.841,
+"end": 6.931
+},
+{
+"text": "mira",
+"start": 6.942,
+"end": 7.21
+},
+{
+"text": "no",
+"start": 7.221,
+"end": 7.31
+},
+{
+"text": "máximo.",
+"start": 7.321,
+"end": 7.801
+},
+{
+"text": "Deixa",
+"start": 8.571,
+"end": 8.929
+},
+{
+"text": "a",
+"start": 8.94,
+"end": 8.984
+},
+{
+"text": "força",
+"start": 8.996,
+"end": 9.297
+},
+{
+"text": "em",
+"start": 9.308,
+"end": 9.386
+},
+{
+"text": "cem",
+"start": 9.397,
+"end": 9.587
+},
+{
+"text": "por",
+"start": 9.598,
+"end": 9.743
+},
+{
+"text": "cento.",
+"start": 9.754,
+"end": 10.112
+},
+{
+"text": "É",
+"start": 10.882,
+"end": 11.004
+},
+{
+"text": "ela",
+"start": 11.016,
+"end": 11.284
+},
+{
+"text": "que",
+"start": 11.295,
+"end": 11.395
+},
+{
+"text": "ajuda",
+"start": 11.406,
+"end": 11.708
+},
+{
+"text": "a",
+"start": 11.719,
+"end": 11.741
+},
+{
+"text": "mira",
+"start": 11.752,
+"end": 11.942
+},
+{
+"text": "a",
+"start": 11.953,
+"end": 11.975
+},
+{
+"text": "grudar",
+"start": 11.987,
+"end": 12.366
+},
+{
+"text": "no",
+"start": 12.377,
+"end": 12.511
+},
+{
+"text": "alvo.",
+"start": 12.522,
+"end": 12.812
+},
+{
+"text": "Dois:",
+"start": 13.583,
+"end": 14.018
+},
+{
+"text": "zona",
+"start": 14.208,
+"end": 14.475
+},
+{
+"text": "morta",
+"start": 14.487,
+"end": 14.799
+},
+{
+"text": "baixa.",
+"start": 14.81,
+"end": 15.212
+},
+{
+"text": "Começa",
+"start": 15.982,
+"end": 16.395
+},
+{
+"text": "em",
+"start": 16.406,
+"end": 16.484
+},
+{
+"text": "cinco",
+"start": 16.496,
+"end": 16.808
+},
+{
+"text": "por",
+"start": 16.819,
+"end": 16.953
+},
+{
+"text": "cento,",
+"start": 16.964,
+"end": 17.333
+},
+{
+"text": "entra",
+"start": 17.556,
+"end": 17.801
+},
+{
+"text": "no",
+"start": 17.812,
+"end": 17.879
+},
+{
+"text": "modo",
+"start": 17.891,
+"end": 18.136
+},
+{
+"text": "criativo",
+"start": 18.147,
+"end": 18.661
+},
+{
+"text": "e",
+"start": 18.672,
+"end": 18.728
+},
+{
+"text": "fica",
+"start": 18.739,
+"end": 18.973
+},
+{
+"text": "parado.",
+"start": 18.984,
+"end": 19.386
+},
+{
+"text": "Se",
+"start": 20.156,
+"end": 20.357
+},
+{
+"text": "a",
+"start": 20.368,
+"end": 20.424
+},
+{
+"text": "mira",
+"start": 20.435,
+"end": 20.636
+},
+{
+"text": "andar",
+"start": 20.647,
+"end": 20.871
+},
+{
+"text": "sozinha,",
+"start": 20.882,
+"end": 21.373
+},
+{
+"text": "sobe",
+"start": 21.607,
+"end": 21.864
+},
+{
+"text": "de",
+"start": 21.875,
+"end": 21.964
+},
+{
+"text": "um",
+"start": 21.975,
+"end": 22.143
+},
+{
+"text": "em",
+"start": 22.154,
+"end": 22.21
+},
+{
+"text": "um",
+"start": 22.221,
+"end": 22.355
+},
+{
+"text": "até",
+"start": 22.366,
+"end": 22.545
+},
+{
+"text": "parar.",
+"start": 22.556,
+"end": 22.879
+},
+{
+"text": "Três:",
+"start": 23.65,
+"end": 24.051
+},
+{
+"text": "sensibilidade",
+"start": 24.33,
+"end": 25.1
+},
+{
+"text": "baixa",
+"start": 25.112,
+"end": 25.469
+},
+{
+"text": "e",
+"start": 25.48,
+"end": 25.513
+},
+{
+"text": "fixa.",
+"start": 25.525,
+"end": 25.971
+},
+{
+"text": "Começa",
+"start": 26.741,
+"end": 27.187
+},
+{
+"text": "entre",
+"start": 27.199,
+"end": 27.388
+},
+{
+"text": "quatro",
+"start": 27.4,
+"end": 27.779
+},
+{
+"text": "e",
+"start": 27.79,
+"end": 27.824
+},
+{
+"text": "seis",
+"start": 27.835,
+"end": 28.058
+},
+{
+"text": "e",
+"start": 28.069,
+"end": 28.158
+},
+{
+"text": "mantém",
+"start": 28.17,
+"end": 28.527
+},
+{
+"text": "por",
+"start": 28.538,
+"end": 28.672
+},
+{
+"text": "uns",
+"start": 28.683,
+"end": 28.839
+},
+{
+"text": "dias.",
+"start": 28.85,
+"end": 29.263
+},
+{
+"text": "Mudar",
+"start": 30.034,
+"end": 30.368
+},
+{
+"text": "toda",
+"start": 30.379,
+"end": 30.681
+},
+{
+"text": "hora",
+"start": 30.692,
+"end": 30.915
+},
+{
+"text": "não",
+"start": 30.926,
+"end": 31.071
+},
+{
+"text": "deixa",
+"start": 31.083,
+"end": 31.395
+},
+{
+"text": "você",
+"start": 31.406,
+"end": 31.641
+},
+{
+"text": "pegar",
+"start": 31.652,
+"end": 31.897
+},
+{
+"text": "a",
+"start": 31.909,
+"end": 31.942
+},
+{
+"text": "memória",
+"start": 31.953,
+"end": 32.288
+},
+{
+"text": "muscular.",
+"start": 32.299,
+"end": 32.801
+},
+{
+"text": "E",
+"start": 33.571,
+"end": 33.661
+},
+{
+"text": "desliga",
+"start": 33.672,
+"end": 34.107
+},
+{
+"text": "a",
+"start": 34.118,
+"end": 34.141
+},
+{
+"text": "vibração",
+"start": 34.152,
+"end": 34.654
+},
+{
+"text": "do",
+"start": 34.665,
+"end": 34.754
+},
+{
+"text": "controle.",
+"start": 34.766,
+"end": 35.268
+},
+{
+"text": "Qual",
+"start": 36.038,
+"end": 36.25
+},
+{
+"text": "sensibilidade",
+"start": 36.261,
+"end": 37.009
+},
+{
+"text": "você",
+"start": 37.02,
+"end": 37.344
+},
+{
+"text": "usa?",
+"start": 37.355,
+"end": 37.667
+},
+{
+"text": "Comenta",
+"start": 38.438,
+"end": 38.917
+},
+{
+"text": "aí.",
+"start": 38.929,
+"end": 39.185
+}
+]
