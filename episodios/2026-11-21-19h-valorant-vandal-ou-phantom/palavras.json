@@ -1,0 +1,472 @@
+[
+{
+"text": "Vandal",
+"start": 0.095,
+"end": 0.575
+},
+{
+"text": "ou",
+"start": 0.586,
+"end": 0.664
+},
+{
+"text": "Phantom?",
+"start": 0.675,
+"end": 1.177
+},
+{
+"text": "A",
+"start": 1.942,
+"end": 2.042
+},
+{
+"text": "resposta",
+"start": 2.054,
+"end": 2.556
+},
+{
+"text": "depende",
+"start": 2.567,
+"end": 2.991
+},
+{
+"text": "de",
+"start": 3.002,
+"end": 3.08
+},
+{
+"text": "onde",
+"start": 3.091,
+"end": 3.304
+},
+{
+"text": "você",
+"start": 3.315,
+"end": 3.538
+},
+{
+"text": "troca",
+"start": 3.549,
+"end": 3.839
+},
+{
+"text": "tiro.",
+"start": 3.85,
+"end": 4.163
+},
+{
+"text": "A",
+"start": 4.933,
+"end": 5.045
+},
+{
+"text": "Vandal",
+"start": 5.056,
+"end": 5.402
+},
+{
+"text": "mata",
+"start": 5.413,
+"end": 5.737
+},
+{
+"text": "com",
+"start": 5.748,
+"end": 5.87
+},
+{
+"text": "um",
+"start": 5.882,
+"end": 5.937
+},
+{
+"text": "tiro",
+"start": 5.949,
+"end": 6.183
+},
+{
+"text": "na",
+"start": 6.194,
+"end": 6.295
+},
+{
+"text": "cabeça",
+"start": 6.306,
+"end": 6.719
+},
+{
+"text": "em",
+"start": 6.73,
+"end": 6.786
+},
+{
+"text": "qualquer",
+"start": 6.797,
+"end": 7.143
+},
+{
+"text": "distância.",
+"start": 7.154,
+"end": 7.712
+},
+{
+"text": "Então,",
+"start": 8.482,
+"end": 8.895
+},
+{
+"text": "se",
+"start": 9.141,
+"end": 9.252
+},
+{
+"text": "você",
+"start": 9.263,
+"end": 9.509
+},
+{
+"text": "segura",
+"start": 9.52,
+"end": 9.922
+},
+{
+"text": "rua",
+"start": 9.933,
+"end": 10.145
+},
+{
+"text": "longa",
+"start": 10.156,
+"end": 10.536
+},
+{
+"text": "ou",
+"start": 10.547,
+"end": 10.681
+},
+{
+"text": "ângulo",
+"start": 10.692,
+"end": 10.949
+},
+{
+"text": "aberto,",
+"start": 10.96,
+"end": 11.395
+},
+{
+"text": "vai",
+"start": 11.585,
+"end": 11.786
+},
+{
+"text": "de",
+"start": 11.797,
+"end": 11.886
+},
+{
+"text": "Vandal.",
+"start": 11.897,
+"end": 12.299
+},
+{
+"text": "Já",
+"start": 13.069,
+"end": 13.292
+},
+{
+"text": "a",
+"start": 13.304,
+"end": 13.348
+},
+{
+"text": "Phantom",
+"start": 13.359,
+"end": 13.739
+},
+{
+"text": "perde",
+"start": 13.75,
+"end": 14.062
+},
+{
+"text": "dano",
+"start": 14.074,
+"end": 14.319
+},
+{
+"text": "de",
+"start": 14.33,
+"end": 14.42
+},
+{
+"text": "longe,",
+"start": 14.431,
+"end": 14.777
+},
+{
+"text": "mas",
+"start": 15.045,
+"end": 15.134
+},
+{
+"text": "atira",
+"start": 15.145,
+"end": 15.513
+},
+{
+"text": "mais",
+"start": 15.525,
+"end": 15.703
+},
+{
+"text": "rápido",
+"start": 15.714,
+"end": 16.071
+},
+{
+"text": "e",
+"start": 16.083,
+"end": 16.127
+},
+{
+"text": "tem",
+"start": 16.138,
+"end": 16.306
+},
+{
+"text": "pente",
+"start": 16.317,
+"end": 16.596
+},
+{
+"text": "maior.",
+"start": 16.607,
+"end": 16.964
+},
+{
+"text": "Ela",
+"start": 17.734,
+"end": 17.924
+},
+{
+"text": "ainda",
+"start": 17.935,
+"end": 18.214
+},
+{
+"text": "tem",
+"start": 18.225,
+"end": 18.359
+},
+{
+"text": "silenciador",
+"start": 18.371,
+"end": 19.04
+},
+{
+"text": "e",
+"start": 19.051,
+"end": 19.107
+},
+{
+"text": "não",
+"start": 19.118,
+"end": 19.263
+},
+{
+"text": "deixa",
+"start": 19.275,
+"end": 19.609
+},
+{
+"text": "rastro",
+"start": 19.621,
+"end": 19.978
+},
+{
+"text": "de",
+"start": 19.989,
+"end": 20.078
+},
+{
+"text": "bala,",
+"start": 20.089,
+"end": 20.368
+},
+{
+"text": "então",
+"start": 20.58,
+"end": 20.893
+},
+{
+"text": "fica",
+"start": 20.904,
+"end": 21.15
+},
+{
+"text": "mais",
+"start": 21.161,
+"end": 21.362
+},
+{
+"text": "difícil",
+"start": 21.373,
+"end": 21.797
+},
+{
+"text": "te",
+"start": 21.808,
+"end": 21.886
+},
+{
+"text": "achar",
+"start": 21.897,
+"end": 22.187
+},
+{
+"text": "no",
+"start": 22.199,
+"end": 22.266
+},
+{
+"text": "spray.",
+"start": 22.277,
+"end": 22.623
+},
+{
+"text": "De",
+"start": 23.393,
+"end": 23.56
+},
+{
+"text": "perto,",
+"start": 23.571,
+"end": 23.962
+},
+{
+"text": "ela",
+"start": 24.051,
+"end": 24.23
+},
+{
+"text": "perdoa",
+"start": 24.241,
+"end": 24.687
+},
+{
+"text": "mais",
+"start": 24.699,
+"end": 24.933
+},
+{
+"text": "o",
+"start": 24.944,
+"end": 25.112
+},
+{
+"text": "erro",
+"start": 25.123,
+"end": 25.312
+},
+{
+"text": "de",
+"start": 25.324,
+"end": 25.413
+},
+{
+"text": "mira.",
+"start": 25.424,
+"end": 25.725
+},
+{
+"text": "Regra",
+"start": 26.496,
+"end": 26.842
+},
+{
+"text": "simples:",
+"start": 26.853,
+"end": 27.377
+},
+{
+"text": "mapa",
+"start": 27.534,
+"end": 27.812
+},
+{
+"text": "aberto,",
+"start": 27.824,
+"end": 28.225
+},
+{
+"text": "Vandal.",
+"start": 28.482,
+"end": 28.917
+},
+{
+"text": "Mapa",
+"start": 29.688,
+"end": 30.011
+},
+{
+"text": "fechado,",
+"start": 30.022,
+"end": 30.536
+},
+{
+"text": "Phantom.",
+"start": 30.748,
+"end": 31.261
+},
+{
+"text": "E",
+"start": 32.031,
+"end": 32.121
+},
+{
+"text": "você,",
+"start": 32.132,
+"end": 32.578
+},
+{
+"text": "é",
+"start": 32.801,
+"end": 32.891
+},
+{
+"text": "time",
+"start": 32.902,
+"end": 33.17
+},
+{
+"text": "Vandal",
+"start": 33.181,
+"end": 33.56
+},
+{
+"text": "ou",
+"start": 33.571,
+"end": 33.683
+},
+{
+"text": "time",
+"start": 33.694,
+"end": 33.973
+},
+{
+"text": "Phantom?",
+"start": 33.984,
+"end": 34.453
+},
+{
+"text": "Comenta",
+"start": 35.223,
+"end": 35.703
+},
+{
+"text": "aí.",
+"start": 35.714,
+"end": 35.971
+}
+]
