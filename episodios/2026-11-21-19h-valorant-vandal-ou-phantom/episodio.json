@@ -1,0 +1,25 @@
+{
+  "jogo": "valorant",
+  "titulo": "Vandal ou Phantom? Depende de onde você joga",
+  "titulo_tela": "VANDAL OU PHANTOM?",
+  "roteiro": "Vandal ou Phantom? A resposta depende de onde você troca tiro. A Vandal mata com um tiro na cabeça em qualquer distância. Então, se você segura rua longa ou ângulo aberto, vai de Vandal. Já a Phantom perde dano de longe, mas atira mais rápido e tem pente maior. Ela ainda tem silenciador e não deixa rastro de bala, então fica mais difícil te achar no spray. De perto, ela perdoa mais o erro de mira. Regra simples: mapa aberto, Vandal. Mapa fechado, Phantom. E você, é time Vandal ou time Phantom? Comenta aí.",
+  "legenda": "Vandal pra distância, Phantom pro combate de perto. E você, é time Vandal ou time Phantom?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "vandal", "phantom", "ps5", "gaming", "fyp"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v1_05.mp4", "de": 9.7, "zoom": 1.7},
+    {"inicio": "resposta", "clipe": "gameplay/valorant/v1_08.mp4", "de": 9.4, "zoom": 1.7},
+    {"inicio": "Vandal", "clipe": "gameplay/valorant/v1_11.mp4", "de": 2.4, "zoom": 1.7},
+    {"inicio": "qualquer", "clipe": "gameplay/valorant/v2_05.mp4", "de": 0.4, "zoom": 1.7},
+    {"inicio": "Então", "clipe": "gameplay/valorant/v1_13.mp4", "de": 1.9, "zoom": 1.7},
+    {"inicio": "vai", "clipe": "gameplay/valorant/v2_00.mp4", "de": 8.5, "zoom": 1.7},
+    {"inicio": "Já", "clipe": "gameplay/valorant/v2_02.mp4", "de": 10.6, "zoom": 1.7},
+    {"inicio": "mas", "clipe": "gameplay/valorant/v2_04.mp4", "de": 4.0, "zoom": 1.7},
+    {"inicio": "Ela", "clipe": "gameplay/valorant/v2_06.mp4", "de": 11.8, "zoom": 1.7},
+    {"inicio": "então", "clipe": "gameplay/valorant/v2_07.mp4", "de": 4.8, "zoom": 1.7},
+    {"inicio": "De", "clipe": "gameplay/valorant/v2_09.mp4", "de": 9.6, "zoom": 1.7},
+    {"inicio": "Regra", "clipe": "gameplay/valorant/v2_13.mp4", "de": 9.0, "zoom": 1.7},
+    {"inicio": "fechado", "clipe": "gameplay/valorant/v1_03.mp4", "de": 7.9, "zoom": 1.7},
+    {"inicio": "time", "clipe": "gameplay/valorant/v2_10.mp4", "de": 3.5, "zoom": 1.7}
+  ]
+}
