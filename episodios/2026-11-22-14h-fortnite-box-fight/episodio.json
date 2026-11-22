@@ -1,0 +1,23 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 dicas pra parar de perder box fight no controle",
+ "titulo_tela": "3 DICAS PRA GANHAR BOX FIGHT",
+ "roteiro": "Você entra no box fight e sempre perde? Faz essas três coisas. Um: nunca deixa a parede aberta. Tomou tiro, coloca a parede de volta na hora. Box aberto é convite pro inimigo. Dois: briga pelo teto e pelas peças em volta. Quem pega a peça de cima controla a luta. Três: não edita com a arma guardada. Abre a edição, já atira e fecha de novo. Edição parada é tiro na cara. E treina isso no modo criativo antes da ranked. Você prefere box fight ou luta no aberto? Comenta aí.",
+ "legenda": "Sempre perde no box fight? Três dicas pra ganhar a luta de perto no Fortnite. Você prefere box fight ou luta no aberto?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "boxfight", "fortnitecontrole", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f1_09.mp4", "de": 15.0, "zoom": 1.35},
+  {"inicio": "Faz", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 6.5, "zoom": 1.35},
+  {"inicio": "Um", "clipe": "gameplay/fortnite/f1_10.mp4", "de": 4.0, "zoom": 1.35},
+  {"inicio": "Tomou", "clipe": "gameplay/fortnite/f1_06.mp4", "de": 15.9, "zoom": 1.35},
+  {"inicio": "Box", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 1.0, "zoom": 1.35},
+  {"inicio": "Dois", "clipe": "gameplay/fortnite/f1_11.mp4", "de": 7.0, "zoom": 1.35},
+  {"inicio": "Quem", "clipe": "gameplay/fortnite/f1_08.mp4", "de": 10.5, "zoom": 1.35},
+  {"inicio": "Três", "clipe": "gameplay/fortnite/f1_09.mp4", "de": 4.8, "zoom": 1.35},
+  {"inicio": "Abre", "clipe": "gameplay/fortnite/f1_13.mp4", "de": 11.0, "zoom": 1.35},
+  {"inicio": "parada", "clipe": "gameplay/fortnite/f1_03.mp4", "de": 3.0, "zoom": 1.35},
+  {"inicio": "E", "clipe": "gameplay/fortnite/f1_02.mp4", "de": 14.0, "zoom": 1.35},
+  {"inicio": "Você", "clipe": "gameplay/fortnite/f1_03.mp4", "de": 10.4, "zoom": 1.35}
+ ]
+}
