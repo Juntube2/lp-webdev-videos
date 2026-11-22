@@ -1,0 +1,24 @@
+{
+  "jogo": "valorant",
+  "titulo": "3 erros que te fazem perder o round depois de plantar",
+  "titulo_tela": "3 ERROS NO PÓS-PLANT",
+  "roteiro": "Plantou a spike e perdeu o round? Você tá cometendo um desses três erros. Primeiro: ficar colado na spike. Planta e sai dali, procura um ângulo de longe que ainda vê a bomba. Segundo: correr atrás do inimigo. Você não precisa de abate, o relógio joga do seu lado. Segura e espera ele vir defusar. Terceiro: dar o peek cedo demais. O defuse leva sete segundos e a metade fica salva. Escuta o som do defuse e só então aparece. Planta, se afasta e deixa ele vir. Qual desses erros você comete? Comenta aí.",
+  "legenda": "Depois de plantar, quem tem pressa é o inimigo. Qual desses erros você mais comete no pós-plant?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "posplant", "ps5", "gaming", "fyp", "foryou"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v1_12.mp4", "de": 14.8, "zoom": 1.7},
+    {"inicio": "Você", "clipe": "gameplay/valorant/v1_05.mp4", "de": 12.8, "zoom": 1.7},
+    {"inicio": "Primeiro", "clipe": "gameplay/valorant/v1_07.mp4", "de": 1.8, "zoom": 1.7},
+    {"inicio": "Planta", "clipe": "gameplay/valorant/v1_01.mp4", "de": 12.4, "zoom": 1.7},
+    {"inicio": "procura", "clipe": "gameplay/valorant/v2_11.mp4", "de": 8.6, "zoom": 1.7},
+    {"inicio": "Segundo", "clipe": "gameplay/valorant/v1_08.mp4", "de": 15.0, "zoom": 1.7},
+    {"inicio": "relógio", "clipe": "gameplay/valorant/v2_03.mp4", "de": 4.0, "zoom": 1.7},
+    {"inicio": "Segura", "clipe": "gameplay/valorant/v1_02.mp4", "de": 15.0, "zoom": 1.7},
+    {"inicio": "Terceiro", "clipe": "gameplay/valorant/v1_11.mp4", "de": 7.6, "zoom": 1.7},
+    {"inicio": "defuse", "clipe": "gameplay/valorant/v1_13.mp4", "de": 11.0, "zoom": 1.7},
+    {"inicio": "Escuta", "clipe": "gameplay/valorant/v2_05.mp4", "de": 4.0, "zoom": 1.7},
+    {"inicio": "afasta", "clipe": "gameplay/valorant/v1_09.mp4", "de": 11.8, "zoom": 1.7},
+    {"inicio": "Qual", "clipe": "gameplay/valorant/v2_01.mp4", "de": 13.6, "zoom": 1.7}
+  ]
+}
