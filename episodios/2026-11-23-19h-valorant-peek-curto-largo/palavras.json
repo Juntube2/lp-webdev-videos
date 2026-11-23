@@ -1,0 +1,522 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.374
+},
+{
+"text": "dá",
+"start": 0.385,
+"end": 0.485
+},
+{
+"text": "peek",
+"start": 0.496,
+"end": 0.72
+},
+{
+"text": "do",
+"start": 0.731,
+"end": 0.82
+},
+{
+"text": "jeito",
+"start": 0.831,
+"end": 1.11
+},
+{
+"text": "errado",
+"start": 1.121,
+"end": 1.523
+},
+{
+"text": "e",
+"start": 1.534,
+"end": 1.601
+},
+{
+"text": "morre",
+"start": 1.613,
+"end": 1.936
+},
+{
+"text": "sem",
+"start": 1.947,
+"end": 2.159
+},
+{
+"text": "entender.",
+"start": 2.171,
+"end": 2.583
+},
+{
+"text": "Existem",
+"start": 3.348,
+"end": 3.817
+},
+{
+"text": "dois",
+"start": 3.828,
+"end": 4.062
+},
+{
+"text": "peeks,",
+"start": 4.074,
+"end": 4.431
+},
+{
+"text": "e",
+"start": 4.665,
+"end": 4.732
+},
+{
+"text": "cada",
+"start": 4.743,
+"end": 4.989
+},
+{
+"text": "um",
+"start": 5.0,
+"end": 5.212
+},
+{
+"text": "tem",
+"start": 5.223,
+"end": 5.368
+},
+{
+"text": "a",
+"start": 5.379,
+"end": 5.469
+},
+{
+"text": "hora",
+"start": 5.48,
+"end": 5.681
+},
+{
+"text": "certa.",
+"start": 5.692,
+"end": 6.105
+},
+{
+"text": "Peek",
+"start": 6.875,
+"end": 7.143
+},
+{
+"text": "curto:",
+"start": 7.154,
+"end": 7.511
+},
+{
+"text": "aparece",
+"start": 7.679,
+"end": 8.114
+},
+{
+"text": "um",
+"start": 8.125,
+"end": 8.181
+},
+{
+"text": "pedaço",
+"start": 8.192,
+"end": 8.627
+},
+{
+"text": "e",
+"start": 8.638,
+"end": 8.683
+},
+{
+"text": "volta",
+"start": 8.694,
+"end": 8.996
+},
+{
+"text": "na",
+"start": 9.007,
+"end": 9.129
+},
+{
+"text": "hora.",
+"start": 9.141,
+"end": 9.409
+},
+{
+"text": "Serve",
+"start": 10.179,
+"end": 10.647
+},
+{
+"text": "pra",
+"start": 10.659,
+"end": 10.792
+},
+{
+"text": "pegar",
+"start": 10.804,
+"end": 11.038
+},
+{
+"text": "informação",
+"start": 11.049,
+"end": 11.685
+},
+{
+"text": "e",
+"start": 11.696,
+"end": 11.73
+},
+{
+"text": "fazer",
+"start": 11.741,
+"end": 12.042
+},
+{
+"text": "o",
+"start": 12.054,
+"end": 12.087
+},
+{
+"text": "inimigo",
+"start": 12.098,
+"end": 12.478
+},
+{
+"text": "errar",
+"start": 12.489,
+"end": 12.723
+},
+{
+"text": "o",
+"start": 12.734,
+"end": 12.79
+},
+{
+"text": "tiro.",
+"start": 12.801,
+"end": 13.114
+},
+{
+"text": "Contra",
+"start": 13.884,
+"end": 14.163
+},
+{
+"text": "Operator,",
+"start": 14.174,
+"end": 14.654
+},
+{
+"text": "é",
+"start": 14.877,
+"end": 14.967
+},
+{
+"text": "esse",
+"start": 14.978,
+"end": 15.268
+},
+{
+"text": "que",
+"start": 15.279,
+"end": 15.357
+},
+{
+"text": "você",
+"start": 15.368,
+"end": 15.658
+},
+{
+"text": "usa.",
+"start": 15.67,
+"end": 15.993
+},
+{
+"text": "Peek",
+"start": 16.763,
+"end": 17.009
+},
+{
+"text": "largo:",
+"start": 17.02,
+"end": 17.355
+},
+{
+"text": "sai",
+"start": 17.656,
+"end": 17.846
+},
+{
+"text": "abrindo",
+"start": 17.857,
+"end": 18.158
+},
+{
+"text": "bastante,",
+"start": 18.17,
+"end": 18.672
+},
+{
+"text": "rápido,",
+"start": 18.873,
+"end": 19.275
+},
+{
+"text": "já",
+"start": 19.542,
+"end": 19.732
+},
+{
+"text": "com",
+"start": 19.743,
+"end": 19.866
+},
+{
+"text": "a",
+"start": 19.877,
+"end": 19.911
+},
+{
+"text": "mira",
+"start": 19.922,
+"end": 20.167
+},
+{
+"text": "na",
+"start": 20.179,
+"end": 20.234
+},
+{
+"text": "altura",
+"start": 20.246,
+"end": 20.569
+},
+{
+"text": "da",
+"start": 20.58,
+"end": 20.67
+},
+{
+"text": "cabeça.",
+"start": 20.681,
+"end": 21.161
+},
+{
+"text": "Ele",
+"start": 21.931,
+"end": 22.154
+},
+{
+"text": "pega",
+"start": 22.165,
+"end": 22.422
+},
+{
+"text": "quem",
+"start": 22.433,
+"end": 22.645
+},
+{
+"text": "tá",
+"start": 22.656,
+"end": 22.746
+},
+{
+"text": "segurando",
+"start": 22.757,
+"end": 23.203
+},
+{
+"text": "o",
+"start": 23.214,
+"end": 23.27
+},
+{
+"text": "ângulo",
+"start": 23.281,
+"end": 23.56
+},
+{
+"text": "colado,",
+"start": 23.571,
+"end": 23.996
+},
+{
+"text": "mirando",
+"start": 24.23,
+"end": 24.609
+},
+{
+"text": "num",
+"start": 24.621,
+"end": 24.766
+},
+{
+"text": "ponto",
+"start": 24.777,
+"end": 25.1
+},
+{
+"text": "só.",
+"start": 25.112,
+"end": 25.357
+},
+{
+"text": "A",
+"start": 26.127,
+"end": 26.239
+},
+{
+"text": "regra",
+"start": 26.25,
+"end": 26.596
+},
+{
+"text": "é",
+"start": 26.607,
+"end": 26.652
+},
+{
+"text": "simples.",
+"start": 26.663,
+"end": 27.254
+},
+{
+"text": "Quer",
+"start": 28.025,
+"end": 28.192
+},
+{
+"text": "informação?",
+"start": 28.203,
+"end": 28.895
+},
+{
+"text": "Peek",
+"start": 29.665,
+"end": 29.955
+},
+{
+"text": "curto.",
+"start": 29.966,
+"end": 30.346
+},
+{
+"text": "Quer",
+"start": 31.116,
+"end": 31.317
+},
+{
+"text": "o",
+"start": 31.328,
+"end": 31.406
+},
+{
+"text": "abate?",
+"start": 31.417,
+"end": 31.864
+},
+{
+"text": "Peek",
+"start": 32.634,
+"end": 32.891
+},
+{
+"text": "largo,",
+"start": 32.902,
+"end": 33.259
+},
+{
+"text": "de",
+"start": 33.482,
+"end": 33.594
+},
+{
+"text": "preferência",
+"start": 33.605,
+"end": 34.174
+},
+{
+"text": "com",
+"start": 34.185,
+"end": 34.33
+},
+{
+"text": "alguém",
+"start": 34.342,
+"end": 34.598
+},
+{
+"text": "pra",
+"start": 34.609,
+"end": 34.743
+},
+{
+"text": "trocar.",
+"start": 34.754,
+"end": 35.134
+},
+{
+"text": "E",
+"start": 35.904,
+"end": 35.993
+},
+{
+"text": "você,",
+"start": 36.004,
+"end": 36.451
+},
+{
+"text": "é",
+"start": 36.607,
+"end": 36.696
+},
+{
+"text": "do",
+"start": 36.708,
+"end": 36.819
+},
+{
+"text": "peek",
+"start": 36.83,
+"end": 37.076
+},
+{
+"text": "curto",
+"start": 37.087,
+"end": 37.466
+},
+{
+"text": "ou",
+"start": 37.478,
+"end": 37.578
+},
+{
+"text": "do",
+"start": 37.589,
+"end": 37.69
+},
+{
+"text": "peek",
+"start": 37.701,
+"end": 37.924
+},
+{
+"text": "largo?",
+"start": 37.935,
+"end": 38.315
+},
+{
+"text": "Comenta",
+"start": 39.085,
+"end": 39.565
+},
+{
+"text": "aí.",
+"start": 39.576,
+"end": 39.833
+}
+]
