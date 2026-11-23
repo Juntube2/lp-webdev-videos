@@ -1,0 +1,106 @@
+{
+  "jogo": "valorant",
+  "titulo": "Peek curto ou peek largo? Você tá usando errado",
+  "titulo_tela": "PEEK CURTO OU PEEK LARGO?",
+  "roteiro": "Você dá peek do jeito errado e morre sem entender. Existem dois peeks, e cada um tem a hora certa. Peek curto: aparece um pedaço e volta na hora. Serve pra pegar informação e fazer o inimigo errar o tiro. Contra Operator, é esse que você usa. Peek largo: sai abrindo bastante, rápido, já com a mira na altura da cabeça. Ele pega quem tá segurando o ângulo colado, mirando num ponto só. A regra é simples. Quer informação? Peek curto. Quer o abate? Peek largo, de preferência com alguém pra trocar. E você, é do peek curto ou do peek largo? Comenta aí.",
+  "legenda": "Cada peek tem a sua hora: um é pra informação, o outro é pro abate. Você é do peek curto ou do peek largo?",
+  "hashtags": [
+    "valorant",
+    "valorantconsole",
+    "valorantbrasil",
+    "dicasvalorant",
+    "valorantclips",
+    "peek",
+    "ps5",
+    "gaming",
+    "fyp",
+    "foryou"
+  ],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {
+      "inicio": "",
+      "clipe": "gameplay/valorant/v1_10.mp4",
+      "de": 4.2,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Existem",
+      "clipe": "gameplay/valorant/v2_12.mp4",
+      "de": 4.2,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Peek",
+      "clipe": "gameplay/valorant/v1_04.mp4",
+      "de": 9.3,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Serve",
+      "clipe": "gameplay/valorant/v2_08.mp4",
+      "de": 12.1,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Contra",
+      "clipe": "gameplay/valorant/v1_00.mp4",
+      "de": 6.7,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "largo",
+      "clipe": "gameplay/valorant/v2_02.mp4",
+      "de": 10.5,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Ele",
+      "clipe": "gameplay/valorant/v2_06.mp4",
+      "de": 11.7,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "mirando",
+      "clipe": "gameplay/valorant/v1_02.mp4",
+      "de": 5.3,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "regra",
+      "clipe": "gameplay/valorant/v2_09.mp4",
+      "de": 9.5,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Quer",
+      "clipe": "gameplay/valorant/v2_10.mp4",
+      "de": 3.4,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "abate",
+      "clipe": "gameplay/valorant/v2_13.mp4",
+      "de": 8.9,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "alguém",
+      "clipe": "gameplay/valorant/v1_06.mp4",
+      "de": 12.9,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "você",
+      "clipe": "gameplay/valorant/v2_04.mp4",
+      "de": 3.9,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Comenta",
+      "clipe": "gameplay/valorant/v1_03.mp4",
+      "de": 7.9,
+      "zoom": 1.7
+    }
+  ]
+}
