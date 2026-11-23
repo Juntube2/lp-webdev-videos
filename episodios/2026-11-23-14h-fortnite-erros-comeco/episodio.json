@@ -1,0 +1,23 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 erros que te matam no começo da partida no Fortnite",
+ "titulo_tela": "3 ERROS QUE TE MATAM NO COMEÇO",
+ "roteiro": "Você morre nos primeiros dois minutos de partida? Para de cometer esses três erros. Primeiro: cair onde o ônibus inteiro cai. Lugar lotado é sorteio. Pousa numa área menor, um pouco fora da rota, e entra na briga já armado. Segundo: ficar caçando a arma perfeita. Pegou a primeira arma, segura ela e sai do aberto. A melhor você troca depois, com calma. Terceiro: lootar parado sem ouvir nada. Bota o fone, presta atenção nos passos e loota perto de cobertura. Qual desses erros você mais comete? Comenta aí.",
+ "legenda": "Morre logo no começo da partida? Três erros que você precisa parar de cometer no Fortnite. Qual deles você mais comete?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "zerobuild", "fortnitecontrole", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f2_11.mp4", "de": 2.0, "zoom": 1.35},
+  {"inicio": "Para", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 3.5, "zoom": 1.35},
+  {"inicio": "Primeiro", "clipe": "gameplay/fortnite/f2_05.mp4", "de": 3.6, "zoom": 1.35},
+  {"inicio": "Lugar", "clipe": "gameplay/fortnite/f1_01.mp4", "de": 8.0, "zoom": 1.35},
+  {"inicio": "Pousa", "clipe": "gameplay/fortnite/f2_07.mp4", "de": 13.3, "zoom": 1.35},
+  {"inicio": "Segundo", "clipe": "gameplay/fortnite/f2_12.mp4", "de": 13.6, "zoom": 1.35},
+  {"inicio": "Pegou", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 11.5, "zoom": 1.35},
+  {"inicio": "melhor", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 2.8, "zoom": 1.35},
+  {"inicio": "Terceiro", "clipe": "gameplay/fortnite/f2_02.mp4", "de": 4.3, "zoom": 1.35},
+  {"inicio": "Bota", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 12.0, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f2_01.mp4", "de": 3.4, "zoom": 1.35},
+  {"inicio": "Comenta", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 16.2, "zoom": 1.35}
+ ]
+}
