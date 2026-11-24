@@ -1,0 +1,492 @@
+[
+{
+"text": "Começou",
+"start": 0.095,
+"end": 0.541
+},
+{
+"text": "no",
+"start": 0.552,
+"end": 0.63
+},
+{
+"text": "Valorant",
+"start": 0.641,
+"end": 0.999
+},
+{
+"text": "pelo",
+"start": 1.01,
+"end": 1.166
+},
+{
+"text": "console",
+"start": 1.177,
+"end": 1.657
+},
+{
+"text": "e",
+"start": 1.668,
+"end": 1.691
+},
+{
+"text": "não",
+"start": 1.702,
+"end": 1.869
+},
+{
+"text": "sabe",
+"start": 1.88,
+"end": 2.171
+},
+{
+"text": "quem",
+"start": 2.182,
+"end": 2.338
+},
+{
+"text": "pegar?",
+"start": 2.349,
+"end": 2.673
+},
+{
+"text": "Esses",
+"start": 3.438,
+"end": 3.761
+},
+{
+"text": "três",
+"start": 3.772,
+"end": 3.984
+},
+{
+"text": "agentes",
+"start": 3.996,
+"end": 4.509
+},
+{
+"text": "são",
+"start": 4.52,
+"end": 4.654
+},
+{
+"text": "os",
+"start": 4.665,
+"end": 4.777
+},
+{
+"text": "mais",
+"start": 4.788,
+"end": 5.045
+},
+{
+"text": "fáceis.",
+"start": 5.056,
+"end": 5.614
+},
+{
+"text": "Primeiro,",
+"start": 6.384,
+"end": 6.819
+},
+{
+"text": "Sage.",
+"start": 7.054,
+"end": 7.545
+},
+{
+"text": "Ela",
+"start": 8.315,
+"end": 8.583
+},
+{
+"text": "cura",
+"start": 8.594,
+"end": 8.795
+},
+{
+"text": "o",
+"start": 8.806,
+"end": 8.839
+},
+{
+"text": "time,",
+"start": 8.85,
+"end": 9.163
+},
+{
+"text": "levanta",
+"start": 9.386,
+"end": 9.788
+},
+{
+"text": "parede",
+"start": 9.799,
+"end": 10.167
+},
+{
+"text": "e",
+"start": 10.179,
+"end": 10.212
+},
+{
+"text": "ainda",
+"start": 10.223,
+"end": 10.48
+},
+{
+"text": "revive",
+"start": 10.491,
+"end": 10.815
+},
+{
+"text": "alguém",
+"start": 10.826,
+"end": 11.083
+},
+{
+"text": "no",
+"start": 11.094,
+"end": 11.161
+},
+{
+"text": "ultimate.",
+"start": 11.172,
+"end": 11.719
+},
+{
+"text": "E",
+"start": 12.489,
+"end": 12.578
+},
+{
+"text": "no",
+"start": 12.589,
+"end": 12.701
+},
+{
+"text": "patch",
+"start": 12.712,
+"end": 12.991
+},
+{
+"text": "novo,",
+"start": 13.002,
+"end": 13.337
+},
+{
+"text": "a",
+"start": 13.516,
+"end": 13.594
+},
+{
+"text": "cura",
+"start": 13.605,
+"end": 13.839
+},
+{
+"text": "ficou",
+"start": 13.85,
+"end": 14.096
+},
+{
+"text": "mais",
+"start": 14.107,
+"end": 14.308
+},
+{
+"text": "fácil",
+"start": 14.319,
+"end": 14.643
+},
+{
+"text": "de",
+"start": 14.654,
+"end": 14.743
+},
+{
+"text": "mirar,",
+"start": 14.754,
+"end": 15.078
+},
+{
+"text": "porque",
+"start": 15.312,
+"end": 15.558
+},
+{
+"text": "agora",
+"start": 15.569,
+"end": 15.893
+},
+{
+"text": "a",
+"start": 15.904,
+"end": 15.926
+},
+{
+"text": "mira",
+"start": 15.938,
+"end": 16.127
+},
+{
+"text": "aparece",
+"start": 16.138,
+"end": 16.562
+},
+{
+"text": "na",
+"start": 16.574,
+"end": 16.685
+},
+{
+"text": "tela.",
+"start": 16.696,
+"end": 17.009
+},
+{
+"text": "Segundo,",
+"start": 17.779,
+"end": 18.382
+},
+{
+"text": "Killjoy.",
+"start": 18.594,
+"end": 19.107
+},
+{
+"text": "A",
+"start": 19.877,
+"end": 19.989
+},
+{
+"text": "torreta",
+"start": 20.0,
+"end": 20.368
+},
+{
+"text": "e",
+"start": 20.379,
+"end": 20.402
+},
+{
+"text": "o",
+"start": 20.413,
+"end": 20.469
+},
+{
+"text": "alarme",
+"start": 20.48,
+"end": 20.792
+},
+{
+"text": "vigiam",
+"start": 20.804,
+"end": 21.116
+},
+{
+"text": "o",
+"start": 21.127,
+"end": 21.15
+},
+{
+"text": "flanco",
+"start": 21.161,
+"end": 21.507
+},
+{
+"text": "pra",
+"start": 21.518,
+"end": 21.641
+},
+{
+"text": "você,",
+"start": 21.652,
+"end": 22.054
+},
+{
+"text": "e",
+"start": 22.388,
+"end": 22.466
+},
+{
+"text": "a",
+"start": 22.478,
+"end": 22.556
+},
+{
+"text": "torreta",
+"start": 22.567,
+"end": 22.946
+},
+{
+"text": "destruída",
+"start": 22.958,
+"end": 23.471
+},
+{
+"text": "volta",
+"start": 23.482,
+"end": 23.761
+},
+{
+"text": "em",
+"start": 23.772,
+"end": 23.817
+},
+{
+"text": "quarenta",
+"start": 23.828,
+"end": 24.185
+},
+{
+"text": "e",
+"start": 24.196,
+"end": 24.23
+},
+{
+"text": "cinco",
+"start": 24.241,
+"end": 24.475
+},
+{
+"text": "segundos.",
+"start": 24.487,
+"end": 25.056
+},
+{
+"text": "Terceiro,",
+"start": 25.826,
+"end": 26.328
+},
+{
+"text": "Brimstone.",
+"start": 26.551,
+"end": 27.154
+},
+{
+"text": "Você",
+"start": 27.924,
+"end": 28.192
+},
+{
+"text": "joga",
+"start": 28.203,
+"end": 28.471
+},
+{
+"text": "as",
+"start": 28.482,
+"end": 28.56
+},
+{
+"text": "fumaças",
+"start": 28.571,
+"end": 29.029
+},
+{
+"text": "direto",
+"start": 29.04,
+"end": 29.364
+},
+{
+"text": "pelo",
+"start": 29.375,
+"end": 29.565
+},
+{
+"text": "mapa,",
+"start": 29.576,
+"end": 29.877
+},
+{
+"text": "sem",
+"start": 30.145,
+"end": 30.301
+},
+{
+"text": "precisar",
+"start": 30.312,
+"end": 30.748
+},
+{
+"text": "mirar",
+"start": 30.759,
+"end": 31.027
+},
+{
+"text": "em",
+"start": 31.038,
+"end": 31.138
+},
+{
+"text": "nada.",
+"start": 31.15,
+"end": 31.473
+},
+{
+"text": "Simples",
+"start": 32.243,
+"end": 32.69
+},
+{
+"text": "e",
+"start": 32.701,
+"end": 32.801
+},
+{
+"text": "muito",
+"start": 32.812,
+"end": 33.27
+},
+{
+"text": "útil",
+"start": 33.281,
+"end": 33.516
+},
+{
+"text": "pro",
+"start": 33.527,
+"end": 33.672
+},
+{
+"text": "time.",
+"start": 33.683,
+"end": 34.085
+},
+{
+"text": "Qual",
+"start": 34.855,
+"end": 35.067
+},
+{
+"text": "desses",
+"start": 35.078,
+"end": 35.391
+},
+{
+"text": "você",
+"start": 35.402,
+"end": 35.658
+},
+{
+"text": "vai",
+"start": 35.67,
+"end": 35.815
+},
+{
+"text": "testar?",
+"start": 35.826,
+"end": 36.217
+},
+{
+"text": "Comenta",
+"start": 36.987,
+"end": 37.467
+},
+{
+"text": "aí.",
+"start": 37.478,
+"end": 37.734
+}
+]
