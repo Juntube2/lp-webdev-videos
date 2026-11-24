@@ -1,0 +1,477 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.407
+},
+{
+"text": "ainda",
+"start": 0.418,
+"end": 0.708
+},
+{
+"text": "edita",
+"start": 0.72,
+"end": 0.987
+},
+{
+"text": "devagar",
+"start": 0.999,
+"end": 1.389
+},
+{
+"text": "no",
+"start": 1.4,
+"end": 1.49
+},
+{
+"text": "controle?",
+"start": 1.501,
+"end": 2.003
+},
+{
+"text": "Treina",
+"start": 2.768,
+"end": 3.069
+},
+{
+"text": "essas",
+"start": 3.08,
+"end": 3.404
+},
+{
+"text": "três",
+"start": 3.415,
+"end": 3.616
+},
+{
+"text": "edições.",
+"start": 3.627,
+"end": 4.342
+},
+{
+"text": "Primeira:",
+"start": 5.112,
+"end": 5.58
+},
+{
+"text": "a",
+"start": 5.781,
+"end": 5.848
+},
+{
+"text": "janela.",
+"start": 5.859,
+"end": 6.35
+},
+{
+"text": "Abre",
+"start": 7.121,
+"end": 7.4
+},
+{
+"text": "só",
+"start": 7.411,
+"end": 7.556
+},
+{
+"text": "o",
+"start": 7.567,
+"end": 7.6
+},
+{
+"text": "quadrado",
+"start": 7.612,
+"end": 8.114
+},
+{
+"text": "do",
+"start": 8.125,
+"end": 8.214
+},
+{
+"text": "meio",
+"start": 8.225,
+"end": 8.449
+},
+{
+"text": "da",
+"start": 8.46,
+"end": 8.549
+},
+{
+"text": "parede,",
+"start": 8.56,
+"end": 8.973
+},
+{
+"text": "atira",
+"start": 9.208,
+"end": 9.554
+},
+{
+"text": "e",
+"start": 9.565,
+"end": 9.609
+},
+{
+"text": "fecha",
+"start": 9.621,
+"end": 9.978
+},
+{
+"text": "na",
+"start": 9.989,
+"end": 10.112
+},
+{
+"text": "hora.",
+"start": 10.123,
+"end": 10.402
+},
+{
+"text": "Você",
+"start": 11.172,
+"end": 11.484
+},
+{
+"text": "vê",
+"start": 11.496,
+"end": 11.652
+},
+{
+"text": "o",
+"start": 11.663,
+"end": 11.719
+},
+{
+"text": "inimigo",
+"start": 11.73,
+"end": 12.154
+},
+{
+"text": "quase",
+"start": 12.165,
+"end": 12.522
+},
+{
+"text": "sem",
+"start": 12.534,
+"end": 12.734
+},
+{
+"text": "ficar",
+"start": 12.746,
+"end": 13.002
+},
+{
+"text": "exposto.",
+"start": 13.013,
+"end": 13.538
+},
+{
+"text": "Segunda:",
+"start": 14.308,
+"end": 14.9
+},
+{
+"text": "a",
+"start": 15.089,
+"end": 15.179
+},
+{
+"text": "porta.",
+"start": 15.19,
+"end": 15.592
+},
+{
+"text": "Marca",
+"start": 16.362,
+"end": 16.719
+},
+{
+"text": "os",
+"start": 16.73,
+"end": 16.797
+},
+{
+"text": "dois",
+"start": 16.808,
+"end": 17.042
+},
+{
+"text": "quadrados",
+"start": 17.054,
+"end": 17.533
+},
+{
+"text": "de",
+"start": 17.545,
+"end": 17.623
+},
+{
+"text": "baixo,",
+"start": 17.634,
+"end": 18.013
+},
+{
+"text": "no",
+"start": 18.259,
+"end": 18.348
+},
+{
+"text": "meio",
+"start": 18.359,
+"end": 18.605
+},
+{
+"text": "da",
+"start": 18.616,
+"end": 18.717
+},
+{
+"text": "parede,",
+"start": 18.728,
+"end": 19.152
+},
+{
+"text": "e",
+"start": 19.409,
+"end": 19.487
+},
+{
+"text": "passa",
+"start": 19.498,
+"end": 19.799
+},
+{
+"text": "direto",
+"start": 19.81,
+"end": 20.19
+},
+{
+"text": "sem",
+"start": 20.201,
+"end": 20.368
+},
+{
+"text": "quebrar",
+"start": 20.379,
+"end": 20.748
+},
+{
+"text": "nada.",
+"start": 20.759,
+"end": 21.105
+},
+{
+"text": "Perfeita",
+"start": 21.875,
+"end": 22.388
+},
+{
+"text": "pra",
+"start": 22.4,
+"end": 22.533
+},
+{
+"text": "sair",
+"start": 22.545,
+"end": 22.857
+},
+{
+"text": "do",
+"start": 22.868,
+"end": 22.969
+},
+{
+"text": "box",
+"start": 22.98,
+"end": 23.292
+},
+{
+"text": "rápido.",
+"start": 23.304,
+"end": 23.705
+},
+{
+"text": "Terceira:",
+"start": 24.475,
+"end": 24.989
+},
+{
+"text": "o",
+"start": 25.201,
+"end": 25.279
+},
+{
+"text": "buraco",
+"start": 25.29,
+"end": 25.692
+},
+{
+"text": "no",
+"start": 25.703,
+"end": 25.815
+},
+{
+"text": "piso.",
+"start": 25.826,
+"end": 26.172
+},
+{
+"text": "Edita",
+"start": 26.942,
+"end": 27.288
+},
+{
+"text": "um",
+"start": 27.299,
+"end": 27.344
+},
+{
+"text": "quadrado",
+"start": 27.355,
+"end": 27.824
+},
+{
+"text": "do",
+"start": 27.835,
+"end": 27.946
+},
+{
+"text": "chão",
+"start": 27.958,
+"end": 28.259
+},
+{
+"text": "e",
+"start": 28.27,
+"end": 28.337
+},
+{
+"text": "cai",
+"start": 28.348,
+"end": 28.538
+},
+{
+"text": "no",
+"start": 28.549,
+"end": 28.627
+},
+{
+"text": "andar",
+"start": 28.638,
+"end": 28.884
+},
+{
+"text": "de",
+"start": 28.895,
+"end": 28.984
+},
+{
+"text": "baixo",
+"start": 28.996,
+"end": 29.353
+},
+{
+"text": "pegando",
+"start": 29.364,
+"end": 29.699
+},
+{
+"text": "o",
+"start": 29.71,
+"end": 29.743
+},
+{
+"text": "inimigo",
+"start": 29.754,
+"end": 30.123
+},
+{
+"text": "de",
+"start": 30.134,
+"end": 30.201
+},
+{
+"text": "surpresa.",
+"start": 30.212,
+"end": 30.737
+},
+{
+"text": "Treina",
+"start": 31.507,
+"end": 31.819
+},
+{
+"text": "as",
+"start": 31.83,
+"end": 31.942
+},
+{
+"text": "três",
+"start": 31.953,
+"end": 32.188
+},
+{
+"text": "no",
+"start": 32.199,
+"end": 32.266
+},
+{
+"text": "modo",
+"start": 32.277,
+"end": 32.533
+},
+{
+"text": "criativo",
+"start": 32.545,
+"end": 33.025
+},
+{
+"text": "até",
+"start": 33.036,
+"end": 33.214
+},
+{
+"text": "sair",
+"start": 33.225,
+"end": 33.56
+},
+{
+"text": "sem",
+"start": 33.571,
+"end": 33.783
+},
+{
+"text": "pensar.",
+"start": 33.795,
+"end": 34.196
+},
+{
+"text": "Qual",
+"start": 34.967,
+"end": 35.201
+},
+{
+"text": "edição",
+"start": 35.212,
+"end": 35.569
+},
+{
+"text": "você",
+"start": 35.58,
+"end": 35.848
+},
+{
+"text": "mais",
+"start": 35.859,
+"end": 36.038
+},
+{
+"text": "usa?",
+"start": 36.049,
+"end": 36.406
+}
+]
