@@ -1,0 +1,24 @@
+{
+  "jogo": "valorant",
+  "titulo": "3 agentes mais fáceis pra começar no Valorant de console",
+  "titulo_tela": "3 AGENTES FÁCEIS PRA COMEÇAR",
+  "roteiro": "Começou no Valorant pelo console e não sabe quem pegar? Esses três agentes são os mais fáceis. Primeiro, Sage. Ela cura o time, levanta parede e ainda revive alguém no ultimate. E no patch novo, a cura ficou mais fácil de mirar, porque agora a mira aparece na tela. Segundo, Killjoy. A torreta e o alarme vigiam o flanco pra você, e a torreta destruída volta em quarenta e cinco segundos. Terceiro, Brimstone. Você joga as fumaças direto pelo mapa, sem precisar mirar em nada. Simples e muito útil pro time. Qual desses você vai testar? Comenta aí.",
+  "legenda": "Começando no Valorant pelo controle? Esses três agentes facilitam muito a vida. Qual você vai testar primeiro?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "agentesvalorant", "ps5", "gaming", "fyp", "foryou"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v1_05.mp4", "de": 9.8, "zoom": 1.7},
+    {"inicio": "Esses", "clipe": "gameplay/valorant/v1_07.mp4", "de": 7.0, "zoom": 1.7},
+    {"inicio": "Primeiro", "clipe": "gameplay/valorant/v2_07.mp4", "de": 4.8, "zoom": 1.7},
+    {"inicio": "revive", "clipe": "gameplay/valorant/v2_00.mp4", "de": 8.5, "zoom": 1.7},
+    {"inicio": "patch", "clipe": "gameplay/valorant/v1_11.mp4", "de": 2.4, "zoom": 1.7},
+    {"inicio": "agora", "clipe": "gameplay/valorant/v2_03.mp4", "de": 13.5, "zoom": 1.7},
+    {"inicio": "Segundo", "clipe": "gameplay/valorant/v1_08.mp4", "de": 9.5, "zoom": 1.7},
+    {"inicio": "flanco", "clipe": "gameplay/valorant/v2_11.mp4", "de": 1.8, "zoom": 1.7},
+    {"inicio": "destruída", "clipe": "gameplay/valorant/v1_13.mp4", "de": 1.9, "zoom": 1.7},
+    {"inicio": "Terceiro", "clipe": "gameplay/valorant/v1_01.mp4", "de": 2.4, "zoom": 1.7},
+    {"inicio": "mapa", "clipe": "gameplay/valorant/v1_00.mp4", "de": 6.8, "zoom": 1.7},
+    {"inicio": "Simples", "clipe": "gameplay/valorant/v2_05.mp4", "de": 9.7, "zoom": 1.7},
+    {"inicio": "Qual", "clipe": "gameplay/valorant/v1_09.mp4", "de": 2.0, "zoom": 1.7}
+  ]
+}
