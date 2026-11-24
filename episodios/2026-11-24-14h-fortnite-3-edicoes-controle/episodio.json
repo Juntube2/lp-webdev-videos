@@ -1,0 +1,24 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 edições que todo jogador de controle precisa saber",
+ "titulo_tela": "3 EDIÇÕES QUE VOCÊ PRECISA SABER",
+ "roteiro": "Você ainda edita devagar no controle? Treina essas três edições. Primeira: a janela. Abre só o quadrado do meio da parede, atira e fecha na hora. Você vê o inimigo quase sem ficar exposto. Segunda: a porta. Marca os dois quadrados de baixo, no meio da parede, e passa direto sem quebrar nada. Perfeita pra sair do box rápido. Terceira: o buraco no piso. Edita um quadrado do chão e cai no andar de baixo pegando o inimigo de surpresa. Treina as três no modo criativo até sair sem pensar. Qual edição você mais usa?",
+ "legenda": "Três edições simples que mudam suas lutas no controle. Qual edição você mais usa?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "fortnitecontrole", "fortnitebuild", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f1_06.mp4", "de": 5.6, "zoom": 1.35},
+  {"inicio": "Treina", "clipe": "gameplay/fortnite/f1_00.mp4", "de": 17.3, "zoom": 1.35},
+  {"inicio": "Primeira", "clipe": "gameplay/fortnite/f1_10.mp4", "de": 1.8, "zoom": 1.35},
+  {"inicio": "Abre", "clipe": "gameplay/fortnite/f1_05.mp4", "de": 0.8, "zoom": 1.35},
+  {"inicio": "inimigo", "clipe": "gameplay/fortnite/f1_13.mp4", "de": 0.3, "zoom": 1.35},
+  {"inicio": "Segunda", "clipe": "gameplay/fortnite/f1_09.mp4", "de": 8.7, "zoom": 1.35},
+  {"inicio": "Marca", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 4.8, "zoom": 1.35},
+  {"inicio": "Perfeita", "clipe": "gameplay/fortnite/f1_02.mp4", "de": 7.3, "zoom": 1.35},
+  {"inicio": "Terceira", "clipe": "gameplay/fortnite/f1_11.mp4", "de": 14.9, "zoom": 1.35},
+  {"inicio": "chão", "clipe": "gameplay/fortnite/f1_03.mp4", "de": 13.0, "zoom": 1.35},
+  {"inicio": "surpresa", "clipe": "gameplay/fortnite/f1_08.mp4", "de": 17.8, "zoom": 1.35},
+  {"inicio": "criativo", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 15.4, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f1_06.mp4", "de": 15.9, "zoom": 1.35}
+ ]
+}
