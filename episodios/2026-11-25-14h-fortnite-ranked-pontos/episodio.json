@@ -1,0 +1,22 @@
+{
+ "jogo": "fortnite",
+ "titulo": "Pare de jogar o ranked do Fortnite igual partida normal",
+ "titulo_tela": "COMO O RANKED TE DÁ PONTOS",
+ "roteiro": "Você joga o ranked do Fortnite igual partida normal? Por isso fica travado. Primeiro: não caça abate logo no começo. Morrer cedo tira pontos, e abate no início vale pouco. Segundo: chega longe na zona. A colocação pesa muito, e o círculo que você alcança conta mais que o número exato. Terceiro: guarda a agressividade pro final. Abate com vinte jogadores vivos vale bem mais que com oitenta. E derrubar quem tem rank maior que o seu rende mais. Então sobrevive primeiro e briga no fim. E aí, você joga ranked pra abate ou pra colocação?",
+ "legenda": "Abate no começo vale pouco no ranked do Fortnite. Você joga pra abate ou pra colocação?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteranked", "fortniteclips", "fortnitecontrole", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f1_01.mp4", "de": 7.8, "zoom": 1.35},
+  {"inicio": "Por", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 3.4, "zoom": 1.35},
+  {"inicio": "Primeiro", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 11.4, "zoom": 1.35},
+  {"inicio": "Morrer", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 2.8, "zoom": 1.35},
+  {"inicio": "Segundo", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 9.5, "zoom": 1.35},
+  {"inicio": "colocação", "clipe": "gameplay/fortnite/f1_15.mp4", "de": 11.9, "zoom": 1.35},
+  {"inicio": "Terceiro", "clipe": "gameplay/fortnite/f1_01.mp4", "de": 17.2, "zoom": 1.35},
+  {"inicio": "vinte", "clipe": "gameplay/fortnite/f1_04.mp4", "de": 17.4, "zoom": 1.35},
+  {"inicio": "derrubar", "clipe": "gameplay/fortnite/f1_07.mp4", "de": 16.1, "zoom": 1.35},
+  {"inicio": "sobrevive", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 6.4, "zoom": 1.35},
+  {"inicio": "aí", "clipe": "gameplay/fortnite/f1_13.mp4", "de": 11.1, "zoom": 1.35}
+ ]
+}
