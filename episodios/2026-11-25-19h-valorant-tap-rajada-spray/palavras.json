@@ -1,0 +1,477 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.362
+},
+{
+"text": "descarrega",
+"start": 0.374,
+"end": 0.898
+},
+{
+"text": "o",
+"start": 0.909,
+"end": 0.943
+},
+{
+"text": "pente",
+"start": 0.954,
+"end": 1.222
+},
+{
+"text": "inteiro",
+"start": 1.233,
+"end": 1.579
+},
+{
+"text": "e",
+"start": 1.59,
+"end": 1.624
+},
+{
+"text": "não",
+"start": 1.635,
+"end": 1.802
+},
+{
+"text": "mata",
+"start": 1.813,
+"end": 2.115
+},
+{
+"text": "ninguém?",
+"start": 2.126,
+"end": 2.539
+},
+{
+"text": "O",
+"start": 3.304,
+"end": 3.415
+},
+{
+"text": "problema",
+"start": 3.426,
+"end": 3.895
+},
+{
+"text": "é",
+"start": 3.906,
+"end": 3.973
+},
+{
+"text": "o",
+"start": 3.984,
+"end": 4.029
+},
+{
+"text": "spray.",
+"start": 4.04,
+"end": 4.397
+},
+{
+"text": "No",
+"start": 5.167,
+"end": 5.312
+},
+{
+"text": "Valorant,",
+"start": 5.324,
+"end": 5.77
+},
+{
+"text": "o",
+"start": 6.071,
+"end": 6.127
+},
+{
+"text": "rifle",
+"start": 6.138,
+"end": 6.484
+},
+{
+"text": "é",
+"start": 6.496,
+"end": 6.54
+},
+{
+"text": "preciso",
+"start": 6.551,
+"end": 6.998
+},
+{
+"text": "nos",
+"start": 7.009,
+"end": 7.154
+},
+{
+"text": "primeiros",
+"start": 7.165,
+"end": 7.578
+},
+{
+"text": "tiros.",
+"start": 7.589,
+"end": 7.991
+},
+{
+"text": "Depois",
+"start": 8.761,
+"end": 9.174
+},
+{
+"text": "a",
+"start": 9.185,
+"end": 9.275
+},
+{
+"text": "bala",
+"start": 9.286,
+"end": 9.52
+},
+{
+"text": "sobe",
+"start": 9.531,
+"end": 9.855
+},
+{
+"text": "e",
+"start": 9.866,
+"end": 9.888
+},
+{
+"text": "espalha.",
+"start": 9.9,
+"end": 10.335
+},
+{
+"text": "Então",
+"start": 11.105,
+"end": 11.507
+},
+{
+"text": "muda",
+"start": 11.518,
+"end": 11.786
+},
+{
+"text": "o",
+"start": 11.797,
+"end": 11.83
+},
+{
+"text": "jeito",
+"start": 11.841,
+"end": 12.143
+},
+{
+"text": "de",
+"start": 12.154,
+"end": 12.221
+},
+{
+"text": "atirar",
+"start": 12.232,
+"end": 12.578
+},
+{
+"text": "pela",
+"start": 12.589,
+"end": 12.801
+},
+{
+"text": "distância.",
+"start": 12.812,
+"end": 13.393
+},
+{
+"text": "Primeiro,",
+"start": 14.163,
+"end": 14.598
+},
+{
+"text": "de",
+"start": 14.844,
+"end": 14.966
+},
+{
+"text": "longe:",
+"start": 14.978,
+"end": 15.368
+},
+{
+"text": "um",
+"start": 15.558,
+"end": 15.714
+},
+{
+"text": "tiro",
+"start": 15.725,
+"end": 15.949
+},
+{
+"text": "por",
+"start": 15.96,
+"end": 16.105
+},
+{
+"text": "vez,",
+"start": 16.116,
+"end": 16.44
+},
+{
+"text": "com",
+"start": 16.663,
+"end": 16.819
+},
+{
+"text": "a",
+"start": 16.83,
+"end": 16.864
+},
+{
+"text": "mira",
+"start": 16.875,
+"end": 17.087
+},
+{
+"text": "parada",
+"start": 17.098,
+"end": 17.478
+},
+{
+"text": "na",
+"start": 17.489,
+"end": 17.533
+},
+{
+"text": "altura",
+"start": 17.545,
+"end": 17.879
+},
+{
+"text": "da",
+"start": 17.891,
+"end": 17.98
+},
+{
+"text": "cabeça.",
+"start": 17.991,
+"end": 18.471
+},
+{
+"text": "Segundo,",
+"start": 19.241,
+"end": 19.754
+},
+{
+"text": "na",
+"start": 19.944,
+"end": 20.045
+},
+{
+"text": "média",
+"start": 20.056,
+"end": 20.357
+},
+{
+"text": "distância:",
+"start": 20.368,
+"end": 20.904
+},
+{
+"text": "rajada",
+"start": 21.183,
+"end": 21.607
+},
+{
+"text": "curta",
+"start": 21.618,
+"end": 21.942
+},
+{
+"text": "de",
+"start": 21.953,
+"end": 22.054
+},
+{
+"text": "dois",
+"start": 22.065,
+"end": 22.31
+},
+{
+"text": "ou",
+"start": 22.321,
+"end": 22.466
+},
+{
+"text": "três",
+"start": 22.478,
+"end": 22.734
+},
+{
+"text": "tiros,",
+"start": 22.746,
+"end": 23.125
+},
+{
+"text": "solta",
+"start": 23.359,
+"end": 23.661
+},
+{
+"text": "o",
+"start": 23.672,
+"end": 23.683
+},
+{
+"text": "gatilho",
+"start": 23.694,
+"end": 24.107
+},
+{
+"text": "e",
+"start": 24.118,
+"end": 24.141
+},
+{
+"text": "repete.",
+"start": 24.152,
+"end": 24.654
+},
+{
+"text": "Terceiro,",
+"start": 25.424,
+"end": 25.915
+},
+{
+"text": "de",
+"start": 26.194,
+"end": 26.317
+},
+{
+"text": "perto:",
+"start": 26.328,
+"end": 26.685
+},
+{
+"text": "aí",
+"start": 26.909,
+"end": 27.121
+},
+{
+"text": "sim",
+"start": 27.132,
+"end": 27.377
+},
+{
+"text": "pode",
+"start": 27.388,
+"end": 27.6
+},
+{
+"text": "segurar",
+"start": 27.612,
+"end": 27.98
+},
+{
+"text": "o",
+"start": 27.991,
+"end": 28.036
+},
+{
+"text": "spray,",
+"start": 28.047,
+"end": 28.393
+},
+{
+"text": "puxando",
+"start": 28.616,
+"end": 28.929
+},
+{
+"text": "a",
+"start": 28.94,
+"end": 28.984
+},
+{
+"text": "mira",
+"start": 28.996,
+"end": 29.241
+},
+{
+"text": "pra",
+"start": 29.252,
+"end": 29.375
+},
+{
+"text": "baixo",
+"start": 29.386,
+"end": 29.754
+},
+{
+"text": "pra",
+"start": 29.766,
+"end": 29.877
+},
+{
+"text": "controlar",
+"start": 29.888,
+"end": 30.335
+},
+{
+"text": "o",
+"start": 30.346,
+"end": 30.38
+},
+{
+"text": "recuo.",
+"start": 30.391,
+"end": 30.826
+},
+{
+"text": "Você",
+"start": 31.596,
+"end": 31.897
+},
+{
+"text": "é",
+"start": 31.909,
+"end": 31.975
+},
+{
+"text": "do",
+"start": 31.987,
+"end": 32.132
+},
+{
+"text": "tap",
+"start": 32.143,
+"end": 32.467
+},
+{
+"text": "ou",
+"start": 32.478,
+"end": 32.567
+},
+{
+"text": "do",
+"start": 32.578,
+"end": 32.679
+},
+{
+"text": "spray?",
+"start": 32.69,
+"end": 33.058
+},
+{
+"text": "Comenta",
+"start": 33.828,
+"end": 34.308
+},
+{
+"text": "aí.",
+"start": 34.319,
+"end": 34.576
+}
+]
