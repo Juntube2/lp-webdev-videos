@@ -1,0 +1,23 @@
+{
+  "jogo": "valorant",
+  "titulo": "Você descarrega o pente e não mata? O erro é o spray",
+  "titulo_tela": "TAP, RAJADA OU SPRAY?",
+  "roteiro": "Você descarrega o pente inteiro e não mata ninguém? O problema é o spray. No Valorant, o rifle é preciso nos primeiros tiros. Depois a bala sobe e espalha. Então muda o jeito de atirar pela distância. Primeiro, de longe: um tiro por vez, com a mira parada na altura da cabeça. Segundo, na média distância: rajada curta de dois ou três tiros, solta o gatilho e repete. Terceiro, de perto: aí sim pode segurar o spray, puxando a mira pra baixo pra controlar o recuo. Você é do tap ou do spray? Comenta aí.",
+  "legenda": "Descarregar o pente de longe não mata ninguém. Muda o jeito de atirar pela distância. Você é do tap ou do spray?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "miravalorant", "ps5", "gaming", "fyp", "foryou"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v1_12.mp4", "de": 0.6, "zoom": 1.7},
+    {"inicio": "problema", "clipe": "gameplay/valorant/v2_01.mp4", "de": 8.2, "zoom": 1.7},
+    {"inicio": "No", "clipe": "gameplay/valorant/v1_05.mp4", "de": 2.2, "zoom": 1.7},
+    {"inicio": "Depois", "clipe": "gameplay/valorant/v1_07.mp4", "de": 1.8, "zoom": 1.7},
+    {"inicio": "Então", "clipe": "gameplay/valorant/v2_09.mp4", "de": 9.6, "zoom": 1.7},
+    {"inicio": "Primeiro", "clipe": "gameplay/valorant/v1_10.mp4", "de": 10.8, "zoom": 1.7},
+    {"inicio": "mira", "clipe": "gameplay/valorant/v2_04.mp4", "de": 4.0, "zoom": 1.7},
+    {"inicio": "Segundo", "clipe": "gameplay/valorant/v2_06.mp4", "de": 11.8, "zoom": 1.7},
+    {"inicio": "solta", "clipe": "gameplay/valorant/v1_02.mp4", "de": 5.4, "zoom": 1.7},
+    {"inicio": "Terceiro", "clipe": "gameplay/valorant/v2_13.mp4", "de": 9.0, "zoom": 1.7},
+    {"inicio": "puxando", "clipe": "gameplay/valorant/v1_04.mp4", "de": 9.4, "zoom": 1.7},
+    {"inicio": "Você", "clipe": "gameplay/valorant/v2_10.mp4", "de": 3.5, "zoom": 1.7}
+  ]
+}
