@@ -1,0 +1,482 @@
+[
+{
+"text": "Você",
+"start": 0.095,
+"end": 0.385
+},
+{
+"text": "joga",
+"start": 0.396,
+"end": 0.664
+},
+{
+"text": "o",
+"start": 0.675,
+"end": 0.709
+},
+{
+"text": "ranked",
+"start": 0.72,
+"end": 1.099
+},
+{
+"text": "do",
+"start": 1.11,
+"end": 1.211
+},
+{
+"text": "Fortnite",
+"start": 1.222,
+"end": 1.869
+},
+{
+"text": "igual",
+"start": 1.88,
+"end": 2.092
+},
+{
+"text": "partida",
+"start": 2.104,
+"end": 2.45
+},
+{
+"text": "normal?",
+"start": 2.461,
+"end": 2.929
+},
+{
+"text": "Por",
+"start": 3.694,
+"end": 3.873
+},
+{
+"text": "isso",
+"start": 3.884,
+"end": 4.174
+},
+{
+"text": "fica",
+"start": 4.185,
+"end": 4.408
+},
+{
+"text": "travado.",
+"start": 4.42,
+"end": 4.888
+},
+{
+"text": "Primeiro:",
+"start": 5.659,
+"end": 6.038
+},
+{
+"text": "não",
+"start": 6.284,
+"end": 6.496
+},
+{
+"text": "caça",
+"start": 6.507,
+"end": 6.786
+},
+{
+"text": "abate",
+"start": 6.797,
+"end": 7.042
+},
+{
+"text": "logo",
+"start": 7.054,
+"end": 7.344
+},
+{
+"text": "no",
+"start": 7.355,
+"end": 7.444
+},
+{
+"text": "começo.",
+"start": 7.455,
+"end": 7.924
+},
+{
+"text": "Morrer",
+"start": 8.694,
+"end": 9.074
+},
+{
+"text": "cedo",
+"start": 9.085,
+"end": 9.364
+},
+{
+"text": "tira",
+"start": 9.375,
+"end": 9.587
+},
+{
+"text": "pontos,",
+"start": 9.598,
+"end": 10.011
+},
+{
+"text": "e",
+"start": 10.246,
+"end": 10.324
+},
+{
+"text": "abate",
+"start": 10.335,
+"end": 10.77
+},
+{
+"text": "no",
+"start": 10.781,
+"end": 10.848
+},
+{
+"text": "início",
+"start": 10.859,
+"end": 11.205
+},
+{
+"text": "vale",
+"start": 11.216,
+"end": 11.44
+},
+{
+"text": "pouco.",
+"start": 11.451,
+"end": 11.797
+},
+{
+"text": "Segundo:",
+"start": 12.567,
+"end": 13.125
+},
+{
+"text": "chega",
+"start": 13.359,
+"end": 13.65
+},
+{
+"text": "longe",
+"start": 13.661,
+"end": 14.018
+},
+{
+"text": "na",
+"start": 14.029,
+"end": 14.129
+},
+{
+"text": "zona.",
+"start": 14.141,
+"end": 14.509
+},
+{
+"text": "A",
+"start": 15.279,
+"end": 15.368
+},
+{
+"text": "colocação",
+"start": 15.379,
+"end": 15.904
+},
+{
+"text": "pesa",
+"start": 15.915,
+"end": 16.15
+},
+{
+"text": "muito,",
+"start": 16.161,
+"end": 16.529
+},
+{
+"text": "e",
+"start": 16.786,
+"end": 16.886
+},
+{
+"text": "o",
+"start": 16.897,
+"end": 16.942
+},
+{
+"text": "círculo",
+"start": 16.953,
+"end": 17.355
+},
+{
+"text": "que",
+"start": 17.366,
+"end": 17.455
+},
+{
+"text": "você",
+"start": 17.466,
+"end": 17.679
+},
+{
+"text": "alcança",
+"start": 17.69,
+"end": 18.114
+},
+{
+"text": "conta",
+"start": 18.125,
+"end": 18.415
+},
+{
+"text": "mais",
+"start": 18.426,
+"end": 18.694
+},
+{
+"text": "que",
+"start": 18.705,
+"end": 18.784
+},
+{
+"text": "o",
+"start": 18.795,
+"end": 18.828
+},
+{
+"text": "número",
+"start": 18.839,
+"end": 19.141
+},
+{
+"text": "exato.",
+"start": 19.152,
+"end": 19.554
+},
+{
+"text": "Terceiro:",
+"start": 20.324,
+"end": 20.826
+},
+{
+"text": "guarda",
+"start": 21.094,
+"end": 21.417
+},
+{
+"text": "a",
+"start": 21.429,
+"end": 21.451
+},
+{
+"text": "agressividade",
+"start": 21.462,
+"end": 22.143
+},
+{
+"text": "pro",
+"start": 22.154,
+"end": 22.288
+},
+{
+"text": "final.",
+"start": 22.299,
+"end": 22.667
+},
+{
+"text": "Abate",
+"start": 23.438,
+"end": 23.906
+},
+{
+"text": "com",
+"start": 23.917,
+"end": 24.051
+},
+{
+"text": "vinte",
+"start": 24.062,
+"end": 24.308
+},
+{
+"text": "jogadores",
+"start": 24.319,
+"end": 24.866
+},
+{
+"text": "vivos",
+"start": 24.877,
+"end": 25.201
+},
+{
+"text": "vale",
+"start": 25.212,
+"end": 25.458
+},
+{
+"text": "bem",
+"start": 25.469,
+"end": 25.67
+},
+{
+"text": "mais",
+"start": 25.681,
+"end": 25.949
+},
+{
+"text": "que",
+"start": 25.96,
+"end": 26.071
+},
+{
+"text": "com",
+"start": 26.083,
+"end": 26.205
+},
+{
+"text": "oitenta.",
+"start": 26.216,
+"end": 26.663
+},
+{
+"text": "E",
+"start": 27.433,
+"end": 27.511
+},
+{
+"text": "derrubar",
+"start": 27.522,
+"end": 27.98
+},
+{
+"text": "quem",
+"start": 27.991,
+"end": 28.158
+},
+{
+"text": "tem",
+"start": 28.17,
+"end": 28.304
+},
+{
+"text": "rank",
+"start": 28.315,
+"end": 28.583
+},
+{
+"text": "maior",
+"start": 28.594,
+"end": 28.951
+},
+{
+"text": "que",
+"start": 28.962,
+"end": 29.074
+},
+{
+"text": "o",
+"start": 29.085,
+"end": 29.118
+},
+{
+"text": "seu",
+"start": 29.129,
+"end": 29.319
+},
+{
+"text": "rende",
+"start": 29.33,
+"end": 29.609
+},
+{
+"text": "mais.",
+"start": 29.621,
+"end": 30.011
+},
+{
+"text": "Então",
+"start": 30.781,
+"end": 31.161
+},
+{
+"text": "sobrevive",
+"start": 31.172,
+"end": 31.685
+},
+{
+"text": "primeiro",
+"start": 31.696,
+"end": 32.054
+},
+{
+"text": "e",
+"start": 32.065,
+"end": 32.098
+},
+{
+"text": "briga",
+"start": 32.109,
+"end": 32.4
+},
+{
+"text": "no",
+"start": 32.411,
+"end": 32.5
+},
+{
+"text": "fim.",
+"start": 32.511,
+"end": 32.79
+},
+{
+"text": "E",
+"start": 33.56,
+"end": 33.683
+},
+{
+"text": "aí,",
+"start": 33.694,
+"end": 33.951
+},
+{
+"text": "você",
+"start": 34.23,
+"end": 34.453
+},
+{
+"text": "joga",
+"start": 34.464,
+"end": 34.721
+},
+{
+"text": "ranked",
+"start": 34.732,
+"end": 35.089
+},
+{
+"text": "pra",
+"start": 35.1,
+"end": 35.257
+},
+{
+"text": "abate",
+"start": 35.268,
+"end": 35.658
+},
+{
+"text": "ou",
+"start": 35.67,
+"end": 35.748
+},
+{
+"text": "pra",
+"start": 35.759,
+"end": 35.882
+},
+{
+"text": "colocação?",
+"start": 35.893,
+"end": 36.507
+}
+]
