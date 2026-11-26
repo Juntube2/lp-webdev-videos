@@ -1,1616 +1,1616 @@
 {
- "observacoes": [
-  "Clipes cortados das gameplays do dono. Menus, loading, telas paradas e corridas sem ação foram removidos; o áudio foi filtrado e normalizado.",
-  "Os clipes de Valorant são montagens de PC com cortes rápidos: não aponte mapa, agente ou arma específicos com marcador; use para dicas gerais.",
-  "Respeite o campo 'evitar' quando existir."
- ],
- "clipes": [
-  {
-   "arquivo": "gameplay/fortnite/f1_00.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "build fight em torre de madeira e tijolo, rampas e cone",
-   "momentos": [
+  "observacoes": [
+    "Clipes cortados das gameplays do dono. Menus, loading, telas paradas e corridas sem ação foram removidos; o áudio foi filtrado e normalizado.",
+    "Os clipes de Valorant são montagens de PC com cortes rápidos: não aponte mapa, agente ou arma específicos com marcador; use para dicas gerais.",
+    "Respeite o campo 'evitar' quando existir."
+  ],
+  "clipes": [
     {
-     "t": 6.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
+      "arquivo": "gameplay/fortnite/f1_00.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "build fight em torre de madeira e tijolo, rampas e cone",
+      "momentos": [
+        {
+          "t": 6.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 13.5,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 18.3,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
     },
     {
-     "t": 13.5,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
+      "arquivo": "gameplay/fortnite/f1_01.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "sai do box e elimina inimigo no campo aberto",
+      "momentos": [
+        {
+          "t": 0.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 8.6,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 18.0,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
     },
     {
-     "t": 18.3,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
+      "arquivo": "gameplay/fortnite/f1_02.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "rotação com rampa e troca de tiro perto de uma casa",
+      "momentos": [
+        {
+          "t": 8.2,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 14.8,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 18.2,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_03.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "sobe em rampas, troca de tiro no alto e sai voando",
+      "momentos": [
+        {
+          "t": 3.8,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 11.1,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 15.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_04.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "build e tiro com rifle (inventário aberto no começo, comece depois de 2s)",
+      "momentos": [
+        {
+          "t": 6.1,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 12.2,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 18.2,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_05.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "box fight com troca de tiro, depois sai voando",
+      "momentos": [
+        {
+          "t": 1.8,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 5.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 14.4,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_06.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "box fight em estrutura alta, edições e piece control",
+      "momentos": [
+        {
+          "t": 2.8,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 6.4,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 16.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 6,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_07.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "desce da estrutura e rusha pelo mato atirando",
+      "momentos": [
+        {
+          "t": 1.0,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        },
+        {
+          "t": 4.2,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 16.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_08.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "constrói rampa alta para pegar high ground e troca tiro",
+      "momentos": [
+        {
+          "t": 11.3,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 15.6,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 18.8,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_09.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "box fight colado no inimigo e rotação para o telhado",
+      "momentos": [
+        {
+          "t": 5.6,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        },
+        {
+          "t": 9.7,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        },
+        {
+          "t": 15.7,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_10.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "edição de parede, tiro para cima e rotação pela água",
+      "momentos": [
+        {
+          "t": 4.7,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 15.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        },
+        {
+          "t": 19.0,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_11.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "retake de high ground com rampas e troca de tiro",
+      "momentos": [
+        {
+          "t": 7.7,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 11.1,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        },
+        {
+          "t": 15.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_12.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "box de tijolo, rotação pelo lago e fight no fim",
+      "momentos": [
+        {
+          "t": 3.7,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        },
+        {
+          "t": 7.2,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 16.4,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 6,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_13.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "luta em cima de telhado na cidade",
+      "momentos": [
+        {
+          "t": 1.2,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 11.9,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 15.0,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 6,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_14.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "box fight e zona final no morro",
+      "momentos": [
+        {
+          "t": 2.6,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 5.8,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        },
+        {
+          "t": 11.4,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 6,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f1_15.mp4",
+      "jogo": "fortnite",
+      "modo": "Ranked Reload (com construção)",
+      "duracao": 20.0,
+      "mapa": "mapa do Reload",
+      "personagem": "skin colorida com capuz preto",
+      "armas": [],
+      "resumo": "tiro atrás de caixa e piece control na zona final",
+      "momentos": [
+        {
+          "t": 3.6,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 4
+        },
+        {
+          "t": 12.7,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 5
+        },
+        {
+          "t": 15.8,
+          "o_que": "troca de tiro / ação mais intensa",
+          "forca": 3
+        }
+      ],
+      "plataforma": "console",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f2_01.mp4",
+      "jogo": "fortnite",
+      "modo": "zero build",
+      "duracao": 20.0,
+      "mapa": "mapa do Battle Royale",
+      "personagem": "skin Mortuus X (prateada e roxa)",
+      "armas": [],
+      "resumo": "mira de sniper em casa e avanço pelo campo",
+      "momentos": [
+        {
+          "t": 4.1,
+          "o_que": "troca de tiro",
+          "forca": 5
+        },
+        {
+          "t": 14.4,
+          "o_que": "troca de tiro",
+          "forca": 3
+        },
+        {
+          "t": 19.1,
+          "o_que": "troca de tiro",
+          "forca": 4
+        }
+      ],
+      "plataforma": "desconhecida",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-26"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f2_02.mp4",
+      "jogo": "fortnite",
+      "modo": "zero build",
+      "duracao": 20.0,
+      "mapa": "mapa do Battle Royale",
+      "personagem": "skin Mortuus X (prateada e roxa)",
+      "armas": [],
+      "resumo": "luta dentro de casa com escudo, depois loot",
+      "momentos": [
+        {
+          "t": 1.3,
+          "o_que": "troca de tiro",
+          "forca": 3
+        },
+        {
+          "t": 5.0,
+          "o_que": "troca de tiro",
+          "forca": 5
+        },
+        {
+          "t": 17.3,
+          "o_que": "troca de tiro",
+          "forca": 3
+        }
+      ],
+      "plataforma": "desconhecida",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-26"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f2_05.mp4",
+      "jogo": "fortnite",
+      "modo": "zero build",
+      "duracao": 20.0,
+      "mapa": "mapa do Battle Royale",
+      "personagem": "skin Mortuus X (prateada e roxa)",
+      "armas": [],
+      "resumo": "atira do mato em inimigo próximo à vila",
+      "momentos": [
+        {
+          "t": 4.3,
+          "o_que": "troca de tiro",
+          "forca": 5
+        },
+        {
+          "t": 10.0,
+          "o_que": "troca de tiro",
+          "forca": 5
+        },
+        {
+          "t": 14.2,
+          "o_que": "troca de tiro",
+          "forca": 3
+        }
+      ],
+      "plataforma": "desconhecida",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-26"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f2_07.mp4",
+      "jogo": "fortnite",
+      "modo": "zero build",
+      "duracao": 20.0,
+      "mapa": "mapa do Battle Royale",
+      "personagem": "skin Mortuus X (prateada e roxa)",
+      "armas": [],
+      "resumo": "tiro de sniper e push pelo gramado",
+      "momentos": [
+        {
+          "t": 7.1,
+          "o_que": "troca de tiro",
+          "forca": 3
+        },
+        {
+          "t": 14.0,
+          "o_que": "troca de tiro",
+          "forca": 3
+        },
+        {
+          "t": 18.9,
+          "o_que": "troca de tiro",
+          "forca": 5
+        }
+      ],
+      "plataforma": "desconhecida",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-26"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f2_11.mp4",
+      "jogo": "fortnite",
+      "modo": "zero build",
+      "duracao": 20.0,
+      "mapa": "mapa do Battle Royale",
+      "personagem": "skin Mortuus X (prateada e roxa)",
+      "armas": [],
+      "resumo": "atira do alto do morro em inimigo lá embaixo",
+      "momentos": [
+        {
+          "t": 2.7,
+          "o_que": "troca de tiro",
+          "forca": 5
+        },
+        {
+          "t": 6.3,
+          "o_que": "troca de tiro",
+          "forca": 5
+        },
+        {
+          "t": 13.0,
+          "o_que": "troca de tiro",
+          "forca": 5
+        }
+      ],
+      "plataforma": "desconhecida",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-26"
+    },
+    {
+      "arquivo": "gameplay/fortnite/f2_12.mp4",
+      "jogo": "fortnite",
+      "modo": "zero build",
+      "duracao": 20.0,
+      "mapa": "mapa do Battle Royale",
+      "personagem": "skin Mortuus X (prateada e roxa)",
+      "armas": [],
+      "resumo": "pega loot no morro e enfrenta inimigo",
+      "momentos": [
+        {
+          "t": 5.3,
+          "o_que": "troca de tiro",
+          "forca": 3
+        },
+        {
+          "t": 10.9,
+          "o_que": "troca de tiro",
+          "forca": 3
+        },
+        {
+          "t": 14.4,
+          "o_que": "troca de tiro",
+          "forca": 5
+        }
+      ],
+      "plataforma": "desconhecida",
+      "qualidade": "480p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-26"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_00.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 7.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 13.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24",
+      "evitar": "transição roxa por volta de 12s"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_01.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 3.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 8.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 13.3,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_02.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 6.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 17.0,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25",
+      "evitar": "placar de derrota (LOST) entre 11s e 14s"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_03.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 3.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 8.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 12.6,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-23",
+      "evitar": "tela lilás de transição a partir de 14s"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_04.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 6.0,
+          "o_que": "round ganho (WON na tela)",
+          "forca": 5
+        },
+        {
+          "t": 6.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 10.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_05.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 10.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 13.6,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_06.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 0.5,
+          "o_que": "round ganho (WON na tela)",
+          "forca": 5
+        },
+        {
+          "t": 0.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 13.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 17.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-23"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_07.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 7.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 13.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-25",
+      "evitar": "placar na tela a partir de 14s"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_08.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 5.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 10.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 16.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_09.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 6.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 12.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_10.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 5.0,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 11.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 17.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_11.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 3.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 8.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 14.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_12.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 1.3,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 6.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 16.0,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v1_13.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.6,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 10.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 17.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24",
+      "evitar": "tela roxa de transição por volta de 9s a 10s"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_00.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 5.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 6.0,
+          "o_que": "round ganho (WON na tela)",
+          "forca": 5
+        },
+        {
+          "t": 9.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 15.0,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_01.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 3.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 8.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 11.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 12.0,
+          "o_que": "round ganho (WON na tela)",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_02.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 1.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 11.3,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 17.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-23"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_03.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 9.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 14.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 17.3,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_04.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 4.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 7.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 14.6,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_05.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 1.0,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 10.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 16.6,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_06.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 5.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 12.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 16.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_07.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 0.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 3.0,
+          "o_que": "round ganho (WON na tela)",
+          "forca": 5
+        },
+        {
+          "t": 5.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 10.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_08.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 6.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 12.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 16.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-23"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_09.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 1.0,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 10.3,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 16.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_10.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 4.2,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 10.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 17.3,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_11.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 2.5,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 9.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 14.4,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-24"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_12.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 1.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        },
+        {
+          "t": 5.0,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 10.8,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 12.0,
+          "o_que": "round ganho (WON na tela)",
+          "forca": 5
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 4,
+      "ultimo_uso": "2026-11-23"
+    },
+    {
+      "arquivo": "gameplay/valorant/v2_13.mp4",
+      "jogo": "valorant",
+      "duracao": 18.0,
+      "mapa": "vários (montagem de abates)",
+      "personagem": "vários",
+      "armas": [],
+      "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
+      "momentos": [
+        {
+          "t": 4.1,
+          "o_que": "sequência de tiros / abate",
+          "forca": 4
+        },
+        {
+          "t": 9.7,
+          "o_que": "sequência de tiros / abate",
+          "forca": 5
+        },
+        {
+          "t": 16.9,
+          "o_que": "sequência de tiros / abate",
+          "forca": 3
+        }
+      ],
+      "plataforma": "pc",
+      "qualidade": "720p",
+      "audio_ok": true,
+      "usos": 5,
+      "ultimo_uso": "2026-11-25"
     }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_01.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "sai do box e elimina inimigo no campo aberto",
-   "momentos": [
-    {
-     "t": 0.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 8.6,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 18.0,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_02.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "rotação com rampa e troca de tiro perto de uma casa",
-   "momentos": [
-    {
-     "t": 8.2,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 14.8,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 18.2,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_03.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "sobe em rampas, troca de tiro no alto e sai voando",
-   "momentos": [
-    {
-     "t": 3.8,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 11.1,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 15.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_04.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "build e tiro com rifle (inventário aberto no começo, comece depois de 2s)",
-   "momentos": [
-    {
-     "t": 6.1,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 12.2,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 18.2,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_05.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "box fight com troca de tiro, depois sai voando",
-   "momentos": [
-    {
-     "t": 1.8,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 5.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 14.4,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_06.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "box fight em estrutura alta, edições e piece control",
-   "momentos": [
-    {
-     "t": 2.8,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 6.4,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 16.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 6,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_07.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "desce da estrutura e rusha pelo mato atirando",
-   "momentos": [
-    {
-     "t": 1.0,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    },
-    {
-     "t": 4.2,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 16.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_08.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "constrói rampa alta para pegar high ground e troca tiro",
-   "momentos": [
-    {
-     "t": 11.3,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 15.6,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 18.8,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_09.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "box fight colado no inimigo e rotação para o telhado",
-   "momentos": [
-    {
-     "t": 5.6,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    },
-    {
-     "t": 9.7,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    },
-    {
-     "t": 15.7,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_10.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "edição de parede, tiro para cima e rotação pela água",
-   "momentos": [
-    {
-     "t": 4.7,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 15.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    },
-    {
-     "t": 19.0,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_11.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "retake de high ground com rampas e troca de tiro",
-   "momentos": [
-    {
-     "t": 7.7,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 11.1,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    },
-    {
-     "t": 15.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_12.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "box de tijolo, rotação pelo lago e fight no fim",
-   "momentos": [
-    {
-     "t": 3.7,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    },
-    {
-     "t": 7.2,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 16.4,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 6,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_13.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "luta em cima de telhado na cidade",
-   "momentos": [
-    {
-     "t": 1.2,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 11.9,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 15.0,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 6,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_14.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "box fight e zona final no morro",
-   "momentos": [
-    {
-     "t": 2.6,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 5.8,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    },
-    {
-     "t": 11.4,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 6,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f1_15.mp4",
-   "jogo": "fortnite",
-   "modo": "Ranked Reload (com construção)",
-   "duracao": 20.0,
-   "mapa": "mapa do Reload",
-   "personagem": "skin colorida com capuz preto",
-   "armas": [],
-   "resumo": "tiro atrás de caixa e piece control na zona final",
-   "momentos": [
-    {
-     "t": 3.6,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 4
-    },
-    {
-     "t": 12.7,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 5
-    },
-    {
-     "t": 15.8,
-     "o_que": "troca de tiro / ação mais intensa",
-     "forca": 3
-    }
-   ],
-   "plataforma": "console",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f2_01.mp4",
-   "jogo": "fortnite",
-   "modo": "zero build",
-   "duracao": 20.0,
-   "mapa": "mapa do Battle Royale",
-   "personagem": "skin Mortuus X (prateada e roxa)",
-   "armas": [],
-   "resumo": "mira de sniper em casa e avanço pelo campo",
-   "momentos": [
-    {
-     "t": 4.1,
-     "o_que": "troca de tiro",
-     "forca": 5
-    },
-    {
-     "t": 14.4,
-     "o_que": "troca de tiro",
-     "forca": 3
-    },
-    {
-     "t": 19.1,
-     "o_que": "troca de tiro",
-     "forca": 4
-    }
-   ],
-   "plataforma": "desconhecida",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-26"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f2_02.mp4",
-   "jogo": "fortnite",
-   "modo": "zero build",
-   "duracao": 20.0,
-   "mapa": "mapa do Battle Royale",
-   "personagem": "skin Mortuus X (prateada e roxa)",
-   "armas": [],
-   "resumo": "luta dentro de casa com escudo, depois loot",
-   "momentos": [
-    {
-     "t": 1.3,
-     "o_que": "troca de tiro",
-     "forca": 3
-    },
-    {
-     "t": 5.0,
-     "o_que": "troca de tiro",
-     "forca": 5
-    },
-    {
-     "t": 17.3,
-     "o_que": "troca de tiro",
-     "forca": 3
-    }
-   ],
-   "plataforma": "desconhecida",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-26"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f2_05.mp4",
-   "jogo": "fortnite",
-   "modo": "zero build",
-   "duracao": 20.0,
-   "mapa": "mapa do Battle Royale",
-   "personagem": "skin Mortuus X (prateada e roxa)",
-   "armas": [],
-   "resumo": "atira do mato em inimigo próximo à vila",
-   "momentos": [
-    {
-     "t": 4.3,
-     "o_que": "troca de tiro",
-     "forca": 5
-    },
-    {
-     "t": 10.0,
-     "o_que": "troca de tiro",
-     "forca": 5
-    },
-    {
-     "t": 14.2,
-     "o_que": "troca de tiro",
-     "forca": 3
-    }
-   ],
-   "plataforma": "desconhecida",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-26"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f2_07.mp4",
-   "jogo": "fortnite",
-   "modo": "zero build",
-   "duracao": 20.0,
-   "mapa": "mapa do Battle Royale",
-   "personagem": "skin Mortuus X (prateada e roxa)",
-   "armas": [],
-   "resumo": "tiro de sniper e push pelo gramado",
-   "momentos": [
-    {
-     "t": 7.1,
-     "o_que": "troca de tiro",
-     "forca": 3
-    },
-    {
-     "t": 14.0,
-     "o_que": "troca de tiro",
-     "forca": 3
-    },
-    {
-     "t": 18.9,
-     "o_que": "troca de tiro",
-     "forca": 5
-    }
-   ],
-   "plataforma": "desconhecida",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-26"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f2_11.mp4",
-   "jogo": "fortnite",
-   "modo": "zero build",
-   "duracao": 20.0,
-   "mapa": "mapa do Battle Royale",
-   "personagem": "skin Mortuus X (prateada e roxa)",
-   "armas": [],
-   "resumo": "atira do alto do morro em inimigo lá embaixo",
-   "momentos": [
-    {
-     "t": 2.7,
-     "o_que": "troca de tiro",
-     "forca": 5
-    },
-    {
-     "t": 6.3,
-     "o_que": "troca de tiro",
-     "forca": 5
-    },
-    {
-     "t": 13.0,
-     "o_que": "troca de tiro",
-     "forca": 5
-    }
-   ],
-   "plataforma": "desconhecida",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-26"
-  },
-  {
-   "arquivo": "gameplay/fortnite/f2_12.mp4",
-   "jogo": "fortnite",
-   "modo": "zero build",
-   "duracao": 20.0,
-   "mapa": "mapa do Battle Royale",
-   "personagem": "skin Mortuus X (prateada e roxa)",
-   "armas": [],
-   "resumo": "pega loot no morro e enfrenta inimigo",
-   "momentos": [
-    {
-     "t": 5.3,
-     "o_que": "troca de tiro",
-     "forca": 3
-    },
-    {
-     "t": 10.9,
-     "o_que": "troca de tiro",
-     "forca": 3
-    },
-    {
-     "t": 14.4,
-     "o_que": "troca de tiro",
-     "forca": 5
-    }
-   ],
-   "plataforma": "desconhecida",
-   "qualidade": "480p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-26"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_00.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 7.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 13.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24",
-   "evitar": "transição roxa por volta de 12s"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_01.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 3.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 8.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 13.3,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_02.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 6.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 17.0,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25",
-   "evitar": "placar de derrota (LOST) entre 11s e 14s"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_03.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 3.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 8.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 12.6,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-23",
-   "evitar": "tela lilás de transição a partir de 14s"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_04.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 6.0,
-     "o_que": "round ganho (WON na tela)",
-     "forca": 5
-    },
-    {
-     "t": 6.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 10.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_05.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 10.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 13.6,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_06.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 0.5,
-     "o_que": "round ganho (WON na tela)",
-     "forca": 5
-    },
-    {
-     "t": 0.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 13.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 17.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-23"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_07.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 7.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 13.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-25",
-   "evitar": "placar na tela a partir de 14s"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_08.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 5.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 10.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 16.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_09.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 6.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 12.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_10.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 5.0,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 11.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 17.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_11.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 3.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 8.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 14.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_12.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 1.3,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 6.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 16.0,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v1_13.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.6,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 10.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 17.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24",
-   "evitar": "tela roxa de transição por volta de 9s a 10s"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_00.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 5.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 6.0,
-     "o_que": "round ganho (WON na tela)",
-     "forca": 5
-    },
-    {
-     "t": 9.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 15.0,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_01.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 3.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 8.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 11.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 12.0,
-     "o_que": "round ganho (WON na tela)",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_02.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 1.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 11.3,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 17.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-23"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_03.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 9.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 14.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 17.3,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_04.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 4.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 7.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 14.6,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_05.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 1.0,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 10.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 16.6,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_06.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 5.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 12.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 16.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_07.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 0.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 3.0,
-     "o_que": "round ganho (WON na tela)",
-     "forca": 5
-    },
-    {
-     "t": 5.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 10.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_08.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 6.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 12.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 16.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-23"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_09.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 1.0,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 10.3,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 16.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_10.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 4.2,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 10.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 17.3,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_11.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 2.5,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 9.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 14.4,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-24"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_12.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 1.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    },
-    {
-     "t": 5.0,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 10.8,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 12.0,
-     "o_que": "round ganho (WON na tela)",
-     "forca": 5
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 4,
-   "ultimo_uso": "2026-11-23"
-  },
-  {
-   "arquivo": "gameplay/valorant/v2_13.mp4",
-   "jogo": "valorant",
-   "duracao": 18.0,
-   "mapa": "vários (montagem de abates)",
-   "personagem": "vários",
-   "armas": [],
-   "resumo": "montagem de abates rápidos em primeira pessoa, principalmente com rifle; corta entre rounds e mapas",
-   "momentos": [
-    {
-     "t": 4.1,
-     "o_que": "sequência de tiros / abate",
-     "forca": 4
-    },
-    {
-     "t": 9.7,
-     "o_que": "sequência de tiros / abate",
-     "forca": 5
-    },
-    {
-     "t": 16.9,
-     "o_que": "sequência de tiros / abate",
-     "forca": 3
-    }
-   ],
-   "plataforma": "pc",
-   "qualidade": "720p",
-   "audio_ok": true,
-   "usos": 5,
-   "ultimo_uso": "2026-11-25"
-  }
- ]
+  ]
 }
