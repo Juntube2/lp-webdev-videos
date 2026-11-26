@@ -1,0 +1,106 @@
+{
+  "jogo": "valorant",
+  "titulo": "Você morre sem ver o inimigo? Ele te ouviu primeiro",
+  "titulo_tela": "3 ERROS QUE TE ENTREGAM PELO SOM",
+  "roteiro": "Você morre sem nem ver o inimigo? Ele te ouviu primeiro. No Valorant, som é informação, e tem três erros que te entregam. Primeiro: correr perto do inimigo. Passo correndo dá pra ouvir de longe. Chegando perto do bomb ou do ângulo, anda devagar, porque andando o passo não faz barulho. Segundo: pular à toa. Quando você cai no chão, faz barulho de aterrissagem e o inimigo já sabe onde você está. Terceiro: jogar sem fone. É no fone que você ouve de que lado vem o passo. E você, joga com fone ou na caixa de som? Comenta aí.",
+  "legenda": "Quem faz barulho morre primeiro. Anda perto do inimigo, para de pular à toa e joga de fone. Você joga com fone ou na caixa de som?",
+  "hashtags": [
+    "valorant",
+    "valorantconsole",
+    "valorantbrasil",
+    "dicasvalorant",
+    "valorantclips",
+    "ps5",
+    "xbox",
+    "gaming",
+    "fyp",
+    "foryou"
+  ],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {
+      "inicio": "",
+      "clipe": "gameplay/valorant/v1_06.mp4",
+      "de": 0.2,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Ele",
+      "clipe": "gameplay/valorant/v2_08.mp4",
+      "de": 6.2,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "No",
+      "clipe": "gameplay/valorant/v2_12.mp4",
+      "de": 10.2,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "tem",
+      "clipe": "gameplay/valorant/v1_03.mp4",
+      "de": 2.9,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Primeiro",
+      "clipe": "gameplay/valorant/v2_02.mp4",
+      "de": 10.8,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Passo",
+      "clipe": "gameplay/valorant/v1_01.mp4",
+      "de": 8.3,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Chegando",
+      "clipe": "gameplay/valorant/v2_00.mp4",
+      "de": 13.2,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "porque",
+      "clipe": "gameplay/valorant/v2_11.mp4",
+      "de": 8.8,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Segundo",
+      "clipe": "gameplay/valorant/v1_08.mp4",
+      "de": 4.8,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Quando",
+      "clipe": "gameplay/valorant/v2_03.mp4",
+      "de": 9.3,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "inimigo",
+      "clipe": "gameplay/valorant/v2_05.mp4",
+      "de": 0.4,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "Terceiro",
+      "clipe": "gameplay/valorant/v1_11.mp4",
+      "de": 13.0,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "É",
+      "clipe": "gameplay/valorant/v2_07.mp4",
+      "de": 10.0,
+      "zoom": 1.7
+    },
+    {
+      "inicio": "E",
+      "clipe": "gameplay/valorant/v1_00.mp4",
+      "de": 1.8,
+      "zoom": 1.7
+    }
+  ]
+}
