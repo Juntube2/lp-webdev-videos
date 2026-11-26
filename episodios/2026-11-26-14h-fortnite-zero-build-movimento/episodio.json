@@ -1,0 +1,22 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 movimentos pra parar de tomar tiro no zero build",
+ "titulo_tela": "PARE DE TOMAR TIRO NO ZERO BUILD",
+ "roteiro": "Você corre no campo aberto e toma tiro de todo lado? No zero build, cobertura é tudo. Primeiro: nunca atravessa reto. Vai de árvore em pedra, de pedra em casa, sempre perto de algo pra se esconder. Segundo: usa o deslize. Correndo, aperta agachar e você desce o morro mais rápido e fica mais difícil de acertar. Terceiro: escala. Pula perto de um muro ou janela e o boneco sobe sozinho, ótimo pra fugir ou pegar o alto. E no tiroteio, não fica parado: atira, se esconde e volta por outro lado. Qual desses você mais usa? Comenta aí.",
+ "legenda": "Cobertura, deslize e escalada: o básico pra sobreviver no zero build. Qual desses você mais usa?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "zerobuild", "fortniteclips", "fortnitecontrole", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f2_11.mp4", "de": 2.0, "zoom": 1.35},
+  {"inicio": "No", "clipe": "gameplay/fortnite/f2_05.mp4", "de": 3.5, "zoom": 1.35},
+  {"inicio": "Primeiro", "clipe": "gameplay/fortnite/f2_07.mp4", "de": 9.0, "zoom": 1.35},
+  {"inicio": "Vai", "clipe": "gameplay/fortnite/f2_01.mp4", "de": 8.0, "zoom": 1.35},
+  {"inicio": "sempre", "clipe": "gameplay/fortnite/f2_12.mp4", "de": 1.0, "zoom": 1.35},
+  {"inicio": "Segundo", "clipe": "gameplay/fortnite/f2_11.mp4", "de": 10.0, "zoom": 1.35},
+  {"inicio": "Correndo", "clipe": "gameplay/fortnite/f2_01.mp4", "de": 14.5, "zoom": 1.35},
+  {"inicio": "Terceiro", "clipe": "gameplay/fortnite/f2_02.mp4", "de": 4.2, "zoom": 1.35},
+  {"inicio": "Pula", "clipe": "gameplay/fortnite/f2_12.mp4", "de": 13.6, "zoom": 1.35},
+  {"inicio": "tiroteio", "clipe": "gameplay/fortnite/f2_05.mp4", "de": 9.3, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f2_02.mp4", "de": 12.0, "zoom": 1.35}
+ ]
+}
