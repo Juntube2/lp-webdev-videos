@@ -1,0 +1,22 @@
+{
+ "jogo": "fortnite",
+ "titulo": "3 erros que te fazem perder a luta de perto no Fortnite",
+ "titulo_tela": "PARE DE PERDER LUTA DE PERTO",
+ "roteiro": "Perde toda luta de perto no controle? Para de fazer isso. Primeiro: atirar sem mirar. Aperta o gatilho de mira antes do tiro, porque é aí que a assistência de mira puxa pro inimigo. Segundo: ficar parado. Enquanto atira, anda de um lado pro outro e agacha de vez em quando, assim o inimigo erra o tiro na cabeça. Terceiro: ficar esperando a escopeta. Deu o tiro e não matou? Troca de arma na hora e termina a luta. E nunca entra na briga com a vida baixa: cura antes. Qual desses erros você comete? Comenta aí.",
+ "legenda": "Mirar antes de atirar, não ficar parado e trocar de arma rápido: o básico pra ganhar a luta de perto no controle. Qual desses erros você comete?",
+ "hashtags": ["fortnite", "fortnitebrasil", "dicasfortnite", "fortniteps5", "fortniteclips", "fortnitecontrole", "boxfight", "gaming", "fyp", "foryou"],
+ "volume_jogo": 0.22,
+ "cenas": [
+  {"inicio": "", "clipe": "gameplay/fortnite/f1_05.mp4", "de": 5.2, "zoom": 1.35},
+  {"inicio": "Primeiro", "clipe": "gameplay/fortnite/f1_09.mp4", "de": 9.0, "zoom": 1.35},
+  {"inicio": "Aperta", "clipe": "gameplay/fortnite/f1_02.mp4", "de": 17.0, "zoom": 1.35},
+  {"inicio": "porque", "clipe": "gameplay/fortnite/f1_11.mp4", "de": 10.4, "zoom": 1.35},
+  {"inicio": "Segundo", "clipe": "gameplay/fortnite/f1_08.mp4", "de": 15.0, "zoom": 1.35},
+  {"inicio": "Enquanto", "clipe": "gameplay/fortnite/f1_00.mp4", "de": 6.2, "zoom": 1.35},
+  {"inicio": "assim", "clipe": "gameplay/fortnite/f1_03.mp4", "de": 15.2, "zoom": 1.35},
+  {"inicio": "Terceiro", "clipe": "gameplay/fortnite/f1_13.mp4", "de": 14.3, "zoom": 1.35},
+  {"inicio": "Deu", "clipe": "gameplay/fortnite/f1_14.mp4", "de": 5.2, "zoom": 1.35},
+  {"inicio": "nunca", "clipe": "gameplay/fortnite/f1_10.mp4", "de": 8.5, "zoom": 1.35},
+  {"inicio": "Qual", "clipe": "gameplay/fortnite/f1_12.mp4", "de": 3.0, "zoom": 1.35}
+ ]
+}
