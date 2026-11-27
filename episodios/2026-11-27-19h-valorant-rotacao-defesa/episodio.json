@@ -1,0 +1,24 @@
+{
+  "jogo": "valorant",
+  "titulo": "Você perde o bomb porque rodou cedo demais",
+  "titulo_tela": "3 ERROS DE ROTAÇÃO NA DEFESA",
+  "roteiro": "Você perde o bomb porque rodou cedo demais. Na defesa, rotação errada entrega o round. E tem três erros que todo mundo comete. Primeiro: rodar no primeiro barulho. Um inimigo fazendo barulho no outro bomb pode ser só uma finta. Espera a informação certa: spike vista, três ou mais inimigos, utilitário gasto. Segundo: rodar sozinho. Chega um de cada vez e morre um de cada vez. Roda junto com o time. Terceiro: ficar no bomb caçando abate. Seu trabalho ali é atrasar, ganhar tempo até a ajuda chegar. E você, roda cedo ou espera a informação? Comenta aí.",
+  "legenda": "Rotação apressada perde round. Espera a informação, roda junto com o time e atrasa quando estiver sozinho no bomb. Você roda cedo ou espera?",
+  "hashtags": ["valorant", "valorantconsole", "valorantbrasil", "dicasvalorant", "valorantclips", "ps5", "xbox", "gaming", "fyp", "foryou"],
+  "volume_jogo": 0.22,
+  "cenas": [
+    {"inicio": "", "clipe": "gameplay/valorant/v2_01.mp4", "de": 2.6, "zoom": 1.7},
+    {"inicio": "Na", "clipe": "gameplay/valorant/v1_04.mp4", "de": 5.4, "zoom": 1.7},
+    {"inicio": "tem", "clipe": "gameplay/valorant/v1_13.mp4", "de": 12.0, "zoom": 1.7},
+    {"inicio": "Primeiro", "clipe": "gameplay/valorant/v2_13.mp4", "de": 3.4, "zoom": 1.7},
+    {"inicio": "Um", "clipe": "gameplay/valorant/v1_10.mp4", "de": 13.0, "zoom": 1.7},
+    {"inicio": "Espera", "clipe": "gameplay/valorant/v2_06.mp4", "de": 5.0, "zoom": 1.7},
+    {"inicio": "Segundo", "clipe": "gameplay/valorant/v2_04.mp4", "de": 7.1, "zoom": 1.7},
+    {"inicio": "Chega", "clipe": "gameplay/valorant/v1_02.mp4", "de": 0.5, "zoom": 1.7},
+    {"inicio": "Roda", "clipe": "gameplay/valorant/v2_09.mp4", "de": 0.4, "zoom": 1.7},
+    {"inicio": "Terceiro", "clipe": "gameplay/valorant/v1_05.mp4", "de": 4.5, "zoom": 1.7},
+    {"inicio": "Seu", "clipe": "gameplay/valorant/v2_10.mp4", "de": 9.7, "zoom": 1.7},
+    {"inicio": "ganhar", "clipe": "gameplay/valorant/v1_12.mp4", "de": 9.5, "zoom": 1.7},
+    {"inicio": "E", "clipe": "gameplay/valorant/v1_09.mp4", "de": 12.1, "zoom": 1.7}
+  ]
+}
